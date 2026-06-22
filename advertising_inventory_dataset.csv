@@ -1,0 +1,1001 @@
+business_type,target_demographic,target_location,campaign_budget_lkr,campaign_goal,listing_type,placement_name,channel_type,district,base_cost_lkr,primary_audience,estimated_reach,historical_ctr,historical_roi,historical_conversion_rate,previous_bookings,budget_gap_lkr,audience_match_score,location_match_score,channel_match_score,reach_to_cost_ratio,match_score
+Travel & Tourism,25-34,Katunayake,243611,Product Launch,Vehicle Wrap Media,Truck Wrap,Outdoor,Gampaha,67816,25-34,11190,0.0293,0.99,0.0673,5,175795,0.8572,0.64,0.521,0.165005,0.6436
+Healthcare,35-44,Kadawatha,220076,Sales Conversion,Vehicle Wrap Media,Van Wrap,Visual,Gampaha,182976,35-44,89781,0.029,1.12,0.0685,20,37100,0.9487,0.512,0.9092,0.490671,0.6003
+Education,18-24,Battaramulla,231117,Lead Generation,Retail & Premises Signage,Counter Display,Visual,Colombo,162472,18-24,8918,0.0207,0.29,0.0297,14,68645,1.0,0.7843,0.7442,0.054889,0.6784
+Real Estate,25-34,Kollupitiya,31689,Website Traffic,Outdoor Static Structure,Highway Billboard,Digital,Colombo,150146,25-34,101253,0.023,0.6,0.0589,10,-118457,0.7894,0.9189,0.7869,0.674364,0.4844
+FMCG,55+,Bambalapitiya,219782,Customer Retention,Event Sponsorship,Title Sponsor,Event,Colombo,548297,55+,24724,0.0228,0.67,0.0405,24,-328515,0.8519,0.7748,0.6847,0.045092,0.4859
+E-commerce,45-54,Wellawatte,297233,Lead Generation,Outdoor Static Structure,Transit Shelter,Outdoor,Colombo,105357,45-54,25210,0.0215,0.71,0.0484,18,191876,0.9242,0.8943,0.5002,0.239282,0.6828
+Entertainment,55+,Pettah,293931,Brand Awareness,Vehicle Wrap Media,Car Wrap,Outdoor,Colombo,62953,55+,72690,0.0227,0.97,0.0343,20,230978,0.8473,0.7855,0.5166,1.154671,0.6377
+Food & Beverage,35-44,Mathugama,78978,Customer Retention,Outdoor Static Structure,Street Pole Banner,Digital,Kalutara,118198,35-44,31721,0.0186,0.83,0.067,47,-39220,1.0,0.3361,0.8759,0.268372,0.7669
+Entertainment,45-54,Kandana,32819,Event Promotion,Vehicle Wrap Media,Truck Wrap,Outdoor,Gampaha,70066,45-54,60920,0.0137,1.07,0.0588,22,-37247,0.9896,0.58,0.5787,0.869466,0.5733
+Healthcare,25-34,Bulathsinhala,679581,Product Launch,Retail & Premises Signage,Storefront Display,Visual,Kalutara,87049,25-34,14583,0.0337,1.01,0.0769,6,592532,0.9293,0.302,0.5724,0.167526,0.559
+Hospitality,35-44,Beruwala,107230,Brand Awareness,Newsletter Ad,Special Edition,Digital,Kalutara,24286,35-44,16976,0.0524,1.84,0.0657,39,82944,0.8002,0.6916,0.719,0.699004,0.7288
+Retail,35-44,Ja-Ela,288111,Product Launch,Vehicle Wrap Media,Bus Wrap,Visual,Gampaha,45659,35-44,63289,0.0322,0.92,0.0667,27,242452,0.9053,0.5593,0.7506,1.386123,0.7438
+Telecommunications,55+,Dodangoda,55070,Website Traffic,Event Sponsorship,Presenting Sponsor,Event,Kalutara,147759,55+,13800,0.0283,0.91,0.0465,26,-92689,0.7896,0.624,0.8902,0.093395,0.5921
+Luxury Goods,Young Professionals,Minuwangoda,209158,Customer Retention,Newsletter Ad,Industry Digest,Digital,Gampaha,7059,Young Professionals,44244,0.0717,0.68,0.0539,42,202099,0.865,0.5876,0.5175,6.267743,0.6925
+Real Estate,Affluent,Bambalapitiya,312925,Product Launch,Retail & Premises Signage,Window Display,Visual,Colombo,43094,Affluent,31900,0.0261,1.45,0.0843,19,269831,0.9186,0.9386,0.6219,0.740242,0.6668
+Automotive,25-34,Kalutara Town,99522,Event Promotion,Outdoor Static Structure,Street Pole Banner,Digital,Kalutara,114350,25-34,14211,0.0249,1.47,0.0706,26,-14828,0.7816,0.3481,0.6538,0.124276,0.5743
+Hospitality,18-24,Aluthgama,434504,Product Launch,Outdoor Static Structure,Highway Billboard,Digital,Kalutara,116435,18-24,20639,0.012,0.64,0.0431,10,318069,0.7564,0.5013,0.8854,0.177258,0.5235
+Luxury Goods,55+,Horana,250237,Sales Conversion,Outdoor Static Structure,City Center Billboard,Outdoor,Kalutara,125317,55+,15372,0.0159,0.8,0.0404,44,124920,0.8781,0.3285,0.6435,0.122665,0.5179
+Food & Beverage,55+,Battaramulla,298414,Brand Awareness,Social Media Placement,Instagram Story,Digital,Colombo,72177,55+,524747,0.0234,0.62,0.035,17,226237,0.7279,0.9329,0.6534,7.27028,0.7569
+Retail,35-44,Dehiwala,149312,Customer Retention,TV Spot,Prime Time,Audio,Colombo,167176,35-44,111948,0.0293,1.07,0.0588,39,-17864,0.7708,0.7986,0.8026,0.669642,0.5973
+Healthcare,Students,Pettah,342918,Lead Generation,TV Spot,Prime Time,Audio,Colombo,184651,Students,209467,0.0261,0.34,0.0319,28,158267,0.9704,0.9466,0.8178,1.134394,0.806
+Hospitality,35-44,Wattala,191636,Customer Retention,Cinema Advertising,Pre-show Ad,Cinema,Gampaha,156058,35-44,24612,0.0188,0.89,0.0431,16,35578,1.0,0.788,0.8349,0.157711,0.7524
+FMCG,Young Professionals,Mathugama,78571,Event Promotion,Radio Spot,Weekend Slot,Audio,Kalutara,39837,Young Professionals,30037,0.0291,0.65,0.0676,7,38734,0.7944,0.4178,0.9481,0.753998,0.5409
+Luxury Goods,35-44,Nugegoda,136831,Website Traffic,Radio Spot,Evening Drive,Audio,Colombo,51331,35-44,164817,0.0127,0.84,0.0553,51,85500,0.7587,0.9441,0.8081,3.210867,0.6809
+Food & Beverage,Families,Ingiriya,99739,Website Traffic,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Kalutara,225374,Families,49769,0.033,1.28,0.0409,52,-125635,1.0,0.4875,0.6867,0.220828,0.5983
+Healthcare,45-54,Gampaha Town,232633,Customer Retention,Social Media Placement,Facebook Feed,Digital,Gampaha,94511,45-54,308043,0.0253,0.58,0.038,40,138122,0.7966,0.5397,0.8022,3.259335,0.719
+Retail,18-24,Maradana,243594,Customer Retention,Newsletter Ad,Special Edition,Print,Colombo,11521,18-24,47968,0.0278,0.54,0.041,48,232073,0.905,0.8824,0.7865,4.163527,0.6302
+Real Estate,45-54,Kandana,103446,App Downloads,Radio Spot,Prime Time Slot,Audio,Gampaha,79915,45-54,279354,0.0224,0.91,0.0489,17,23531,0.9876,0.6195,0.7418,3.495639,0.5364
+Hospitality,35-44,Kandana,113580,Website Traffic,Print Publication Ad,Newspaper Half Page,Digital,Gampaha,59465,35-44,64437,0.0177,1.31,0.0555,20,54115,0.9011,0.687,0.6602,1.083612,0.5494
+Telecommunications,18-24,Pettah,280218,Sales Conversion,Outdoor Static Structure,Highway Billboard,Digital,Colombo,148873,18-24,22448,0.0166,0.58,0.0352,15,131345,0.9192,0.9162,0.5281,0.150786,0.7595
+Financial Services,18-24,Kadawatha,199923,Customer Retention,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Gampaha,106670,18-24,32520,0.0291,0.47,0.034,15,93253,0.7918,0.5419,0.9007,0.304865,0.764
+Hospitality,45-54,Katunayake,157891,App Downloads,TV Spot,Sports Program,Audio,Gampaha,216105,45-54,122448,0.0186,1.08,0.0396,33,-58214,0.9528,0.583,0.5458,0.566613,0.5686
+Telecommunications,Young Professionals,Bambalapitiya,84674,Customer Retention,Digital Out-of-Home Screen,Train Station Screen,Digital,Colombo,96979,Young Professionals,26716,0.0468,0.98,0.0599,43,-12305,0.9332,0.8605,0.7145,0.275482,0.6612
+Retail,18-24,Pettah,71209,Event Promotion,Cinema Advertising,Tickets Ad,Cinema,Colombo,192417,18-24,24284,0.0184,0.59,0.0351,10,-121208,1.0,0.8647,0.5908,0.126205,0.4201
+Healthcare,45-54,Kollupitiya,404091,Brand Awareness,Radio Spot,Weekend Slot,Audio,Colombo,68278,45-54,529780,0.0186,1.21,0.0458,56,335813,0.9311,0.9165,0.5216,7.759161,0.7283
+Healthcare,55+,Pettah,638744,Product Launch,TV Spot,Weekend,Audio,Colombo,348386,55+,392268,0.0235,1.04,0.0449,40,290358,0.9208,0.8316,0.7599,1.125958,0.8897
+Real Estate,35-44,Dehiwala,185712,Sales Conversion,Vehicle Wrap Media,Three-Wheeler Wrap,Visual,Colombo,129437,35-44,135251,0.0304,1.63,0.0657,38,56275,0.9904,0.7935,0.6118,1.044918,0.84
+Travel & Tourism,35-44,Mount Lavinia,100611,App Downloads,Social Media Placement,Facebook Feed,Digital,Colombo,51710,35-44,521198,0.0302,1.29,0.055,43,48901,0.9913,0.7755,0.6556,10.07925,0.8521
+Real Estate,Families,Mahabage,113920,App Downloads,Digital Out-of-Home Screen,Mall Digital Screen,Digital,Gampaha,282806,Families,16572,0.0359,1.1,0.0697,35,-168886,1.0,0.7017,0.773,0.058598,0.774
+Telecommunications,Young Professionals,Wattala,740904,Product Launch,Event Sponsorship,Exhibition Booth,Event,Gampaha,359225,Young Professionals,11369,0.041,0.53,0.0534,54,381679,0.9116,0.7113,0.5514,0.031649,0.6032
+Financial Services,Families,Horana,207230,Lead Generation,Print Publication Ad,Magazine Spread,Print,Kalutara,17779,Families,8220,0.0158,0.79,0.0636,13,189451,0.9345,0.5061,0.939,0.462343,0.8545
+Financial Services,35-44,Dehiwala,223974,Brand Awareness,Social Media Placement,TikTok Feed,Digital,Colombo,24815,35-44,579008,0.0292,1.03,0.0551,25,199159,1.0,0.8322,0.6803,23.332984,0.513
+Travel & Tourism,35-44,Pettah,191378,App Downloads,Web Display Inventory,Video Ad,Digital,Colombo,88275,35-44,500329,0.0282,0.47,0.071,16,103103,0.8089,0.8785,0.6527,5.667845,0.7116
+Real Estate,All Ages,Beruwala,170639,Customer Retention,Web Display Inventory,Sidebar Ad,Digital,Kalutara,78078,All Ages,40855,0.0165,0.85,0.0432,29,92561,1.0,0.5816,0.9098,0.523259,0.757
+E-commerce,25-34,Nugegoda,197573,Sales Conversion,Native / Sponsored Content,Featured Content,Digital,Colombo,49389,25-34,223115,0.0525,1.02,0.0615,30,148184,0.9334,0.7546,0.7182,4.517504,0.8811
+Education,Students,Pettah,216986,Customer Retention,Radio Spot,Prime Time Slot,Audio,Colombo,97566,Students,441924,0.0214,0.53,0.0324,28,119420,0.9351,0.8492,0.8241,4.529488,0.6355
+Education,45-54,Bulathsinhala,199353,Sales Conversion,Outdoor Static Structure,Street Pole Banner,Outdoor,Kalutara,116983,45-54,13918,0.0189,1.2,0.0469,21,82370,0.9277,0.3273,0.8767,0.118975,0.7137
+Financial Services,25-34,Bandaragama,192653,App Downloads,Radio Spot,Evening Drive,Audio,Kalutara,35628,25-34,27662,0.0269,0.96,0.0502,25,157025,1.0,0.3426,0.5338,0.776412,0.5557
+Real Estate,18-24,Kadawatha,201412,Lead Generation,Radio Spot,Prime Time Slot,Audio,Gampaha,73180,18-24,215872,0.019,0.45,0.0312,27,128232,0.8774,0.6897,0.8928,2.949877,0.7221
+Fashion,18-24,Ingiriya,150908,App Downloads,Native / Sponsored Content,Article Sponsorship,Digital,Kalutara,26164,18-24,66151,0.0326,0.53,0.0357,45,124744,0.896,0.6448,0.88,2.528321,0.7368
+FMCG,25-34,Battaramulla,57601,Website Traffic,Retail & Premises Signage,In-Store Digital,Outdoor,Colombo,67334,25-34,19215,0.0378,1.04,0.078,40,-9733,0.9836,0.8561,0.6921,0.285368,0.6735
+Travel & Tourism,Families,Bambalapitiya,380378,Product Launch,Print Publication Ad,Magazine Spread,Digital,Colombo,18167,Families,56386,0.0228,0.8,0.0496,4,362211,1.0,0.9197,0.5015,3.10376,0.5119
+Healthcare,Families,Divulapitiya,210906,Brand Awareness,Print Publication Ad,Magazine Spread,Digital,Gampaha,20828,Families,205365,0.0142,1.15,0.0496,39,190078,1.0,0.8462,0.8345,9.860044,0.7254
+Telecommunications,35-44,Bulathsinhala,87909,Lead Generation,Social Media Placement,TikTok Feed,Digital,Kalutara,27796,35-44,180365,0.0297,0.94,0.0585,25,60113,0.8668,0.6263,0.601,6.488883,0.6578
+Healthcare,35-44,Bulathsinhala,200793,Lead Generation,Retail & Premises Signage,Storefront Display,Outdoor,Kalutara,26295,35-44,11345,0.0264,0.82,0.0513,4,174498,0.9602,0.513,0.933,0.431451,0.7027
+E-commerce,25-34,Wellawatte,97887,Website Traffic,Event Sponsorship,Exhibition Booth,Event,Colombo,312279,25-34,44948,0.0419,0.85,0.0604,11,-214392,0.8072,0.9645,0.9326,0.143935,0.7113
+Healthcare,18-24,Panadura,231740,Customer Retention,Print Publication Ad,Magazine Spread,Digital,Kalutara,82828,18-24,48375,0.012,0.49,0.036,40,148912,0.765,0.516,0.8509,0.584042,0.607
+FMCG,All Ages,Mount Lavinia,200739,Customer Retention,Newsletter Ad,Monthly Newsletter,Print,Colombo,20274,All Ages,9582,0.0486,0.83,0.0423,16,180465,0.952,0.9615,0.9381,0.472625,0.8181
+Hospitality,18-24,Negombo,380167,Product Launch,Cinema Advertising,Tickets Ad,Cinema,Gampaha,124662,18-24,54337,0.0158,0.43,0.0261,28,255505,0.6801,0.5573,0.8577,0.435875,0.4983
+Food & Beverage,18-24,Nugegoda,485294,Brand Awareness,Outdoor Static Structure,Building Wrap,Digital,Colombo,206237,18-24,111132,0.0101,0.62,0.032,27,279057,0.9354,0.9145,0.7532,0.538856,0.6543
+Automotive,25-34,Battaramulla,136465,Brand Awareness,Print Publication Ad,Newspaper Half Page,Digital,Colombo,68398,25-34,49447,0.0192,1.13,0.0669,28,68067,0.895,0.7376,0.8085,0.72293,0.5708
+Real Estate,25-34,Gampaha Town,296087,Sales Conversion,Newsletter Ad,Industry Digest,Print,Gampaha,4721,25-34,15070,0.0717,1.21,0.0602,29,291366,0.8033,0.5847,0.944,3.19212,0.7801
+Real Estate,18-24,Colombo Fort,142948,Website Traffic,Digital Out-of-Home Screen,Train Station Screen,Digital,Colombo,90943,18-24,43533,0.0275,0.45,0.0297,39,52005,0.9623,0.76,0.5754,0.478684,0.644
+Financial Services,55+,Bandaragama,126607,App Downloads,Radio Spot,Prime Time Slot,Audio,Kalutara,88367,55+,143159,0.0155,1.1,0.0478,28,38240,0.9851,0.4924,0.5183,1.62005,0.6242
+Financial Services,Young Professionals,Pettah,57122,Event Promotion,Digital Out-of-Home Screen,Airport Digital Display,Digital,Colombo,186394,Young Professionals,225585,0.0436,0.86,0.0549,14,-129272,0.6503,0.848,0.5367,1.210259,0.4281
+Telecommunications,55+,Ja-Ela,586301,Product Launch,Print Publication Ad,Newspaper Full Page,Print,Gampaha,38146,55+,75991,0.0106,0.89,0.0495,59,548155,0.8417,0.7122,0.769,1.992109,0.6145
+Technology,35-44,Panadura,121830,Customer Retention,TV Spot,Daytime,Audio,Kalutara,223675,35-44,267927,0.0297,0.96,0.0629,31,-101845,0.9129,0.4781,0.7317,1.197841,0.6632
+E-commerce,35-44,Bandaragama,214184,Sales Conversion,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Kalutara,123988,35-44,27419,0.0326,1.0,0.0532,25,90196,1.0,0.3583,0.7022,0.221142,0.604
+Luxury Goods,18-24,Gampaha Town,83523,Customer Retention,Web Display Inventory,Video Ad,Digital,Gampaha,42811,18-24,209431,0.0207,0.46,0.0407,25,40712,0.9044,0.8453,0.5553,4.89199,0.5008
+Food & Beverage,35-44,Battaramulla,187641,Customer Retention,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Colombo,255781,35-44,17755,0.0396,1.01,0.0641,37,-68140,1.0,0.7419,0.5135,0.069415,0.6077
+Real Estate,55+,Wattala,126795,Lead Generation,Retail & Premises Signage,In-Store Digital,Visual,Gampaha,173372,55+,26276,0.0143,0.79,0.0409,35,-46577,0.8808,0.6997,0.5137,0.151558,0.5459
+Telecommunications,45-54,Panadura,550182,Product Launch,Native / Sponsored Content,Featured Content,Digital,Kalutara,128023,45-54,12905,0.0311,0.95,0.0525,34,422159,1.0,0.4617,0.6472,0.100802,0.6925
+Automotive,All Ages,Katunayake,109693,App Downloads,Native / Sponsored Content,Review Sponsorship,Digital,Gampaha,39695,All Ages,95074,0.0432,1.21,0.0588,36,69998,1.0,0.691,0.7,2.395113,0.7304
+Food & Beverage,45-54,Wattala,668000,Product Launch,Digital Out-of-Home Screen,Mall Digital Screen,Digital,Gampaha,270917,45-54,118615,0.0212,0.35,0.0513,24,397083,1.0,0.6824,0.8701,0.437828,0.7654
+Hospitality,25-34,Mathugama,145018,Sales Conversion,Print Publication Ad,Classified,Digital,Kalutara,33384,25-34,77054,0.014,1.01,0.0701,21,111634,0.9163,0.5871,0.68,2.308112,0.5456
+FMCG,25-34,Kollupitiya,125208,Website Traffic,Social Media Placement,TikTok Feed,Digital,Colombo,97766,25-34,341184,0.0376,0.99,0.0783,41,27442,1.0,0.9653,0.6026,3.489802,0.7393
+Travel & Tourism,35-44,Pettah,322506,Lead Generation,Digital Out-of-Home Screen,Mall Digital Screen,Digital,Colombo,153786,35-44,220844,0.0315,1.19,0.0693,36,168720,0.8372,0.7459,0.6059,1.436047,0.6629
+Financial Services,25-34,Maradana,106555,Website Traffic,Newsletter Ad,Industry Digest,Print,Colombo,19104,25-34,58845,0.052,0.62,0.0575,15,87451,0.9569,0.7822,0.5357,3.080245,0.8136
+Real Estate,35-44,Mount Lavinia,190662,Brand Awareness,Outdoor Static Structure,Highway Billboard,Digital,Colombo,124973,35-44,20774,0.0262,1.25,0.0479,21,65689,1.0,0.8371,0.5856,0.166228,0.6845
+Hospitality,18-24,Nugegoda,99657,Website Traffic,Vehicle Wrap Media,Car Wrap,Visual,Colombo,62197,18-24,119849,0.0248,0.47,0.0276,28,37460,1.0,0.9386,0.9172,1.926926,0.6195
+Healthcare,45-54,Maradana,187590,Event Promotion,Retail & Premises Signage,Counter Display,Outdoor,Colombo,84062,45-54,34206,0.0207,1.1,0.0522,25,103528,0.9092,0.8025,0.6714,0.406914,0.578
+Technology,25-34,Wellawatte,178467,Event Promotion,Newsletter Ad,Special Edition,Digital,Colombo,24413,25-34,126600,0.0443,0.85,0.0695,60,154054,0.9267,0.937,0.6371,5.185762,0.7554
+E-commerce,Affluent,Pettah,136524,Sales Conversion,Outdoor Static Structure,Street Pole Banner,Outdoor,Colombo,138176,Affluent,54878,0.0279,1.36,0.0632,18,-1652,0.8695,0.8103,0.5307,0.39716,0.6326
+Telecommunications,18-24,Wellawatte,104716,Event Promotion,Cinema Advertising,Tickets Ad,Cinema,Colombo,47559,18-24,15764,0.0107,0.62,0.0416,5,57157,0.8921,0.9263,0.7788,0.331462,0.5322
+Automotive,18-24,Colombo Fort,81556,Event Promotion,Retail & Premises Signage,Window Display,Outdoor,Colombo,54615,18-24,27794,0.0236,0.59,0.0216,10,26941,0.9989,0.7584,0.6655,0.508908,0.7362
+E-commerce,18-24,Nugegoda,146268,Customer Retention,Radio Spot,Midday Slot,Audio,Colombo,80034,18-24,136720,0.0113,0.48,0.036,11,66234,0.704,0.9533,0.5441,1.708274,0.7215
+Fashion,35-44,Mount Lavinia,205904,Lead Generation,Newsletter Ad,Promotional Email,Digital,Colombo,46921,35-44,28028,0.043,0.85,0.0626,52,158983,0.9333,0.7759,0.8515,0.597344,0.7461
+Financial Services,18-24,Kalutara Town,135895,Website Traffic,Vehicle Wrap Media,Bus Wrap,Outdoor,Kalutara,92381,18-24,6722,0.0292,0.19,0.038,27,43514,0.7923,0.5198,0.8737,0.072764,0.4451
+Luxury Goods,All Ages,Kollupitiya,182813,Event Promotion,Outdoor Static Structure,City Center Billboard,Digital,Colombo,116700,All Ages,26679,0.018,0.91,0.06,28,66113,1.0,0.9905,0.8594,0.228612,0.8543
+Technology,45-54,Maradana,57729,App Downloads,TV Spot,Weekend,Audio,Colombo,221223,45-54,498646,0.0318,0.83,0.0417,41,-163494,0.8159,0.9448,0.8876,2.254042,0.7093
+Healthcare,Affluent,Katunayake,282638,Product Launch,Social Media Placement,Facebook Feed,Digital,Gampaha,72944,Affluent,121979,0.0302,1.29,0.0882,8,209694,0.9273,0.8378,0.7198,1.672228,0.7001
+Food & Beverage,25-34,Minuwangoda,56948,App Downloads,Print Publication Ad,Classified,Print,Gampaha,33015,25-34,88720,0.0137,1.28,0.0627,41,23933,0.8645,0.5679,0.8959,2.687263,0.6934
+Luxury Goods,25-34,Divulapitiya,173197,Customer Retention,Native / Sponsored Content,Article Sponsorship,Digital,Gampaha,71668,25-34,123012,0.0641,1.04,0.068,6,101529,0.9798,0.7374,0.8403,1.716415,0.7858
+Hospitality,25-34,Pettah,162667,Event Promotion,Newsletter Ad,Monthly Newsletter,Digital,Colombo,26764,25-34,60098,0.0334,0.83,0.0773,59,135903,0.9126,0.8684,0.7523,2.245479,0.6599
+Food & Beverage,35-44,Kandana,43669,App Downloads,Web Display Inventory,Sidebar Ad,Digital,Gampaha,16458,35-44,210020,0.0239,1.42,0.0608,21,27211,0.8614,0.6519,0.5399,12.760967,0.6531
+Education,45-54,Ja-Ela,254088,Product Launch,Radio Spot,Evening Drive,Audio,Gampaha,68579,45-54,70623,0.0221,1.14,0.0477,13,185509,0.9011,0.6171,0.5118,1.029805,0.5384
+Travel & Tourism,25-34,Mahabage,285169,Sales Conversion,Outdoor Static Structure,Street Pole Banner,Digital,Gampaha,170900,25-34,58594,0.0259,0.27,0.0536,11,114269,0.8622,0.6738,0.6966,0.342855,0.6836
+FMCG,Affluent,Kollupitiya,141682,Event Promotion,Digital Out-of-Home Screen,Train Station Screen,Digital,Colombo,98089,Affluent,90261,0.0346,1.13,0.0613,19,43593,0.8696,0.933,0.5294,0.920195,0.792
+Entertainment,35-44,Minuwangoda,238368,Brand Awareness,Newsletter Ad,Special Edition,Digital,Gampaha,9938,35-44,42286,0.0362,0.94,0.0704,39,228430,1.0,0.8428,0.5652,4.254981,0.6457
+Fashion,18-24,Aluthgama,173206,Brand Awareness,Vehicle Wrap Media,Car Wrap,Outdoor,Kalutara,55714,18-24,14888,0.025,0.36,0.041,44,117492,0.8704,0.5831,0.7446,0.267222,0.6258
+Healthcare,25-34,Pettah,257651,Lead Generation,Outdoor Static Structure,City Center Billboard,Outdoor,Colombo,120822,25-34,50225,0.019,0.79,0.0652,33,136829,0.8941,0.9359,0.5906,0.415694,0.602
+Real Estate,25-34,Maradana,545777,Product Launch,Vehicle Wrap Media,Van Wrap,Visual,Colombo,126356,25-34,128840,0.0492,0.9,0.0847,14,419421,1.0,0.8116,0.7033,1.019659,0.7212
+Entertainment,18-24,Maradana,52406,Website Traffic,Vehicle Wrap Media,Car Wrap,Outdoor,Colombo,109941,18-24,58701,0.0266,0.58,0.0354,15,-57535,0.9656,0.795,0.8857,0.533932,0.6254
+Financial Services,55+,Gampaha Town,73643,Website Traffic,Cinema Advertising,Pre-show Ad,Cinema,Gampaha,130307,55+,49686,0.0141,0.71,0.0485,55,-56664,0.9649,0.5581,0.8969,0.3813,0.712
+Retail,Young Professionals,Gampaha Town,152290,Event Promotion,Print Publication Ad,Newspaper Half Page,Print,Gampaha,47573,Young Professionals,92407,0.0156,0.79,0.0626,53,104717,0.9232,0.6099,0.6144,1.942425,0.6213
+Telecommunications,25-34,Bulathsinhala,195949,Brand Awareness,Newsletter Ad,Industry Digest,Digital,Kalutara,38932,25-34,12246,0.037,1.34,0.0846,47,157017,0.8523,0.3124,0.8327,0.314548,0.7255
+FMCG,55+,Colombo Fort,66741,App Downloads,Outdoor Static Structure,Transit Shelter,Digital,Colombo,198500,55+,92403,0.0102,0.74,0.0284,16,-131759,0.868,0.9614,0.8447,0.465506,0.6514
+Financial Services,35-44,Wattala,77747,Sales Conversion,Retail & Premises Signage,Storefront Display,Visual,Gampaha,74664,35-44,13309,0.0262,1.01,0.0509,8,3083,0.9094,0.8382,0.5574,0.178252,0.6207
+Food & Beverage,Students,Bulathsinhala,435784,Brand Awareness,Radio Spot,Evening Drive,Audio,Kalutara,40615,Students,191263,0.0209,0.34,0.0315,27,395169,0.9151,0.305,0.7109,4.709171,0.64
+Hospitality,Young Professionals,Divulapitiya,275723,Sales Conversion,Retail & Premises Signage,Window Display,Visual,Gampaha,60271,Young Professionals,12139,0.0406,0.76,0.061,8,215452,0.8853,0.7306,0.6135,0.201407,0.7852
+Automotive,Young Professionals,Kadawatha,169587,Product Launch,Retail & Premises Signage,Counter Display,Outdoor,Gampaha,118471,Young Professionals,11304,0.05,0.48,0.0541,50,51116,0.873,0.6552,0.7732,0.095416,0.7648
+Fashion,All Ages,Kandana,69811,Event Promotion,Radio Spot,Weekend Slot,Audio,Gampaha,94139,All Ages,326773,0.0259,1.26,0.0546,8,-24328,0.9258,0.6654,0.5205,3.471176,0.4919
+Travel & Tourism,25-34,Horana,439224,Product Launch,Digital Out-of-Home Screen,Train Station Screen,Digital,Kalutara,241151,25-34,52497,0.0361,1.03,0.0679,5,198073,0.7559,0.3874,0.6786,0.217693,0.5639
+Financial Services,35-44,Dehiwala,179875,App Downloads,Social Media Placement,TikTok Feed,Digital,Colombo,60126,35-44,597008,0.0306,1.19,0.0499,38,119749,1.0,0.789,0.8233,9.929282,0.6602
+Entertainment,25-34,Bambalapitiya,60227,Customer Retention,Cinema Advertising,Concession Ad,Cinema,Colombo,48246,25-34,95031,0.0268,1.22,0.0707,12,11981,1.0,0.9701,0.6819,1.969718,0.802
+Food & Beverage,45-54,Kandana,199673,Sales Conversion,Print Publication Ad,Classified,Print,Gampaha,48804,45-54,64968,0.0145,0.89,0.0548,8,150869,0.9467,0.6033,0.7187,1.331202,0.6304
+Telecommunications,35-44,Bandaragama,186420,Brand Awareness,Web Display Inventory,Sidebar Ad,Digital,Kalutara,59592,35-44,87648,0.0322,1.28,0.0493,17,126828,1.0,0.6194,0.8701,1.470801,0.6011
+Education,45-54,Battaramulla,96805,Event Promotion,Web Display Inventory,Sidebar Ad,Digital,Colombo,19425,45-54,248612,0.0182,0.89,0.0468,32,77380,0.8938,0.8229,0.64,12.798559,0.6281
+Luxury Goods,45-54,Ja-Ela,128637,Event Promotion,Native / Sponsored Content,Sponsored Video,Digital,Gampaha,36889,45-54,31664,0.0341,0.85,0.0491,21,91748,0.8049,0.6096,0.5662,0.858359,0.5192
+Healthcare,45-54,Bulathsinhala,272100,Sales Conversion,Social Media Placement,TikTok Feed,Digital,Kalutara,98108,45-54,80902,0.0264,0.53,0.0534,19,173992,0.9683,0.5167,0.8429,0.824622,0.5723
+E-commerce,25-34,Nugegoda,115081,Website Traffic,Social Media Placement,Twitter/X Feed,Digital,Colombo,31012,25-34,396793,0.0414,0.69,0.0633,7,84069,0.8714,0.9982,0.8961,12.794821,0.8384
+Real Estate,55+,Wattala,174934,Event Promotion,Native / Sponsored Content,Sponsored Video,Digital,Gampaha,55340,55+,137886,0.0257,0.92,0.0428,11,119594,0.8138,0.778,0.6241,2.491615,0.6622
+Food & Beverage,18-24,Beruwala,178225,Sales Conversion,Social Media Placement,LinkedIn Feed,Digital,Kalutara,64890,18-24,80371,0.0301,0.39,0.0384,8,113335,1.0,0.5309,0.8895,1.238573,0.6737
+Food & Beverage,18-24,Kalutara Town,149534,Website Traffic,Social Media Placement,LinkedIn Feed,Digital,Kalutara,72390,18-24,82933,0.0202,0.59,0.0293,57,77144,1.0,0.5578,0.8689,1.145642,0.6998
+Telecommunications,25-34,Mahabage,198487,App Downloads,Vehicle Wrap Media,Car Wrap,Visual,Gampaha,205259,25-34,71150,0.0397,0.82,0.0691,53,-6772,0.9708,0.7961,0.7761,0.346635,0.6854
+Entertainment,45-54,Battaramulla,187282,Sales Conversion,Outdoor Static Structure,Building Wrap,Digital,Colombo,44178,45-54,24333,0.0194,0.85,0.0559,5,143104,1.0,0.7633,0.8885,0.550795,0.823
+Healthcare,45-54,Nugegoda,76164,App Downloads,Print Publication Ad,Newspaper Half Page,Digital,Colombo,16772,45-54,299746,0.0098,0.69,0.0545,61,59392,0.9314,0.8664,0.7867,17.87181,0.4548
+Telecommunications,Families,Kollupitiya,59192,App Downloads,Retail & Premises Signage,End Cap Display,Visual,Colombo,89810,Families,29667,0.0215,0.83,0.0516,40,-30618,0.9374,0.7829,0.8181,0.330331,0.6422
+Healthcare,35-44,Maradana,155953,Event Promotion,Outdoor Static Structure,City Center Billboard,Digital,Colombo,115406,35-44,48706,0.0199,1.09,0.0624,22,40547,1.0,0.9892,0.5402,0.42204,0.673
+Technology,55+,Gampaha Town,66712,App Downloads,Vehicle Wrap Media,Car Wrap,Outdoor,Gampaha,181519,55+,56040,0.0214,0.61,0.0412,36,-114807,0.8062,0.626,0.9306,0.308728,0.5785
+E-commerce,35-44,Minuwangoda,74244,Website Traffic,Newsletter Ad,Weekly Newsletter,Print,Gampaha,28119,35-44,28771,0.0412,0.74,0.0656,24,46125,0.9865,0.7372,0.7735,1.023187,0.646
+Education,55+,Wattala,38873,Event Promotion,Native / Sponsored Content,Review Sponsorship,Digital,Gampaha,37418,55+,128420,0.0202,0.41,0.0315,44,1455,0.8271,0.6725,0.6819,3.432038,0.4775
+Automotive,35-44,Negombo,37081,Event Promotion,Newsletter Ad,Promotional Email,Digital,Gampaha,21076,35-44,40553,0.0503,1.09,0.0579,17,16005,1.0,0.6218,0.6673,1.924132,0.7076
+Real Estate,25-34,Wattala,342458,Brand Awareness,Social Media Placement,Facebook Feed,Digital,Gampaha,28161,25-34,324012,0.0382,0.81,0.0665,13,314297,0.9849,0.8466,0.6076,11.505699,0.8568
+Luxury Goods,25-34,Mahabage,162077,Event Promotion,Newsletter Ad,Promotional Email,Digital,Gampaha,14514,25-34,57227,0.0385,1.02,0.0542,25,147563,1.0,0.7359,0.617,3.942883,0.7632
+Automotive,25-34,Aluthgama,62440,Customer Retention,Retail & Premises Signage,Counter Display,Outdoor,Kalutara,67254,25-34,4377,0.0294,1.21,0.0597,16,-4814,0.9655,0.6043,0.7461,0.065082,0.6712
+Real Estate,55+,Kalutara Town,182604,Event Promotion,Digital Out-of-Home Screen,Airport Digital Display,Digital,Kalutara,315637,55+,28600,0.0263,0.8,0.0304,19,-133033,0.8657,0.5489,0.9415,0.09061,0.635
+Entertainment,Affluent,Katunayake,721738,Product Launch,Event Sponsorship,Presenting Sponsor,Event,Gampaha,123803,Affluent,15082,0.0388,1.62,0.0787,16,597935,1.0,0.6746,0.5054,0.121823,0.7505
+Technology,25-34,Bandaragama,141498,App Downloads,Outdoor Static Structure,Street Pole Banner,Digital,Kalutara,164712,25-34,21862,0.0253,0.84,0.0648,31,-23214,0.8352,0.4591,0.9138,0.132729,0.5451
+Retail,35-44,Panadura,132339,App Downloads,Vehicle Wrap Media,Truck Wrap,Visual,Kalutara,257180,35-44,26429,0.0209,0.83,0.0745,58,-124841,0.9941,0.39,0.6941,0.102765,0.4732
+Fashion,25-34,Bambalapitiya,305906,Lead Generation,Radio Spot,Evening Drive,Audio,Colombo,115995,25-34,323565,0.0221,0.96,0.0509,26,189911,0.7974,0.9565,0.5932,2.789474,0.6589
+Hospitality,35-44,Mount Lavinia,287824,Lead Generation,Print Publication Ad,Newspaper Half Page,Digital,Colombo,30853,35-44,339772,0.0106,0.91,0.0629,10,256971,1.0,0.7164,0.9379,11.012608,0.5143
+Luxury Goods,25-34,Wellawatte,62975,Sales Conversion,Retail & Premises Signage,End Cap Display,Outdoor,Colombo,78025,25-34,33079,0.0409,1.02,0.0733,31,-15050,0.8076,0.7376,0.6516,0.423954,0.6795
+FMCG,25-34,Maradana,270063,Lead Generation,Newsletter Ad,Weekly Newsletter,Digital,Colombo,15171,25-34,84862,0.0265,0.99,0.0621,12,254892,1.0,0.9125,0.5774,5.593699,0.7361
+Luxury Goods,Families,Minuwangoda,113874,App Downloads,Cinema Advertising,Intermission Ad,Cinema,Gampaha,61884,Families,9710,0.0238,0.69,0.0603,13,51990,0.9551,0.7349,0.6959,0.156906,0.4978
+Hospitality,All Ages,Dehiwala,79417,Lead Generation,Newsletter Ad,Promotional Email,Digital,Colombo,5921,All Ages,93499,0.0395,0.95,0.0534,29,73496,1.0,0.7155,0.7272,15.791083,0.7194
+Telecommunications,25-34,Ingiriya,288116,Sales Conversion,Radio Spot,Midday Slot,Audio,Kalutara,102226,25-34,83137,0.0312,1.28,0.0651,9,185890,0.8817,0.6403,0.9419,0.813267,0.6303
+Healthcare,35-44,Wellawatte,97856,Sales Conversion,Digital Out-of-Home Screen,Digital Billboard,Outdoor,Colombo,132419,35-44,129102,0.0332,0.86,0.0586,31,-34563,0.8383,0.717,0.6683,0.974951,0.6967
+Financial Services,All Ages,Wattala,58590,App Downloads,Cinema Advertising,Concession Ad,Cinema,Gampaha,149180,All Ages,74433,0.0189,0.61,0.0508,29,-90590,1.0,0.7038,0.592,0.498948,0.4965
+Luxury Goods,55+,Wattala,154051,Lead Generation,Web Display Inventory,Sidebar Ad,Digital,Gampaha,20186,55+,181209,0.0171,0.65,0.0357,14,133865,1.0,0.7463,0.668,8.976964,0.7217
+Luxury Goods,25-34,Kadawatha,112581,Customer Retention,Web Display Inventory,Banner Ad,Digital,Gampaha,76469,25-34,80475,0.032,1.13,0.0812,33,36112,0.8957,0.704,0.6139,1.052387,0.6935
+Luxury Goods,18-24,Battaramulla,245401,Customer Retention,Vehicle Wrap Media,Truck Wrap,Visual,Colombo,168125,18-24,66105,0.0257,0.49,0.0366,34,77276,1.0,0.9103,0.5918,0.39319,0.7079
+Luxury Goods,25-34,Bulathsinhala,32336,Event Promotion,Native / Sponsored Content,Sponsored Video,Digital,Kalutara,18431,25-34,26442,0.0262,1.35,0.0806,26,13905,0.8667,0.4533,0.7221,1.434648,0.6896
+Telecommunications,35-44,Divulapitiya,38215,Website Traffic,Vehicle Wrap Media,Bus Wrap,Outdoor,Gampaha,43680,35-44,58502,0.0386,1.3,0.0565,31,-5465,0.9498,0.6873,0.565,1.339332,0.753
+Education,18-24,Beruwala,83270,Website Traffic,TV Spot,Daytime,Audio,Kalutara,206970,18-24,45172,0.0103,0.37,0.0314,36,-123700,0.8846,0.6696,0.5503,0.218254,0.6
+Travel & Tourism,18-24,Aluthgama,149621,App Downloads,Cinema Advertising,Intermission Ad,Cinema,Kalutara,45982,18-24,44741,0.022,0.58,0.0246,6,103639,0.9111,0.3864,0.8642,0.973011,0.6336
+Technology,35-44,Maradana,77085,App Downloads,TV Spot,Daytime,Audio,Colombo,85207,35-44,580828,0.0332,1.1,0.0626,5,-8122,0.8445,0.704,0.6332,6.81667,0.4316
+Financial Services,18-24,Battaramulla,249170,Product Launch,Radio Spot,Weekend Slot,Audio,Colombo,53803,18-24,496019,0.0172,0.36,0.0253,17,195367,1.0,0.7355,0.5954,9.21917,0.7781
+Fashion,45-54,Colombo Fort,103956,Website Traffic,Retail & Premises Signage,Window Display,Visual,Colombo,120818,45-54,40110,0.0243,0.59,0.05,25,-16862,1.0,0.8598,0.5519,0.331987,0.5381
+Healthcare,25-34,Colombo Fort,321310,Lead Generation,Vehicle Wrap Media,Three-Wheeler Wrap,Outdoor,Colombo,143466,25-34,102042,0.0434,0.74,0.0681,67,177844,0.9726,0.9645,0.8291,0.711263,0.7015
+Education,25-34,Wattala,54412,Website Traffic,Radio Spot,Prime Time Slot,Audio,Gampaha,69592,25-34,297361,0.023,1.21,0.0641,11,-15180,0.8543,0.8156,0.5916,4.272919,0.6801
+Retail,45-54,Wattala,420287,Product Launch,Cinema Advertising,Tickets Ad,Cinema,Gampaha,79748,45-54,75807,0.0112,0.74,0.0546,13,340539,0.9313,0.6625,0.8252,0.950582,0.6132
+Telecommunications,Young Professionals,Bulathsinhala,257841,Sales Conversion,Native / Sponsored Content,Featured Content,Digital,Kalutara,22375,Young Professionals,53421,0.0516,0.97,0.0726,39,235466,0.991,0.3561,0.802,2.387531,0.828
+Travel & Tourism,All Ages,Horana,324762,Lead Generation,Digital Out-of-Home Screen,Digital Billboard,Outdoor,Kalutara,152412,All Ages,47812,0.036,0.64,0.0587,31,172350,0.9195,0.5354,0.5834,0.313702,0.7501
+Fashion,25-34,Colombo Fort,214441,Lead Generation,Web Display Inventory,Sidebar Ad,Digital,Colombo,49660,25-34,257906,0.0235,1.09,0.0642,49,164781,0.9532,0.9245,0.6013,5.193435,0.807
+Education,All Ages,Ja-Ela,257041,Lead Generation,Print Publication Ad,Classified,Print,Gampaha,33095,All Ages,98251,0.017,0.67,0.0552,16,223946,0.83,0.6453,0.8998,2.968757,0.6346
+E-commerce,Young Professionals,Kollupitiya,68763,Website Traffic,Social Media Placement,LinkedIn Feed,Digital,Colombo,44793,Young Professionals,206618,0.0415,0.91,0.0536,11,23970,0.9112,0.9574,0.9489,4.61273,0.6738
+Entertainment,55+,Kandana,112555,Customer Retention,Outdoor Static Structure,Transit Shelter,Outdoor,Gampaha,40355,55+,5483,0.0147,0.58,0.0429,24,72200,0.6749,0.6367,0.5312,0.135869,0.3915
+Technology,25-34,Dehiwala,383538,Product Launch,Native / Sponsored Content,Featured Content,Digital,Colombo,83011,25-34,167451,0.0303,1.49,0.06,33,300527,0.8982,0.8384,0.923,2.017215,0.8333
+E-commerce,25-34,Gampaha Town,143003,Website Traffic,Social Media Placement,Twitter/X Feed,Digital,Gampaha,19640,25-34,242189,0.0476,0.87,0.0685,19,123363,0.9093,0.6585,0.9269,12.331415,0.7026
+Entertainment,35-44,Mount Lavinia,163394,Sales Conversion,Outdoor Static Structure,City Center Billboard,Digital,Colombo,165592,35-44,58866,0.0355,0.74,0.0622,18,-2198,1.0,0.8779,0.6597,0.355488,0.6089
+Telecommunications,45-54,Kollupitiya,169355,Customer Retention,Web Display Inventory,Video Ad,Digital,Colombo,23234,45-54,389478,0.0265,0.94,0.0453,60,146121,1.0,0.7187,0.6509,16.763278,0.6792
+Technology,45-54,Kadawatha,111210,Customer Retention,Outdoor Static Structure,Building Wrap,Outdoor,Gampaha,43723,45-54,24804,0.0155,0.82,0.0463,6,67487,0.9037,0.7794,0.6468,0.567299,0.5484
+Travel & Tourism,25-34,Mount Lavinia,147044,Website Traffic,Digital Out-of-Home Screen,Train Station Screen,Outdoor,Colombo,76575,25-34,69424,0.0417,1.1,0.0567,19,70469,0.9236,0.8517,0.5648,0.906614,0.6111
+Retail,35-44,Divulapitiya,283833,Brand Awareness,Native / Sponsored Content,Partner Post,Digital,Gampaha,79658,35-44,38710,0.0278,0.51,0.0657,33,204175,1.0,0.5157,0.5569,0.485952,0.7412
+E-commerce,35-44,Wellawatte,594984,Product Launch,Cinema Advertising,Intermission Ad,Cinema,Colombo,201808,35-44,57835,0.0208,0.9,0.0695,16,393176,0.9257,0.9854,0.579,0.286584,0.6642
+Telecommunications,Affluent,Katunayake,104444,App Downloads,Web Display Inventory,Banner Ad,Digital,Gampaha,31226,Affluent,174930,0.0324,0.95,0.0638,16,73218,0.857,0.6,0.9172,5.602062,0.692
+Entertainment,Young Professionals,Nugegoda,124653,Event Promotion,Digital Out-of-Home Screen,Airport Digital Display,Digital,Colombo,122040,Young Professionals,179899,0.0393,0.8,0.0539,19,2613,0.9035,0.9251,0.5684,1.474099,0.7497
+Real Estate,Families,Kollupitiya,335838,Lead Generation,Print Publication Ad,Classified,Print,Colombo,20442,Families,93045,0.0144,0.91,0.0681,2,315396,0.95,0.8791,0.9498,4.551658,0.6988
+Telecommunications,45-54,Kandana,177271,Product Launch,Social Media Placement,TikTok Feed,Digital,Gampaha,81298,45-54,327587,0.0297,0.42,0.0794,64,95973,0.7947,0.5174,0.8261,4.02946,0.5856
+Telecommunications,All Ages,Dehiwala,94557,Event Promotion,Outdoor Static Structure,Highway Billboard,Digital,Colombo,170543,All Ages,39938,0.0182,1.17,0.0551,37,-75986,0.9834,0.7057,0.8721,0.234181,0.7711
+Food & Beverage,Families,Colombo Fort,258663,Lead Generation,Retail & Premises Signage,Window Display,Visual,Colombo,130654,Families,14195,0.0294,1.0,0.0427,36,128009,0.9748,0.8367,0.8052,0.108646,0.79
+Food & Beverage,25-34,Kollupitiya,151485,Lead Generation,Newsletter Ad,Promotional Email,Print,Colombo,13115,25-34,50641,0.036,0.91,0.0712,5,138370,0.9298,0.9904,0.701,3.861304,0.6057
+Luxury Goods,Families,Gampaha Town,99346,Website Traffic,Print Publication Ad,Magazine Spread,Print,Gampaha,14876,Families,94501,0.0144,0.87,0.0672,43,84470,0.9616,0.7651,0.6328,6.352581,0.7214
+Telecommunications,35-44,Colombo Fort,135526,Sales Conversion,Retail & Premises Signage,Storefront Display,Visual,Colombo,152073,35-44,10363,0.0203,1.07,0.0629,13,-16547,1.0,0.8751,0.6756,0.068145,0.6278
+Fashion,55+,Horana,191651,Sales Conversion,Digital Out-of-Home Screen,Train Station Screen,Outdoor,Kalutara,131323,55+,36271,0.0285,0.59,0.0357,28,60328,0.8822,0.6134,0.8149,0.276197,0.6234
+Fashion,45-54,Wattala,67603,App Downloads,Web Display Inventory,Pop-up,Digital,Gampaha,35497,45-54,65515,0.0259,0.91,0.0387,33,32106,0.9721,0.7411,0.904,1.845649,0.6833
+Technology,35-44,Wellawatte,200813,Product Launch,Event Sponsorship,Title Sponsor,Event,Colombo,293448,35-44,13484,0.046,1.24,0.0503,21,-92635,0.8967,0.8262,0.7708,0.04595,0.6943
+Education,Affluent,Colombo Fort,214102,Sales Conversion,Event Sponsorship,Presenting Sponsor,Event,Colombo,395120,Affluent,16076,0.0533,1.22,0.0863,9,-181018,1.0,0.7694,0.8066,0.040686,0.6515
+Luxury Goods,55+,Nugegoda,100239,Event Promotion,Event Sponsorship,Presenting Sponsor,Event,Colombo,73065,55+,23242,0.0259,0.5,0.0379,40,27174,0.6986,0.8507,0.8292,0.3181,0.6359
+Financial Services,35-44,Bulathsinhala,85753,Website Traffic,Cinema Advertising,Concession Ad,Cinema,Kalutara,90438,35-44,6659,0.0194,1.39,0.0556,27,-4685,1.0,0.3032,0.9244,0.073631,0.616
+Real Estate,35-44,Beruwala,216376,Lead Generation,TV Spot,Daytime,Audio,Kalutara,125064,35-44,322531,0.0344,1.3,0.062,25,91312,0.8778,0.6429,0.8692,2.578928,0.6652
+Financial Services,All Ages,Maradana,163600,Sales Conversion,Print Publication Ad,Newspaper Full Page,Digital,Colombo,79053,All Ages,79693,0.0183,0.91,0.0403,6,84547,1.0,0.7481,0.5769,1.008096,0.7708
+Telecommunications,18-24,Kandana,168794,App Downloads,Event Sponsorship,Title Sponsor,Event,Gampaha,279433,18-24,7031,0.0296,0.41,0.0323,6,-110639,0.7091,0.51,0.7625,0.025162,0.6016
+Luxury Goods,35-44,Bambalapitiya,236796,Lead Generation,Outdoor Static Structure,Building Wrap,Outdoor,Colombo,41104,35-44,51804,0.0189,1.14,0.055,18,195692,0.9191,0.7665,0.6429,1.260315,0.6454
+FMCG,25-34,Pettah,78845,Event Promotion,Outdoor Static Structure,Building Wrap,Digital,Colombo,144568,25-34,112655,0.0279,1.42,0.0739,28,-65723,0.8349,0.7889,0.9099,0.779253,0.6172
+E-commerce,25-34,Wellawatte,75113,Customer Retention,Newsletter Ad,Weekly Newsletter,Digital,Colombo,8103,25-34,34946,0.0397,1.15,0.0522,40,67010,0.961,0.769,0.6851,4.312724,0.7761
+E-commerce,55+,Gampaha Town,87456,Lead Generation,Social Media Placement,Facebook Feed,Digital,Gampaha,18195,55+,46827,0.022,0.94,0.0223,21,69261,0.8133,0.6563,0.7784,2.573619,0.7552
+Real Estate,18-24,Bambalapitiya,151669,Brand Awareness,Native / Sponsored Content,Sponsored Video,Digital,Colombo,18531,18-24,201150,0.0242,0.43,0.0381,12,133138,0.9451,0.7973,0.8044,10.854784,0.815
+Hospitality,18-24,Pettah,78679,Customer Retention,Radio Spot,Weekend Slot,Audio,Colombo,95921,18-24,189719,0.0204,0.51,0.0386,30,-17242,0.8714,0.9787,0.6494,1.977867,0.4359
+E-commerce,45-54,Colombo Fort,33342,Website Traffic,Print Publication Ad,Newspaper Full Page,Digital,Colombo,71552,45-54,256301,0.0183,1.16,0.0468,26,-38210,0.9822,0.7074,0.6632,3.582024,0.7171
+Education,Students,Mathugama,132191,Website Traffic,Digital Out-of-Home Screen,Mall Digital Screen,Digital,Kalutara,198075,Students,65524,0.0322,0.52,0.0307,64,-65884,0.8619,0.5647,0.7852,0.330804,0.5128
+Travel & Tourism,35-44,Colombo Fort,129052,App Downloads,Web Display Inventory,Video Ad,Digital,Colombo,70574,35-44,98476,0.0311,0.87,0.0738,29,58478,1.0,0.7763,0.5058,1.395358,0.7479
+Travel & Tourism,35-44,Panadura,212451,Customer Retention,Cinema Advertising,Lobby Display,Cinema,Kalutara,153894,35-44,21592,0.0205,0.88,0.0581,11,58557,0.9468,0.5127,0.8931,0.140304,0.6817
+Technology,35-44,Beruwala,333446,Product Launch,Cinema Advertising,Lobby Display,Cinema,Kalutara,144567,35-44,32119,0.0202,0.77,0.0619,47,188879,1.0,0.6491,0.725,0.222174,0.7341
+Hospitality,Young Professionals,Dehiwala,138736,App Downloads,Digital Out-of-Home Screen,Train Station Screen,Outdoor,Colombo,122425,Young Professionals,101310,0.0291,0.65,0.0618,28,16311,0.9518,0.9926,0.7134,0.827527,0.7182
+Entertainment,25-34,Wellawatte,154642,Customer Retention,Outdoor Static Structure,Transit Shelter,Digital,Colombo,99887,25-34,115788,0.0166,1.27,0.0684,53,54755,0.7658,0.8399,0.5855,1.15919,0.6569
+Real Estate,All Ages,Wellawatte,36825,Website Traffic,Vehicle Wrap Media,Truck Wrap,Outdoor,Colombo,76626,All Ages,123689,0.0338,0.56,0.0514,28,-39801,1.0,0.7954,0.7609,1.614191,0.6696
+Retail,18-24,Negombo,58228,Event Promotion,Vehicle Wrap Media,Bus Wrap,Visual,Gampaha,54013,18-24,91450,0.0291,0.75,0.0307,7,4215,0.7806,0.7557,0.5609,1.693111,0.5305
+Hospitality,35-44,Battaramulla,150729,Brand Awareness,Retail & Premises Signage,End Cap Display,Visual,Colombo,33076,35-44,35933,0.022,1.01,0.0662,8,117653,0.9171,0.7886,0.7385,1.086377,0.6473
+Fashion,25-34,Mount Lavinia,236081,Product Launch,Native / Sponsored Content,Article Sponsorship,Digital,Colombo,57114,25-34,133345,0.0442,0.96,0.051,11,178967,0.7989,0.7586,0.8053,2.334717,0.6338
+FMCG,55+,Negombo,237187,Customer Retention,Web Display Inventory,Pop-up,Digital,Gampaha,15476,55+,230089,0.0121,0.78,0.0469,11,221711,0.8203,0.5408,0.5572,14.867472,0.5717
+Technology,25-34,Ja-Ela,434149,Brand Awareness,Digital Out-of-Home Screen,Mall Digital Screen,Digital,Gampaha,120337,25-34,22984,0.0274,0.6,0.0413,6,313812,0.8612,0.5576,0.6868,0.190997,0.6222
+Healthcare,45-54,Mahabage,130468,Website Traffic,Outdoor Static Structure,Street Pole Banner,Outdoor,Gampaha,47120,45-54,23638,0.0166,0.77,0.0469,4,83348,0.9786,0.6692,0.6723,0.501655,0.4413
+Food & Beverage,45-54,Kandana,165485,Product Launch,Social Media Placement,LinkedIn Feed,Digital,Gampaha,96986,45-54,51237,0.0274,0.59,0.0513,29,68499,1.0,0.527,0.5764,0.528293,0.4795
+Entertainment,35-44,Kadawatha,157022,Brand Awareness,Vehicle Wrap Media,Car Wrap,Visual,Gampaha,159847,35-44,23936,0.032,0.92,0.0562,49,-2825,0.9148,0.846,0.5186,0.149743,0.6276
+Automotive,All Ages,Battaramulla,60435,Event Promotion,Cinema Advertising,Concession Ad,Cinema,Colombo,140215,All Ages,109271,0.017,0.6,0.0651,29,-79780,1.0,0.9062,0.9327,0.77931,0.6511
+Financial Services,35-44,Dodangoda,125898,Website Traffic,Native / Sponsored Content,Featured Content,Digital,Kalutara,59731,35-44,68256,0.0415,0.9,0.0394,57,66167,1.0,0.3237,0.7848,1.142723,0.8238
+Fashion,Young Professionals,Kollupitiya,191883,App Downloads,TV Spot,Sports Program,Audio,Colombo,77903,Young Professionals,379997,0.0254,1.11,0.0683,29,113980,0.902,0.7731,0.7952,4.877822,0.6563
+Technology,45-54,Wellawatte,164834,App Downloads,Retail & Premises Signage,Window Display,Outdoor,Colombo,45068,45-54,32519,0.0167,0.64,0.0472,25,119766,1.0,0.7183,0.8123,0.721554,0.6605
+Entertainment,18-24,Battaramulla,197031,Brand Awareness,Digital Out-of-Home Screen,Mall Digital Screen,Digital,Colombo,281964,18-24,46481,0.0207,0.73,0.0395,30,-84933,0.9052,0.7589,0.5102,0.164847,0.5589
+Financial Services,25-34,Divulapitiya,202911,Sales Conversion,Event Sponsorship,Presenting Sponsor,Event,Gampaha,336205,25-34,7487,0.04,0.76,0.0588,20,-133294,0.7444,0.7154,0.5367,0.022269,0.6772
+Hospitality,35-44,Divulapitiya,152903,Lead Generation,Outdoor Static Structure,City Center Billboard,Digital,Gampaha,161801,35-44,26926,0.0206,0.8,0.0507,30,-8898,0.9991,0.7319,0.8635,0.166414,0.6696
+Automotive,35-44,Maradana,106618,Website Traffic,Outdoor Static Structure,Street Pole Banner,Digital,Colombo,71436,35-44,12856,0.0203,1.22,0.0477,6,35182,1.0,0.9795,0.7792,0.179965,0.7419
+Telecommunications,All Ages,Bulathsinhala,290020,Lead Generation,Social Media Placement,TikTok Feed,Digital,Kalutara,26228,All Ages,59447,0.0291,0.9,0.0494,25,263792,1.0,0.3589,0.593,2.266547,0.713
+Telecommunications,All Ages,Divulapitiya,127449,Website Traffic,Vehicle Wrap Media,Van Wrap,Outdoor,Gampaha,49459,All Ages,56304,0.0324,0.76,0.0432,41,77990,0.9733,0.7843,0.5371,1.138397,0.6946
+FMCG,Young Professionals,Panadura,665218,Product Launch,Web Display Inventory,Pop-up,Digital,Kalutara,27280,Young Professionals,26711,0.0382,1.04,0.0497,14,637938,0.8326,0.3709,0.5023,0.979142,0.5317
+Hospitality,Young Professionals,Bulathsinhala,67550,Website Traffic,Radio Spot,Evening Drive,Audio,Kalutara,102123,Young Professionals,137820,0.0272,1.2,0.0541,26,-34573,0.8438,0.3778,0.8692,1.349549,0.5947
+Hospitality,45-54,Dehiwala,456668,Product Launch,Native / Sponsored Content,Article Sponsorship,Digital,Colombo,97064,45-54,133087,0.0357,0.93,0.0534,8,359604,0.9076,0.8836,0.6378,1.371126,0.6685
+FMCG,Young Professionals,Battaramulla,207407,Sales Conversion,Vehicle Wrap Media,Three-Wheeler Wrap,Visual,Colombo,170103,Young Professionals,75889,0.0423,0.56,0.0604,12,37304,0.5778,0.964,0.7275,0.446136,0.6909
+Healthcare,45-54,Ja-Ela,223834,Customer Retention,Newsletter Ad,Special Edition,Digital,Gampaha,21759,45-54,59723,0.0402,1.28,0.0425,32,202075,0.8672,0.6795,0.6444,2.744749,0.7616
+Healthcare,18-24,Mount Lavinia,135399,Lead Generation,Vehicle Wrap Media,Bus Wrap,Outdoor,Colombo,83991,18-24,45650,0.0266,0.55,0.0387,41,51408,0.9762,0.7923,0.609,0.543511,0.5619
+Technology,Families,Kadawatha,399751,Brand Awareness,Outdoor Static Structure,Transit Shelter,Digital,Gampaha,68988,Families,29007,0.0182,0.81,0.0707,30,330763,0.9978,0.6691,0.9441,0.420464,0.6565
+Travel & Tourism,Young Professionals,Ingiriya,470796,Product Launch,Newsletter Ad,Weekly Newsletter,Digital,Kalutara,17485,Young Professionals,37664,0.0624,0.71,0.0555,6,453311,0.8735,0.4165,0.6878,2.154075,0.5719
+Food & Beverage,Young Professionals,Panadura,314816,Brand Awareness,Vehicle Wrap Media,Car Wrap,Visual,Kalutara,75568,Young Professionals,14825,0.0299,0.94,0.0565,35,239248,0.9803,0.3311,0.93,0.196181,0.7394
+Luxury Goods,Families,Colombo Fort,160805,Event Promotion,Digital Out-of-Home Screen,Street Level Digital,Digital,Colombo,243367,Families,229339,0.0305,0.76,0.0477,12,-82562,0.8783,0.9074,0.5754,0.942359,0.6022
+Luxury Goods,25-34,Gampaha Town,358213,Brand Awareness,Retail & Premises Signage,End Cap Display,Visual,Gampaha,81651,25-34,7752,0.034,1.21,0.0738,47,276562,0.8347,0.6763,0.8731,0.094941,0.9114
+Food & Beverage,35-44,Divulapitiya,141322,App Downloads,Print Publication Ad,Classified,Digital,Gampaha,95248,35-44,192101,0.0204,0.99,0.0643,16,46074,0.8098,0.552,0.7684,2.016851,0.7136
+Technology,25-34,Kollupitiya,109370,Sales Conversion,Social Media Placement,LinkedIn Feed,Digital,Colombo,80479,25-34,472641,0.0372,0.63,0.0637,28,28891,0.6655,0.8239,0.5897,5.872849,0.5216
+Healthcare,35-44,Kollupitiya,58896,Website Traffic,Web Display Inventory,Pop-up,Digital,Colombo,19851,35-44,187771,0.0275,0.94,0.0581,36,39045,1.0,0.864,0.898,9.45902,0.6713
+Technology,45-54,Kalutara Town,66175,Website Traffic,Web Display Inventory,Interstitial Ad,Digital,Kalutara,32048,45-54,172234,0.0279,1.21,0.0546,24,34127,0.9304,0.5976,0.9136,5.374251,0.5489
+Food & Beverage,45-54,Kalutara Town,327235,Lead Generation,Cinema Advertising,Intermission Ad,Cinema,Kalutara,103827,45-54,18286,0.0211,0.98,0.0549,28,223408,0.8933,0.5979,0.7007,0.17612,0.6549
+Fashion,25-34,Divulapitiya,176948,Customer Retention,Outdoor Static Structure,City Center Billboard,Digital,Gampaha,85723,25-34,38205,0.0196,0.89,0.0643,2,91225,0.9712,0.7146,0.8625,0.44568,0.8797
+Fashion,18-24,Maradana,30113,Website Traffic,Radio Spot,Weekend Slot,Audio,Colombo,53816,18-24,244980,0.0128,0.56,0.0334,53,-23703,1.0,0.9567,0.6882,4.552178,0.6211
+Travel & Tourism,18-24,Ja-Ela,51409,Website Traffic,Retail & Premises Signage,Counter Display,Outdoor,Gampaha,76501,18-24,12244,0.026,0.59,0.0328,45,-25092,0.8856,0.7966,0.5818,0.16005,0.4825
+Food & Beverage,45-54,Kollupitiya,321884,Product Launch,Radio Spot,Midday Slot,Audio,Colombo,43957,45-54,369507,0.0195,1.01,0.0566,36,277927,0.9549,0.7777,0.5238,8.406101,0.7184
+FMCG,18-24,Mahabage,170568,Sales Conversion,Radio Spot,Prime Time Slot,Audio,Gampaha,39056,18-24,332710,0.0112,0.5,0.0369,24,131512,0.938,0.7333,0.7805,8.518794,0.6251
+Technology,25-34,Mahabage,633104,Product Launch,Newsletter Ad,Special Edition,Digital,Gampaha,33873,25-34,49338,0.0318,0.49,0.0604,57,599231,0.9005,0.6148,0.8317,1.456558,0.738
+Financial Services,45-54,Battaramulla,52400,Customer Retention,Outdoor Static Structure,Building Wrap,Digital,Colombo,70003,45-54,51451,0.0137,0.7,0.0457,37,-17603,0.937,0.925,0.7056,0.734983,0.6803
+Financial Services,35-44,Minuwangoda,185634,Lead Generation,Vehicle Wrap Media,Three-Wheeler Wrap,Visual,Gampaha,52638,35-44,13616,0.0408,0.9,0.0581,3,132996,1.0,0.6998,0.6496,0.258672,0.5952
+Technology,Affluent,Pettah,162655,App Downloads,Retail & Premises Signage,End Cap Display,Visual,Colombo,83269,Affluent,30709,0.0308,1.46,0.0748,14,79386,0.8176,0.7509,0.543,0.368793,0.578
+Travel & Tourism,Young Professionals,Mahabage,135818,Sales Conversion,Digital Out-of-Home Screen,Street Level Digital,Digital,Gampaha,185130,Young Professionals,27021,0.058,0.93,0.0453,39,-49312,0.748,0.7036,0.8449,0.145957,0.6698
+Technology,25-34,Kadawatha,135995,Event Promotion,Print Publication Ad,Classified,Print,Gampaha,68108,25-34,46098,0.017,0.61,0.0739,7,67887,0.8461,0.7435,0.9249,0.676837,0.6549
+Travel & Tourism,35-44,Beruwala,192335,App Downloads,Retail & Premises Signage,Storefront Display,Outdoor,Kalutara,105823,35-44,12358,0.0192,1.04,0.0519,19,86512,1.0,0.3483,0.9396,0.11678,0.7934
+Telecommunications,25-34,Negombo,284545,Sales Conversion,Digital Out-of-Home Screen,Mall Digital Screen,Outdoor,Gampaha,108648,25-34,94787,0.0437,0.57,0.0566,11,175897,0.7291,0.5837,0.783,0.872423,0.7184
+Automotive,45-54,Battaramulla,128751,Customer Retention,TV Spot,Prime Time,Audio,Colombo,294288,45-54,311608,0.0218,0.6,0.0476,20,-165537,0.8892,0.875,0.898,1.058854,0.6027
+Education,35-44,Minuwangoda,149186,Event Promotion,Digital Out-of-Home Screen,Digital Billboard,Digital,Gampaha,133459,35-44,110479,0.0496,0.53,0.0614,15,15727,0.8987,0.6877,0.8228,0.827812,0.7304
+Education,35-44,Negombo,312313,Lead Generation,Retail & Premises Signage,Counter Display,Outdoor,Gampaha,30698,35-44,2564,0.0309,0.9,0.0634,6,281615,0.8956,0.6406,0.7262,0.083523,0.7512
+E-commerce,25-34,Mount Lavinia,75814,Customer Retention,Social Media Placement,Twitter/X Feed,Digital,Colombo,94851,25-34,534537,0.0312,0.91,0.0648,19,-19037,0.8357,0.7764,0.6583,5.635544,0.6264
+Telecommunications,18-24,Mahabage,197527,Product Launch,Digital Out-of-Home Screen,Digital Billboard,Outdoor,Gampaha,107806,18-24,49490,0.0207,0.46,0.0452,37,89721,0.6613,0.8106,0.9023,0.459065,0.5799
+Real Estate,35-44,Mathugama,151791,Customer Retention,Vehicle Wrap Media,Truck Wrap,Visual,Kalutara,190400,35-44,23189,0.0217,1.47,0.0662,28,-38609,0.7351,0.592,0.661,0.121791,0.711
+Automotive,Families,Kollupitiya,350086,Brand Awareness,Vehicle Wrap Media,Truck Wrap,Outdoor,Colombo,33711,Families,31988,0.0303,1.41,0.0596,32,316375,1.0,0.8217,0.5761,0.948889,0.9118
+Hospitality,25-34,Kollupitiya,37086,Website Traffic,Cinema Advertising,Concession Ad,Cinema,Colombo,173214,25-34,88428,0.024,0.81,0.0775,6,-136128,0.7821,0.8295,0.8518,0.510513,0.7066
+Hospitality,All Ages,Pettah,175001,Brand Awareness,Web Display Inventory,Pop-up,Digital,Colombo,27927,All Ages,55170,0.0258,0.9,0.0665,30,147074,1.0,0.8749,0.8231,1.975508,0.7591
+FMCG,25-34,Kandana,446824,Brand Awareness,Vehicle Wrap Media,Three-Wheeler Wrap,Visual,Gampaha,185001,25-34,83982,0.027,1.08,0.0644,30,261823,0.9271,0.5957,0.8314,0.453954,0.5764
+E-commerce,Affluent,Battaramulla,160104,Lead Generation,Retail & Premises Signage,Counter Display,Visual,Colombo,119997,Affluent,30978,0.0372,1.09,0.0762,35,40107,0.8996,0.9959,0.6252,0.258156,0.6838
+Food & Beverage,Affluent,Kandana,83444,Sales Conversion,Vehicle Wrap Media,Three-Wheeler Wrap,Outdoor,Gampaha,24920,Affluent,23766,0.0354,1.48,0.0596,25,58524,0.9029,0.8032,0.8922,0.953692,0.6414
+Automotive,55+,Wellawatte,40978,Website Traffic,Retail & Premises Signage,Window Display,Outdoor,Colombo,60707,55+,15631,0.018,0.72,0.038,19,-19729,0.9547,0.7912,0.8652,0.257483,0.7083
+Hospitality,25-34,Gampaha Town,197978,App Downloads,Retail & Premises Signage,In-Store Digital,Visual,Gampaha,73767,25-34,13740,0.0408,0.53,0.0827,5,124211,0.7291,0.7528,0.5784,0.186262,0.7532
+E-commerce,45-54,Divulapitiya,86352,Customer Retention,Print Publication Ad,Newspaper Half Page,Print,Gampaha,12368,45-54,50029,0.0086,0.61,0.0536,17,73984,0.8006,0.8149,0.7828,4.045036,0.6861
+Retail,All Ages,Gampaha Town,75144,Event Promotion,Print Publication Ad,Newspaper Full Page,Print,Gampaha,9668,All Ages,49028,0.0157,0.44,0.053,14,65476,1.0,0.5572,0.5469,5.071163,0.3877
+Hospitality,35-44,Pettah,107172,Website Traffic,Outdoor Static Structure,Building Wrap,Outdoor,Colombo,92614,35-44,18878,0.019,1.08,0.0471,50,14558,0.8877,0.9208,0.6238,0.203835,0.6694
+Telecommunications,45-54,Colombo Fort,247274,Sales Conversion,Native / Sponsored Content,Featured Content,Digital,Colombo,88557,45-54,30467,0.0249,0.74,0.052,84,158717,1.0,0.7765,0.8455,0.344038,0.7649
+Travel & Tourism,Young Professionals,Battaramulla,129004,Website Traffic,Digital Out-of-Home Screen,Mall Digital Screen,Digital,Colombo,221025,Young Professionals,238603,0.0329,0.72,0.0694,49,-92021,0.8149,0.8066,0.8071,1.079529,0.4269
+Healthcare,18-24,Nugegoda,183387,Customer Retention,Native / Sponsored Content,Partner Post,Digital,Colombo,33945,18-24,225016,0.0301,0.69,0.035,23,149442,0.698,0.9015,0.6503,6.628841,0.6902
+FMCG,45-54,Ingiriya,169158,Lead Generation,Outdoor Static Structure,Building Wrap,Digital,Kalutara,129967,45-54,33961,0.0171,1.01,0.0522,21,39191,0.9572,0.3438,0.5913,0.261305,0.4851
+FMCG,18-24,Dehiwala,118553,Sales Conversion,Cinema Advertising,Pre-show Ad,Cinema,Colombo,96623,18-24,97681,0.0185,0.56,0.0367,11,21930,1.0,0.9278,0.7789,1.01095,0.6761
+Technology,18-24,Kadawatha,205378,Customer Retention,Vehicle Wrap Media,Truck Wrap,Outdoor,Gampaha,108889,18-24,11178,0.0271,0.59,0.0374,11,96489,0.7805,0.7493,0.5792,0.102655,0.6196
+Retail,All Ages,Beruwala,47308,Website Traffic,Retail & Premises Signage,Counter Display,Outdoor,Kalutara,117772,All Ages,4413,0.0202,0.62,0.0535,24,-70464,1.0,0.4792,0.6825,0.037471,0.4766
+Fashion,25-34,Kadawatha,180599,App Downloads,Web Display Inventory,Pop-up,Digital,Gampaha,58579,25-34,71784,0.0297,1.0,0.0698,20,122020,0.8411,0.5326,0.5647,1.225422,0.5357
+Luxury Goods,45-54,Ja-Ela,82580,Sales Conversion,Outdoor Static Structure,City Center Billboard,Outdoor,Gampaha,122753,45-54,14875,0.0183,0.74,0.0405,16,-40173,0.6726,0.5492,0.6912,0.121178,0.4144
+Financial Services,All Ages,Horana,141994,Lead Generation,Outdoor Static Structure,Transit Shelter,Outdoor,Kalutara,61563,All Ages,26141,0.0191,0.5,0.0598,8,80431,0.9115,0.4797,0.9232,0.424622,0.6465
+Retail,25-34,Divulapitiya,41438,Event Promotion,Cinema Advertising,Intermission Ad,Cinema,Gampaha,41650,25-34,29195,0.0192,1.21,0.0713,13,-212,0.8906,0.8144,0.9209,0.70096,0.753
+Hospitality,Affluent,Nugegoda,146057,App Downloads,Digital Out-of-Home Screen,Digital Billboard,Outdoor,Colombo,76892,Affluent,134813,0.0377,1.25,0.0681,22,69165,0.835,0.7782,0.5416,1.753277,0.7089
+Food & Beverage,25-34,Minuwangoda,693660,Product Launch,Vehicle Wrap Media,Car Wrap,Visual,Gampaha,89389,25-34,86730,0.0289,0.96,0.077,32,604271,0.9919,0.5609,0.6625,0.970254,0.6272
+Automotive,35-44,Pettah,221786,Customer Retention,Vehicle Wrap Media,Car Wrap,Outdoor,Colombo,134776,35-44,106270,0.0265,0.96,0.0675,34,87010,0.911,0.8036,0.5777,0.788494,0.5183
+Automotive,Young Professionals,Nugegoda,262895,Sales Conversion,Native / Sponsored Content,Review Sponsorship,Digital,Colombo,55592,Young Professionals,125399,0.0502,0.91,0.0472,31,207303,0.8937,0.9634,0.6211,2.255702,0.7359
+Healthcare,25-34,Negombo,266251,Brand Awareness,Digital Out-of-Home Screen,Street Level Digital,Digital,Gampaha,201743,25-34,21035,0.0396,1.02,0.0663,32,64508,0.7935,0.6018,0.891,0.104266,0.6673
+Entertainment,25-34,Minuwangoda,296946,Brand Awareness,Event Sponsorship,Presenting Sponsor,Event,Gampaha,172836,25-34,14731,0.043,0.95,0.0723,32,124110,0.9934,0.5523,0.9185,0.085231,0.6395
+Automotive,Families,Kandana,710148,Product Launch,Retail & Premises Signage,Storefront Display,Outdoor,Gampaha,69884,Families,3740,0.0283,1.08,0.0415,10,640264,1.0,0.7357,0.7765,0.053517,0.7917
+Healthcare,25-34,Wattala,394139,Product Launch,Event Sponsorship,Cocktail Sponsor,Event,Gampaha,295325,25-34,8980,0.0544,0.57,0.0586,15,98814,0.9243,0.6185,0.5032,0.030407,0.7249
+Automotive,45-54,Mahabage,35383,Website Traffic,Digital Out-of-Home Screen,Airport Digital Display,Digital,Gampaha,299195,45-54,94245,0.031,0.76,0.0506,8,-263812,1.0,0.6195,0.597,0.314995,0.6547
+Education,25-34,Nugegoda,176021,App Downloads,Social Media Placement,Instagram Story,Digital,Colombo,19602,25-34,394110,0.0275,0.99,0.072,13,156419,1.0,0.8497,0.5325,20.105601,0.6934
+Retail,Young Professionals,Maradana,168954,Brand Awareness,TV Spot,Prime Time,Audio,Colombo,121455,Young Professionals,692329,0.0356,0.94,0.0732,34,47499,0.9168,0.9599,0.7344,5.700292,0.6488
+Travel & Tourism,Affluent,Kollupitiya,150376,Product Launch,Native / Sponsored Content,Review Sponsorship,Digital,Colombo,24020,Affluent,29153,0.041,1.23,0.0746,37,126356,0.9288,0.7822,0.644,1.213697,0.7785
+Financial Services,18-24,Bambalapitiya,84154,Website Traffic,Vehicle Wrap Media,Van Wrap,Visual,Colombo,207137,18-24,103756,0.0134,0.53,0.0329,10,-122983,0.8406,0.9416,0.6524,0.500905,0.6355
+Travel & Tourism,25-34,Dehiwala,164554,Customer Retention,Outdoor Static Structure,City Center Billboard,Outdoor,Colombo,156169,25-34,83342,0.03,1.02,0.0617,37,8385,0.7744,0.7631,0.8103,0.533665,0.6117
+Entertainment,25-34,Wattala,77279,Event Promotion,Outdoor Static Structure,Transit Shelter,Outdoor,Gampaha,104477,25-34,37219,0.0272,0.95,0.0559,35,-27198,0.9756,0.5717,0.8339,0.356241,0.4878
+Education,55+,Kollupitiya,96404,App Downloads,Outdoor Static Structure,City Center Billboard,Outdoor,Colombo,53481,55+,48219,0.0114,0.66,0.0372,15,42923,0.9058,0.7965,0.5156,0.90161,0.3365
+Healthcare,Students,Colombo Fort,30666,Event Promotion,Outdoor Static Structure,City Center Billboard,Digital,Colombo,157327,Students,71241,0.0151,0.32,0.0279,22,-126661,0.8694,0.7054,0.546,0.452821,0.493
+Technology,35-44,Katunayake,166593,Sales Conversion,Print Publication Ad,Magazine Spread,Digital,Gampaha,81915,35-44,119921,0.0181,0.98,0.081,64,84678,1.0,0.5176,0.5283,1.463969,0.6801
+Luxury Goods,Young Professionals,Bandaragama,275728,Lead Generation,Digital Out-of-Home Screen,Street Level Digital,Digital,Kalutara,190387,Young Professionals,88912,0.0468,1.56,0.0553,42,85341,0.8047,0.4275,0.7671,0.467007,0.6451
+Retail,25-34,Wellawatte,124564,Website Traffic,Digital Out-of-Home Screen,Train Station Screen,Digital,Colombo,133853,25-34,85782,0.0502,0.92,0.0456,49,-9289,0.9331,0.9078,0.6096,0.640867,0.698
+E-commerce,25-34,Bambalapitiya,153156,App Downloads,Web Display Inventory,Sidebar Ad,Digital,Colombo,12859,25-34,339346,0.0269,1.16,0.0779,31,140297,0.8579,0.9529,0.7899,26.389766,0.6391
+Financial Services,25-34,Dehiwala,279307,Product Launch,Native / Sponsored Content,Featured Content,Digital,Colombo,102337,25-34,63777,0.0539,1.17,0.0714,5,176970,0.8857,0.8012,0.5081,0.623206,0.7995
+Telecommunications,35-44,Wattala,453129,Brand Awareness,Web Display Inventory,Interstitial Ad,Digital,Gampaha,14072,35-44,278525,0.0275,1.3,0.0711,12,439057,1.0,0.7285,0.615,19.792851,0.8075
+Food & Beverage,55+,Kalutara Town,121462,Website Traffic,Vehicle Wrap Media,Van Wrap,Outdoor,Kalutara,67443,55+,16978,0.0213,0.91,0.0335,25,54019,0.9949,0.3071,0.8164,0.251739,0.6309
+E-commerce,Young Professionals,Colombo Fort,102130,Website Traffic,Digital Out-of-Home Screen,Street Level Digital,Outdoor,Colombo,150345,Young Professionals,119621,0.0371,0.91,0.0514,33,-48215,0.8279,0.8854,0.7293,0.795643,0.643
+Technology,35-44,Pettah,480297,Brand Awareness,Newsletter Ad,Weekly Newsletter,Print,Colombo,4895,35-44,18969,0.0714,1.18,0.0536,6,475402,0.917,0.7742,0.7904,3.875179,0.8917
+Technology,25-34,Minuwangoda,749601,Product Launch,Print Publication Ad,Classified,Print,Gampaha,11712,25-34,61077,0.0104,1.0,0.0849,8,737889,0.7406,0.6644,0.705,5.214908,0.5884
+Real Estate,Families,Gampaha Town,49617,App Downloads,Web Display Inventory,Pop-up,Digital,Gampaha,37379,Families,276757,0.0277,1.18,0.0569,47,12238,0.9313,0.695,0.8342,7.404077,0.7224
+Telecommunications,25-34,Katunayake,496257,Brand Awareness,Outdoor Static Structure,Highway Billboard,Digital,Gampaha,86621,25-34,62076,0.0275,1.04,0.0684,7,409636,0.8674,0.6101,0.7304,0.716639,0.7278
+Fashion,25-34,Bambalapitiya,62218,Event Promotion,Cinema Advertising,Intermission Ad,Cinema,Colombo,132011,25-34,106860,0.023,0.96,0.068,16,-69793,0.878,0.9843,0.8451,0.809478,0.7056
+Automotive,45-54,Mount Lavinia,42840,Event Promotion,Radio Spot,Evening Drive,Audio,Colombo,50495,45-54,124399,0.0183,1.09,0.042,82,-7655,0.8765,0.8655,0.8785,2.46359,0.6684
+Financial Services,18-24,Dehiwala,170121,Customer Retention,Cinema Advertising,Pre-show Ad,Cinema,Colombo,93486,18-24,129659,0.0171,0.47,0.045,26,76635,0.8212,0.984,0.8268,1.386935,0.6391
+E-commerce,18-24,Wattala,117912,Event Promotion,TV Spot,Prime Time,Audio,Gampaha,217932,18-24,430239,0.0142,0.53,0.042,9,-100020,0.8942,0.7929,0.5737,1.974189,0.3872
+Financial Services,35-44,Ja-Ela,255469,Brand Awareness,Retail & Premises Signage,End Cap Display,Visual,Gampaha,77408,35-44,4744,0.0309,1.04,0.0575,10,178061,1.0,0.8203,0.8845,0.061286,0.7403
+Entertainment,45-54,Battaramulla,176748,App Downloads,TV Spot,Weekend,Audio,Colombo,131298,45-54,595042,0.0258,1.01,0.0604,35,45450,0.9752,0.9206,0.536,4.531996,0.705
+Entertainment,25-34,Maradana,69132,Website Traffic,Vehicle Wrap Media,Truck Wrap,Visual,Colombo,90143,25-34,85783,0.0383,1.06,0.0531,30,-21011,0.8989,0.8677,0.7263,0.951632,0.6606
+Hospitality,55+,Negombo,240251,Sales Conversion,Vehicle Wrap Media,Truck Wrap,Outdoor,Gampaha,25206,55+,55651,0.0168,0.51,0.0367,22,215045,0.905,0.6353,0.6891,2.207847,0.7645
+Real Estate,Affluent,Katunayake,138259,Event Promotion,Web Display Inventory,Video Ad,Digital,Gampaha,33465,Affluent,254658,0.0183,1.01,0.0727,18,104794,0.8959,0.5669,0.8557,7.609682,0.5165
+FMCG,All Ages,Colombo Fort,55824,Customer Retention,Vehicle Wrap Media,Bus Wrap,Visual,Colombo,108863,All Ages,99220,0.0145,0.95,0.0655,37,-53039,0.9367,0.726,0.7725,0.911421,0.6543
+Automotive,35-44,Katunayake,100820,Website Traffic,Outdoor Static Structure,Highway Billboard,Digital,Gampaha,153463,35-44,38230,0.0179,1.08,0.0719,15,-52643,1.0,0.6946,0.8148,0.249115,0.5572
+Real Estate,45-54,Bulathsinhala,84769,Website Traffic,Native / Sponsored Content,Review Sponsorship,Digital,Kalutara,58367,45-54,63892,0.0347,0.76,0.0397,29,26402,1.0,0.3758,0.9015,1.09466,0.5843
+Real Estate,35-44,Pettah,140826,Lead Generation,Print Publication Ad,Magazine Spread,Digital,Colombo,28246,35-44,230932,0.0157,0.91,0.0702,18,112580,1.0,0.7219,0.9197,8.175742,0.8202
+Fashion,45-54,Kollupitiya,131413,App Downloads,Retail & Premises Signage,Counter Display,Outdoor,Colombo,99921,45-54,5098,0.0251,1.5,0.0473,34,31492,1.0,0.7623,0.8595,0.05102,0.6459
+Telecommunications,55+,Kandana,97425,Website Traffic,Social Media Placement,LinkedIn Feed,Digital,Gampaha,34896,55+,133262,0.0271,0.47,0.0371,34,62529,0.9332,0.5856,0.6023,3.818833,0.5963
+Financial Services,55+,Bambalapitiya,161585,Brand Awareness,Print Publication Ad,Magazine Spread,Digital,Colombo,37310,55+,241805,0.0134,0.73,0.0422,39,124275,0.8334,0.7033,0.6875,6.48097,0.6118
+Travel & Tourism,35-44,Negombo,319346,Lead Generation,Digital Out-of-Home Screen,Street Level Digital,Digital,Gampaha,268260,35-44,123706,0.0477,1.13,0.065,20,51086,0.9839,0.6814,0.7643,0.461142,0.6981
+Retail,25-34,Battaramulla,163899,Brand Awareness,Event Sponsorship,Title Sponsor,Event,Colombo,348675,25-34,46674,0.0447,0.71,0.0725,27,-184776,1.0,0.836,0.9452,0.133861,0.6212
+Retail,55+,Mahabage,90549,App Downloads,Outdoor Static Structure,City Center Billboard,Outdoor,Gampaha,93415,55+,18983,0.018,0.88,0.0334,25,-2866,0.966,0.6278,0.7409,0.203211,0.665
+E-commerce,18-24,Ja-Ela,209858,Product Launch,Cinema Advertising,Concession Ad,Cinema,Gampaha,200761,18-24,42393,0.0162,0.5,0.0315,49,9097,0.9753,0.5819,0.527,0.211162,0.6169
+Luxury Goods,45-54,Kollupitiya,99477,Lead Generation,Newsletter Ad,Promotional Email,Print,Colombo,22817,45-54,11631,0.0245,1.1,0.0409,46,76660,1.0,0.9236,0.7315,0.509752,0.8047
+Hospitality,35-44,Dehiwala,193777,Lead Generation,Retail & Premises Signage,End Cap Display,Outdoor,Colombo,91137,35-44,4158,0.0335,1.16,0.0467,31,102640,0.7607,0.8179,0.5808,0.045624,0.6749
+Automotive,35-44,Battaramulla,589703,Product Launch,Web Display Inventory,Video Ad,Digital,Colombo,55923,35-44,138717,0.0259,1.27,0.0531,32,533780,0.8454,0.8396,0.9244,2.4805,0.6685
+E-commerce,35-44,Mathugama,95206,Event Promotion,Newsletter Ad,Industry Digest,Print,Kalutara,5656,35-44,4281,0.0452,1.56,0.0727,40,89550,1.0,0.6061,0.6603,0.756895,0.7886
+Healthcare,25-34,Kandana,196235,Event Promotion,Retail & Premises Signage,Window Display,Outdoor,Gampaha,102262,25-34,16590,0.0261,0.98,0.0559,39,93973,0.9197,0.7977,0.895,0.16223,0.8841
+Technology,45-54,Mahabage,180815,Customer Retention,Vehicle Wrap Media,Bus Wrap,Outdoor,Gampaha,43222,45-54,67916,0.0163,0.88,0.048,27,137593,0.9794,0.7356,0.5211,1.571329,0.6566
+Telecommunications,Affluent,Panadura,576536,Product Launch,Web Display Inventory,Banner Ad,Digital,Kalutara,31054,Affluent,121885,0.0295,0.99,0.0527,8,545482,0.9099,0.6876,0.9199,3.924937,0.7121
+FMCG,18-24,Mathugama,57981,App Downloads,Radio Spot,Prime Time Slot,Audio,Kalutara,85131,18-24,186809,0.0133,0.3,0.0323,6,-27150,0.9104,0.5884,0.6587,2.194371,0.6921
+Travel & Tourism,35-44,Beruwala,421933,Brand Awareness,Vehicle Wrap Media,Bus Wrap,Outdoor,Kalutara,144230,35-44,11217,0.0262,1.27,0.0581,32,277703,1.0,0.3945,0.7976,0.077772,0.5651
+FMCG,55+,Nugegoda,210765,Product Launch,Radio Spot,Midday Slot,Audio,Colombo,31614,55+,505092,0.0116,0.92,0.0363,15,179151,0.828,0.9243,0.7478,15.976846,0.618
+Real Estate,18-24,Ja-Ela,118934,App Downloads,Social Media Placement,Twitter/X Feed,Digital,Gampaha,50740,18-24,126774,0.0196,0.68,0.0439,21,68194,0.973,0.657,0.742,2.498502,0.7375
+FMCG,All Ages,Kalutara Town,375287,Brand Awareness,Vehicle Wrap Media,Bus Wrap,Visual,Kalutara,66267,All Ages,29630,0.0268,0.45,0.0566,23,309020,0.9886,0.5224,0.6818,0.447131,0.718
+Telecommunications,45-54,Kandana,228608,Product Launch,Print Publication Ad,Magazine Spread,Print,Gampaha,29403,45-54,56814,0.0133,0.89,0.0487,11,199205,0.7178,0.6042,0.5148,1.932252,0.6029
+Automotive,35-44,Ingiriya,158520,Event Promotion,Retail & Premises Signage,In-Store Digital,Outdoor,Kalutara,109001,35-44,12730,0.0196,1.17,0.0662,21,49519,0.9919,0.4632,0.5861,0.116788,0.6319
+Financial Services,18-24,Kollupitiya,267778,Lead Generation,Newsletter Ad,Promotional Email,Digital,Colombo,28029,18-24,68058,0.0382,0.44,0.0341,19,239749,0.9174,0.8383,0.8021,2.428128,0.7088
+FMCG,All Ages,Dehiwala,157800,App Downloads,Radio Spot,Prime Time Slot,Audio,Colombo,23643,All Ages,487889,0.0208,0.99,0.0492,18,134157,1.0,0.931,0.5468,20.635664,0.6105
+Telecommunications,35-44,Mount Lavinia,179580,Sales Conversion,Cinema Advertising,Intermission Ad,Cinema,Colombo,91274,35-44,119419,0.0226,1.03,0.0339,23,88306,0.9821,0.9269,0.6242,1.308357,0.7867
+Real Estate,45-54,Kalutara Town,132895,Lead Generation,Vehicle Wrap Media,Three-Wheeler Wrap,Outdoor,Kalutara,130150,45-54,10216,0.0262,0.31,0.0351,5,2745,0.9064,0.6658,0.5509,0.078494,0.5054
+Financial Services,25-34,Dehiwala,185440,Sales Conversion,TV Spot,Prime Time,Audio,Colombo,227522,25-34,685792,0.0246,1.08,0.0626,39,-42082,0.8637,0.8261,0.9246,3.014179,0.6439
+FMCG,35-44,Pettah,489357,Brand Awareness,Outdoor Static Structure,Highway Billboard,Digital,Colombo,189591,35-44,124293,0.0215,1.03,0.0655,6,299766,0.7481,0.842,0.7759,0.655585,0.7145
+E-commerce,18-24,Ja-Ela,123546,Website Traffic,Social Media Placement,Instagram Story,Digital,Gampaha,67952,18-24,87855,0.0259,0.52,0.0369,52,55594,0.8738,0.6122,0.7486,1.292898,0.5802
+Education,18-24,Battaramulla,119383,Website Traffic,Retail & Premises Signage,Storefront Display,Visual,Colombo,122300,18-24,27071,0.0168,0.43,0.0449,10,-2917,0.9075,0.9475,0.8855,0.221349,0.7347
+Retail,18-24,Bulathsinhala,152803,Event Promotion,Event Sponsorship,Title Sponsor,Event,Kalutara,115362,18-24,16311,0.0434,0.64,0.0282,55,37441,1.0,0.4172,0.6681,0.14139,0.5911
+Retail,35-44,Negombo,116650,Lead Generation,Retail & Premises Signage,Window Display,Outdoor,Gampaha,51925,35-44,9822,0.0281,1.2,0.0571,15,64725,0.7942,0.746,0.5306,0.189157,0.8466
+Entertainment,25-34,Divulapitiya,127493,Event Promotion,Digital Out-of-Home Screen,Mall Digital Screen,Outdoor,Gampaha,112074,25-34,39408,0.0423,0.91,0.055,15,15419,1.0,0.7721,0.7505,0.351625,0.7254
+FMCG,55+,Gampaha Town,62356,Website Traffic,Digital Out-of-Home Screen,Mall Digital Screen,Digital,Gampaha,109312,55+,108087,0.0251,0.54,0.0393,36,-46956,0.6609,0.6479,0.6343,0.988794,0.5115
+Food & Beverage,35-44,Kollupitiya,54275,App Downloads,Retail & Premises Signage,Window Display,Visual,Colombo,152659,35-44,35880,0.0339,0.96,0.0651,8,-98384,0.8611,0.724,0.5824,0.235034,0.6843
+Technology,35-44,Colombo Fort,187927,Customer Retention,Radio Spot,Evening Drive,Audio,Colombo,101982,35-44,376482,0.0144,1.21,0.0492,32,85945,0.9858,0.8273,0.701,3.691651,0.5996
+E-commerce,25-34,Mahabage,126190,Sales Conversion,Retail & Premises Signage,End Cap Display,Outdoor,Gampaha,65355,25-34,16171,0.0286,0.68,0.0667,31,60835,0.9646,0.5756,0.5825,0.247433,0.7184
+Travel & Tourism,25-34,Pettah,211840,Brand Awareness,Social Media Placement,Twitter/X Feed,Digital,Colombo,77549,25-34,322342,0.0401,0.8,0.0694,49,134291,0.9121,0.8376,0.8046,4.156624,0.7242
+Food & Beverage,35-44,Colombo Fort,484285,Brand Awareness,Newsletter Ad,Industry Digest,Print,Colombo,24057,35-44,54222,0.045,1.08,0.0696,49,460228,1.0,0.7874,0.6513,2.253897,0.8833
+Travel & Tourism,18-24,Negombo,73773,Sales Conversion,Social Media Placement,Instagram Story,Digital,Gampaha,57883,18-24,194758,0.032,0.54,0.0303,31,15890,0.8881,0.6391,0.6516,3.364684,0.6061
+Healthcare,Young Professionals,Kollupitiya,120579,App Downloads,Web Display Inventory,Sidebar Ad,Digital,Colombo,41123,Young Professionals,177793,0.0325,1.03,0.0542,41,79456,0.8172,0.8684,0.5837,4.323444,0.6544
+Telecommunications,25-34,Mahabage,85639,App Downloads,Cinema Advertising,Intermission Ad,Cinema,Gampaha,139861,25-34,29803,0.0284,1.12,0.0774,21,-54222,0.8758,0.5953,0.6729,0.21309,0.6809
+Luxury Goods,25-34,Katunayake,34395,Website Traffic,Social Media Placement,Twitter/X Feed,Digital,Gampaha,40232,25-34,55252,0.0329,0.97,0.0663,15,-5837,0.8472,0.7464,0.9256,1.373335,0.8144
+Entertainment,45-54,Katunayake,289826,Product Launch,Print Publication Ad,Classified,Print,Gampaha,8927,45-54,66609,0.0099,0.52,0.0428,28,280899,1.0,0.5329,0.9281,7.461521,0.592
+Luxury Goods,45-54,Ja-Ela,50231,Website Traffic,Native / Sponsored Content,Article Sponsorship,Digital,Gampaha,113269,45-54,100946,0.0263,1.29,0.0493,26,-63038,0.8985,0.7129,0.7,0.891206,0.6294
+Financial Services,All Ages,Negombo,51124,Website Traffic,Vehicle Wrap Media,Three-Wheeler Wrap,Outdoor,Gampaha,136509,All Ages,61106,0.0326,0.84,0.0542,34,-85385,1.0,0.7942,0.7128,0.447633,0.6115
+Healthcare,25-34,Kollupitiya,145395,Website Traffic,Outdoor Static Structure,Street Pole Banner,Digital,Colombo,144570,25-34,71666,0.0199,1.03,0.0727,26,825,0.9399,0.8466,0.7714,0.495718,0.6405
+Education,35-44,Battaramulla,198756,Lead Generation,Vehicle Wrap Media,Truck Wrap,Outdoor,Colombo,67859,35-44,37848,0.0377,1.03,0.0716,24,130897,0.9668,0.9436,0.8636,0.557745,0.8573
+Automotive,55+,Gampaha Town,262484,Sales Conversion,Digital Out-of-Home Screen,Street Level Digital,Outdoor,Gampaha,133172,55+,12188,0.0186,0.81,0.0446,19,129312,0.9029,0.6128,0.9384,0.091521,0.6825
+Travel & Tourism,Families,Dodangoda,121373,Brand Awareness,Event Sponsorship,Title Sponsor,Event,Kalutara,306872,Families,10799,0.04,0.77,0.0692,27,-185499,1.0,0.5953,0.5637,0.035191,0.7103
+Automotive,55+,Beruwala,153607,Sales Conversion,Event Sponsorship,Exhibition Booth,Event,Kalutara,159620,55+,2343,0.0297,0.82,0.0509,36,-6013,0.8485,0.3368,0.647,0.014679,0.408
+Education,45-54,Dehiwala,114088,Lead Generation,Web Display Inventory,Interstitial Ad,Digital,Colombo,45243,45-54,478252,0.0218,0.9,0.0435,35,68845,1.0,0.7626,0.7994,10.57074,0.7169
+FMCG,35-44,Battaramulla,148768,Website Traffic,Outdoor Static Structure,Building Wrap,Outdoor,Colombo,52661,35-44,59171,0.0267,0.81,0.0643,5,96107,0.9047,0.9245,0.6179,1.123621,0.7115
+Financial Services,All Ages,Horana,311133,Brand Awareness,Outdoor Static Structure,Transit Shelter,Digital,Kalutara,53342,All Ages,33620,0.0275,0.64,0.0503,13,257791,1.0,0.5073,0.705,0.630273,0.6581
+Real Estate,35-44,Wellawatte,118274,App Downloads,Outdoor Static Structure,Highway Billboard,Digital,Colombo,106933,35-44,42998,0.029,1.17,0.0611,40,11341,0.9134,0.9567,0.8064,0.402102,0.6662
+Travel & Tourism,18-24,Panadura,58448,App Downloads,Social Media Placement,TikTok Feed,Digital,Kalutara,32384,18-24,26734,0.0232,0.49,0.0302,8,26064,0.7061,0.4525,0.6853,0.825531,0.5884
+Fashion,35-44,Beruwala,96054,Sales Conversion,Radio Spot,Midday Slot,Audio,Kalutara,24340,35-44,61685,0.0162,0.8,0.0801,46,71714,0.9195,0.5273,0.6978,2.534306,0.6025
+E-commerce,18-24,Ingiriya,186045,App Downloads,Social Media Placement,Twitter/X Feed,Digital,Kalutara,65980,18-24,182527,0.0238,0.26,0.0251,8,120065,0.8701,0.3221,0.5892,2.766399,0.5072
+Luxury Goods,35-44,Maradana,62931,Event Promotion,Outdoor Static Structure,Building Wrap,Outdoor,Colombo,55114,35-44,58514,0.0302,0.72,0.0742,6,7817,0.884,0.8649,0.8995,1.06169,0.6466
+Food & Beverage,35-44,Bambalapitiya,150323,Event Promotion,Retail & Premises Signage,Storefront Display,Outdoor,Colombo,72875,35-44,22576,0.0304,0.67,0.057,19,77448,0.9044,0.8477,0.8963,0.309791,0.8148
+Retail,55+,Bambalapitiya,197919,Brand Awareness,Print Publication Ad,Newspaper Half Page,Print,Colombo,29150,55+,87932,0.0111,0.52,0.0331,36,168769,0.7677,0.7285,0.5427,3.016535,0.4857
+FMCG,35-44,Kollupitiya,501156,Product Launch,Cinema Advertising,Pre-show Ad,Cinema,Colombo,127029,35-44,92059,0.0176,1.41,0.057,57,374127,0.9651,0.7171,0.9022,0.724709,0.6955
+Telecommunications,Young Professionals,Bandaragama,59647,Sales Conversion,Newsletter Ad,Monthly Newsletter,Print,Kalutara,8808,Young Professionals,2685,0.044,0.84,0.0682,33,50839,0.8921,0.6623,0.7323,0.304837,0.74
+Entertainment,35-44,Pettah,104930,Sales Conversion,Radio Spot,Midday Slot,Audio,Colombo,51952,35-44,523305,0.0264,1.15,0.0485,35,52978,1.0,0.9883,0.7823,10.072856,0.9128
+Telecommunications,18-24,Pettah,264002,Lead Generation,Retail & Premises Signage,Storefront Display,Visual,Colombo,40885,18-24,46155,0.0194,0.4,0.0364,9,223117,0.9462,0.8196,0.735,1.128898,0.5369
+Technology,35-44,Mahabage,143709,Lead Generation,Social Media Placement,Instagram Story,Digital,Gampaha,43932,35-44,109395,0.0409,1.08,0.0569,22,99777,1.0,0.586,0.5492,2.490098,0.5684
+FMCG,Affluent,Colombo Fort,119293,Customer Retention,TV Spot,Evening,Audio,Colombo,206100,Affluent,841717,0.0273,0.68,0.0677,26,-86807,0.8847,0.9118,0.9102,4.084022,0.7423
+Fashion,25-34,Gampaha Town,141083,App Downloads,Vehicle Wrap Media,Van Wrap,Outdoor,Gampaha,153833,25-34,8545,0.021,1.47,0.0627,13,-12750,1.0,0.7401,0.875,0.055547,0.6616
+FMCG,35-44,Negombo,208665,Lead Generation,Retail & Premises Signage,In-Store Digital,Visual,Gampaha,157532,35-44,15193,0.0292,1.27,0.0378,33,51133,0.8728,0.6304,0.6037,0.096444,0.5516
+Fashion,25-34,Pettah,72692,Customer Retention,Vehicle Wrap Media,Car Wrap,Visual,Colombo,219669,25-34,75257,0.0269,1.37,0.0693,39,-146977,0.7058,0.9921,0.7985,0.342593,0.6222
+Fashion,45-54,Kadawatha,92927,Sales Conversion,Print Publication Ad,Newspaper Half Page,Digital,Gampaha,98512,45-54,42123,0.0132,0.77,0.0553,11,-5585,1.0,0.6964,0.7139,0.427593,0.583
+Entertainment,35-44,Kandana,315727,Lead Generation,Retail & Premises Signage,End Cap Display,Outdoor,Gampaha,24758,35-44,13942,0.024,1.3,0.0631,16,290969,1.0,0.5689,0.903,0.563131,0.6469
+E-commerce,55+,Gampaha Town,51453,Event Promotion,Outdoor Static Structure,Transit Shelter,Digital,Gampaha,154958,55+,67257,0.0138,0.74,0.0393,72,-103505,0.9713,0.5696,0.6081,0.434034,0.5847
+Healthcare,18-24,Divulapitiya,41372,Website Traffic,Cinema Advertising,Pre-show Ad,Cinema,Gampaha,46047,18-24,22909,0.0114,0.33,0.0356,3,-4675,0.9411,0.5421,0.6038,0.497513,0.4648
+Luxury Goods,18-24,Negombo,220898,Sales Conversion,Vehicle Wrap Media,Truck Wrap,Outdoor,Gampaha,167387,18-24,23836,0.0186,0.42,0.0305,4,53511,0.9993,0.6773,0.7533,0.142401,0.5458
+E-commerce,35-44,Ingiriya,79872,App Downloads,Radio Spot,Morning Drive,Audio,Kalutara,55538,35-44,91495,0.023,0.67,0.051,26,24334,0.9902,0.3388,0.7466,1.647431,0.6986
+Education,35-44,Kollupitiya,76461,Lead Generation,Radio Spot,Midday Slot,Audio,Colombo,14498,35-44,429912,0.0179,0.68,0.0639,28,61963,1.0,0.958,0.6133,29.653194,0.6725
+Luxury Goods,18-24,Minuwangoda,170700,App Downloads,TV Spot,Evening,Audio,Gampaha,246835,18-24,303304,0.0199,0.36,0.0421,7,-76135,0.9311,0.5628,0.6016,1.228772,0.4321
+Food & Beverage,Families,Ingiriya,81892,Sales Conversion,Outdoor Static Structure,Transit Shelter,Outdoor,Kalutara,52620,Families,21716,0.02,1.07,0.0598,30,29272,1.0,0.6314,0.8547,0.412695,0.752
+Education,35-44,Dehiwala,134436,Sales Conversion,Digital Out-of-Home Screen,Train Station Screen,Outdoor,Colombo,144949,35-44,167846,0.0458,0.86,0.0633,11,-10513,0.8969,0.8631,0.8203,1.157966,0.6155
+Healthcare,18-24,Wattala,183615,Event Promotion,Digital Out-of-Home Screen,Street Level Digital,Digital,Gampaha,176180,18-24,65344,0.0222,0.42,0.0307,28,7435,1.0,0.5573,0.5562,0.370893,0.6146
+Hospitality,All Ages,Mathugama,295881,Brand Awareness,Outdoor Static Structure,Street Pole Banner,Digital,Kalutara,108093,All Ages,40632,0.0287,1.09,0.0327,43,187788,0.9291,0.4904,0.8102,0.375899,0.6782
+Telecommunications,25-34,Kandana,121959,Lead Generation,Web Display Inventory,Sidebar Ad,Digital,Gampaha,17164,25-34,179099,0.0231,1.13,0.0834,33,104795,0.7159,0.8347,0.845,10.434572,0.5239
+Financial Services,35-44,Mount Lavinia,657772,Product Launch,Retail & Premises Signage,End Cap Display,Outdoor,Colombo,121118,35-44,19975,0.0158,0.95,0.0629,15,536654,0.8813,0.842,0.7837,0.164922,0.8013
+Real Estate,18-24,Negombo,224492,Sales Conversion,Event Sponsorship,Exhibition Booth,Event,Gampaha,86121,18-24,13621,0.0208,0.35,0.032,31,138371,0.9211,0.7616,0.5239,0.158161,0.4702
+Real Estate,All Ages,Minuwangoda,44097,Website Traffic,Web Display Inventory,Banner Ad,Digital,Gampaha,76011,All Ages,191690,0.0269,0.84,0.0516,15,-31914,0.9592,0.76,0.8085,2.521872,0.689
+Healthcare,45-54,Horana,89415,App Downloads,TV Spot,Evening,Audio,Kalutara,66252,45-54,179726,0.0183,0.86,0.0508,39,23163,0.8834,0.5615,0.9303,2.712763,0.7134
+Fashion,25-34,Kollupitiya,167751,Event Promotion,Outdoor Static Structure,Street Pole Banner,Outdoor,Colombo,170759,25-34,74861,0.0193,0.7,0.053,5,-3008,0.9157,0.8826,0.9171,0.438401,0.7572
+Travel & Tourism,Families,Negombo,338473,Brand Awareness,Native / Sponsored Content,Featured Content,Digital,Gampaha,46140,Families,102489,0.0416,0.76,0.0457,46,292333,1.0,0.7962,0.7035,2.221261,0.6407
+Automotive,55+,Kollupitiya,245339,Sales Conversion,Print Publication Ad,Magazine Spread,Digital,Colombo,93604,55+,70922,0.0075,0.52,0.0298,13,151735,0.9353,0.9451,0.5574,0.757681,0.7263
+Hospitality,35-44,Negombo,99784,App Downloads,Social Media Placement,LinkedIn Feed,Digital,Gampaha,62763,35-44,57136,0.0272,1.17,0.0727,52,37021,0.9832,0.6698,0.7439,0.910345,0.5468
+Food & Beverage,55+,Battaramulla,94212,Lead Generation,Vehicle Wrap Media,Van Wrap,Outdoor,Colombo,97039,55+,47082,0.0188,0.6,0.0374,5,-2827,0.8141,0.9328,0.8589,0.485186,0.6592
+Education,55+,Nugegoda,132235,Event Promotion,Newsletter Ad,Special Edition,Print,Colombo,3897,55+,6022,0.0185,0.72,0.0499,41,128338,0.9549,0.8892,0.5358,1.545291,0.5525
+Technology,Affluent,Ingiriya,108263,Sales Conversion,Vehicle Wrap Media,Truck Wrap,Outdoor,Kalutara,35499,Affluent,5402,0.0361,0.74,0.056,53,72764,0.9976,0.5697,0.5997,0.152173,0.5575
+Luxury Goods,45-54,Ingiriya,286760,Sales Conversion,Outdoor Static Structure,Street Pole Banner,Digital,Kalutara,131245,45-54,15233,0.016,1.25,0.0324,26,155515,0.9015,0.3855,0.5886,0.116065,0.4877
+Hospitality,35-44,Pettah,137639,Website Traffic,Web Display Inventory,Sidebar Ad,Digital,Colombo,66725,35-44,250079,0.0249,1.81,0.0592,29,70914,0.8632,0.7757,0.8648,3.747906,0.7858
+Financial Services,25-34,Mahabage,84421,Lead Generation,Cinema Advertising,Intermission Ad,Cinema,Gampaha,141647,25-34,69461,0.0188,1.18,0.0625,55,-57226,0.7984,0.6083,0.7728,0.490381,0.5405
+Technology,Affluent,Kollupitiya,171151,Customer Retention,TV Spot,Daytime,Audio,Colombo,202597,Affluent,628382,0.0233,1.21,0.0621,18,-31446,0.8237,0.9171,0.8627,3.101635,0.6675
+Technology,45-54,Nugegoda,261306,Sales Conversion,Retail & Premises Signage,In-Store Digital,Visual,Colombo,178360,45-54,40039,0.0268,0.89,0.051,61,82946,1.0,0.7641,0.7958,0.224484,0.6202
+Financial Services,18-24,Kollupitiya,128218,Customer Retention,Social Media Placement,LinkedIn Feed,Digital,Colombo,49313,18-24,228733,0.0216,0.57,0.0309,4,78905,1.0,0.8442,0.9192,4.638391,0.7674
+Education,Affluent,Pettah,169428,Brand Awareness,Radio Spot,Weekend Slot,Audio,Colombo,43946,Affluent,291235,0.0207,1.3,0.0644,30,125482,0.817,0.8771,0.5316,6.627111,0.7225
+Fashion,25-34,Mahabage,143727,Website Traffic,Social Media Placement,Twitter/X Feed,Digital,Gampaha,24745,25-34,124940,0.0312,0.82,0.0768,16,118982,0.7384,0.5056,0.5527,5.049101,0.3966
+Luxury Goods,45-54,Mount Lavinia,303689,Brand Awareness,Digital Out-of-Home Screen,Airport Digital Display,Digital,Colombo,147791,45-54,136488,0.0288,0.75,0.0535,19,155898,0.9082,0.8656,0.8388,0.92352,0.6454
+Financial Services,18-24,Negombo,40449,Website Traffic,Newsletter Ad,Monthly Newsletter,Digital,Gampaha,16287,18-24,12668,0.027,0.29,0.0407,30,24162,0.8252,0.6458,0.6734,0.777798,0.6013
+Fashion,45-54,Bambalapitiya,116449,Website Traffic,Newsletter Ad,Weekly Newsletter,Print,Colombo,12914,45-54,47897,0.0314,0.66,0.0399,28,103535,0.9267,0.8536,0.9465,3.708921,0.6954
+Real Estate,Students,Nugegoda,104930,Event Promotion,Newsletter Ad,Industry Digest,Print,Colombo,4868,Students,36703,0.0368,0.43,0.0407,35,100062,1.0,0.8947,0.6576,7.539647,0.5425
+E-commerce,45-54,Pettah,700083,Product Launch,Event Sponsorship,Cocktail Sponsor,Event,Colombo,443775,45-54,47935,0.0329,1.03,0.0344,5,256308,0.8825,0.8198,0.5831,0.108016,0.5891
+Automotive,45-54,Bambalapitiya,91532,App Downloads,Social Media Placement,LinkedIn Feed,Digital,Colombo,56428,45-54,250251,0.0246,0.87,0.0428,28,35104,0.9885,0.7335,0.5665,4.434873,0.6969
+FMCG,All Ages,Colombo Fort,305632,Brand Awareness,Print Publication Ad,Magazine Spread,Digital,Colombo,82667,All Ages,211158,0.018,0.86,0.0583,19,222965,0.9072,0.9181,0.5483,2.55432,0.6223
+Retail,Affluent,Divulapitiya,282842,Lead Generation,TV Spot,Sports Program,Audio,Gampaha,294263,Affluent,533710,0.0346,1.34,0.0657,9,-11421,0.7091,0.6129,0.7902,1.813718,0.6783
+Education,45-54,Pettah,62645,Event Promotion,Social Media Placement,Instagram Story,Digital,Colombo,105628,45-54,368755,0.0302,0.6,0.0477,38,-42983,1.0,0.8182,0.6194,3.491072,0.6602
+Fashion,45-54,Mahabage,602923,Product Launch,Native / Sponsored Content,Sponsored Video,Digital,Gampaha,65328,45-54,15710,0.0256,0.55,0.0611,16,537595,0.9191,0.6036,0.7317,0.240479,0.4792
+Technology,45-54,Colombo Fort,139629,Website Traffic,Digital Out-of-Home Screen,Digital Billboard,Digital,Colombo,135186,45-54,94615,0.039,1.48,0.0495,22,4443,0.8093,0.7252,0.5235,0.699888,0.6123
+Financial Services,Young Professionals,Bambalapitiya,149953,Lead Generation,Outdoor Static Structure,Highway Billboard,Digital,Colombo,127543,Young Professionals,24370,0.0261,0.77,0.0698,14,22410,0.8868,0.7065,0.7343,0.191073,0.5059
+Technology,35-44,Wattala,158114,Brand Awareness,Vehicle Wrap Media,Bus Wrap,Visual,Gampaha,142598,35-44,50410,0.027,1.22,0.0355,46,15516,0.9963,0.5391,0.8779,0.353511,0.7289
+Healthcare,35-44,Bandaragama,122986,Website Traffic,Radio Spot,Evening Drive,Audio,Kalutara,56667,35-44,70860,0.0198,0.92,0.06,41,66319,1.0,0.6137,0.8435,1.250463,0.6229
+Education,55+,Mahabage,125361,Website Traffic,Radio Spot,Prime Time Slot,Audio,Gampaha,94060,55+,281197,0.015,0.64,0.0393,6,31301,0.764,0.8058,0.5539,2.989549,0.6235
+Education,25-34,Minuwangoda,56875,Event Promotion,Social Media Placement,LinkedIn Feed,Digital,Gampaha,26101,25-34,129021,0.0383,1.14,0.0615,34,30774,1.0,0.6614,0.6467,4.943144,0.8225
+Financial Services,35-44,Negombo,72598,Event Promotion,Print Publication Ad,Magazine Full Page,Print,Gampaha,58970,35-44,71853,0.0218,1.13,0.0773,41,13628,0.7985,0.7786,0.7138,1.218467,0.5796
+Healthcare,55+,Dehiwala,215653,Lead Generation,Event Sponsorship,Presenting Sponsor,Event,Colombo,273743,55+,28424,0.0246,0.92,0.0433,38,-58090,0.9572,0.7631,0.6432,0.103835,0.5036
+Telecommunications,25-34,Dehiwala,133378,Sales Conversion,Retail & Premises Signage,In-Store Digital,Outdoor,Colombo,98111,25-34,13994,0.0317,0.74,0.0553,32,35267,0.8357,0.7696,0.8591,0.142634,0.6572
+Real Estate,Students,Nugegoda,201357,Lead Generation,Print Publication Ad,Newspaper Full Page,Digital,Colombo,41513,Students,377074,0.0132,0.52,0.0357,28,159844,1.0,0.8613,0.5689,9.083275,0.607
+Hospitality,45-54,Kalutara Town,225041,Customer Retention,Newsletter Ad,Monthly Newsletter,Print,Kalutara,6558,45-54,17067,0.0361,0.92,0.0563,45,218483,0.8843,0.3094,0.6482,2.60247,0.6885
+Technology,25-34,Ja-Ela,148131,Sales Conversion,Social Media Placement,TikTok Feed,Digital,Gampaha,92529,25-34,332961,0.0425,1.3,0.0628,20,55602,1.0,0.6285,0.5085,3.59845,0.6528
+Luxury Goods,55+,Wattala,266259,Lead Generation,Outdoor Static Structure,Building Wrap,Outdoor,Gampaha,54093,55+,12824,0.0097,0.41,0.0415,62,212166,0.779,0.8068,0.5973,0.237073,0.6249
+Hospitality,35-44,Pettah,163561,App Downloads,Vehicle Wrap Media,Car Wrap,Outdoor,Colombo,110808,35-44,105941,0.0327,0.85,0.0592,15,52753,0.9724,0.8991,0.6715,0.956077,0.5432
+Luxury Goods,Students,Beruwala,63344,Website Traffic,Radio Spot,Prime Time Slot,Audio,Kalutara,93172,Students,186124,0.0189,0.55,0.0332,24,-29828,0.9026,0.5048,0.747,1.997639,0.7441
+Education,18-24,Negombo,158232,Customer Retention,Cinema Advertising,Pre-show Ad,Cinema,Gampaha,109638,18-24,41461,0.0161,0.41,0.0414,18,48594,0.8256,0.623,0.6192,0.378163,0.592
+Hospitality,All Ages,Colombo Fort,41991,Website Traffic,Vehicle Wrap Media,Car Wrap,Outdoor,Colombo,111177,All Ages,83787,0.0256,0.8,0.0522,23,-69186,1.0,0.9714,0.6533,0.753636,0.7043
+Luxury Goods,35-44,Mount Lavinia,195922,Event Promotion,Newsletter Ad,Weekly Newsletter,Print,Colombo,20971,35-44,53299,0.0236,1.2,0.055,25,174951,0.8535,0.822,0.7524,2.541557,0.5698
+Technology,25-34,Kollupitiya,434194,Brand Awareness,Retail & Premises Signage,Storefront Display,Visual,Colombo,137447,25-34,32207,0.0294,0.98,0.0635,9,296747,0.9533,0.7736,0.7769,0.234323,0.8871
+FMCG,55+,Kadawatha,230134,Lead Generation,Social Media Placement,TikTok Feed,Digital,Gampaha,17212,55+,45075,0.0243,0.82,0.049,26,212922,0.8635,0.7519,0.5424,2.618812,0.5727
+Education,45-54,Kandana,151614,Brand Awareness,Native / Sponsored Content,Article Sponsorship,Digital,Gampaha,95526,45-54,52842,0.0204,0.62,0.0476,8,56088,0.9662,0.6779,0.5708,0.553169,0.7013
+Food & Beverage,45-54,Bambalapitiya,147711,Lead Generation,Outdoor Static Structure,Street Pole Banner,Digital,Colombo,210792,45-54,75757,0.0116,1.05,0.0613,20,-63081,0.9901,0.7567,0.8155,0.359392,0.6636
+Healthcare,18-24,Wellawatte,69070,Event Promotion,Retail & Premises Signage,Storefront Display,Visual,Colombo,41446,18-24,28610,0.0146,0.62,0.0299,31,27624,0.8139,0.7439,0.585,0.690296,0.5265
+FMCG,18-24,Negombo,263017,Lead Generation,Vehicle Wrap Media,Truck Wrap,Outdoor,Gampaha,84823,18-24,36729,0.0282,0.36,0.0298,55,178194,1.0,0.5423,0.5759,0.433008,0.544
+Financial Services,35-44,Mahabage,69459,Sales Conversion,Retail & Premises Signage,Window Display,Visual,Gampaha,52645,35-44,25316,0.0192,1.25,0.0623,5,16814,0.7222,0.5152,0.6568,0.480881,0.5979
+Healthcare,55+,Kalutara Town,91999,Website Traffic,Print Publication Ad,Magazine Spread,Print,Kalutara,23725,55+,32590,0.0109,0.58,0.0353,25,68274,0.7698,0.5793,0.7807,1.373656,0.5751
+Retail,35-44,Minuwangoda,129097,Customer Retention,Digital Out-of-Home Screen,Mall Digital Screen,Outdoor,Gampaha,182143,35-44,49215,0.0278,0.82,0.072,41,-53046,0.8935,0.579,0.5094,0.2702,0.6703
+Hospitality,All Ages,Battaramulla,64835,Website Traffic,Web Display Inventory,Pop-up,Digital,Colombo,15043,All Ages,231840,0.0185,0.6,0.0334,26,49792,0.8659,0.8521,0.8538,15.411819,0.7267
+FMCG,35-44,Pettah,120784,Event Promotion,Event Sponsorship,Session Sponsor,Event,Colombo,307364,35-44,42954,0.0527,0.98,0.0522,7,-186580,0.8975,0.8012,0.8231,0.13975,0.6114
+E-commerce,25-34,Wellawatte,296155,Lead Generation,Newsletter Ad,Weekly Newsletter,Print,Colombo,13232,25-34,47031,0.0416,1.14,0.0843,26,282923,1.0,0.7684,0.7206,3.554338,0.7635
+Technology,55+,Katunayake,157956,App Downloads,Vehicle Wrap Media,Three-Wheeler Wrap,Visual,Gampaha,116164,55+,80235,0.0208,0.9,0.0338,11,41792,0.9273,0.5976,0.7119,0.690705,0.611
+Education,35-44,Kandana,119033,Brand Awareness,Web Display Inventory,Pop-up,Digital,Gampaha,76637,35-44,205067,0.0303,1.26,0.0577,37,42396,1.0,0.7771,0.5869,2.675822,0.7209
+Education,All Ages,Colombo Fort,259872,Lead Generation,Native / Sponsored Content,Review Sponsorship,Digital,Colombo,124859,All Ages,142842,0.0212,0.92,0.0498,34,135013,1.0,0.9706,0.9129,1.144026,0.7554
+Real Estate,18-24,Colombo Fort,73610,Customer Retention,Print Publication Ad,Magazine Full Page,Print,Colombo,46873,18-24,143582,0.0164,0.35,0.0328,20,26737,0.9604,0.7206,0.7283,3.063213,0.6173
+Telecommunications,Affluent,Pettah,33509,Event Promotion,Vehicle Wrap Media,Truck Wrap,Outdoor,Colombo,50619,Affluent,108771,0.0251,1.34,0.0693,21,-17110,1.0,0.8656,0.6039,2.148818,0.6875
+Hospitality,Families,Wellawatte,144221,Event Promotion,Social Media Placement,Facebook Feed,Digital,Colombo,121447,Families,604012,0.03,0.87,0.0643,29,22774,0.8889,0.8437,0.5078,4.973462,0.6004
+Fashion,45-54,Gampaha Town,76528,Customer Retention,Radio Spot,Weekend Slot,Audio,Gampaha,37473,45-54,204936,0.0145,0.93,0.0422,31,39055,0.901,0.6098,0.8774,5.468898,0.7752
+FMCG,35-44,Maradana,81022,Website Traffic,Newsletter Ad,Weekly Newsletter,Print,Colombo,23478,35-44,41259,0.0557,1.19,0.0494,45,57544,0.816,0.9339,0.7588,1.757347,0.8476
+Retail,45-54,Maradana,178961,Brand Awareness,Cinema Advertising,Lobby Display,Cinema,Colombo,50213,45-54,103234,0.0226,0.77,0.0581,5,128748,1.0,0.8431,0.8702,2.055922,0.6673
+Financial Services,45-54,Negombo,97848,Event Promotion,Radio Spot,Morning Drive,Audio,Gampaha,88228,45-54,46896,0.0158,0.94,0.0493,26,9620,0.9588,0.7046,0.5172,0.531532,0.5783
+Fashion,25-34,Kalutara Town,230976,Brand Awareness,Newsletter Ad,Promotional Email,Digital,Kalutara,38223,25-34,31870,0.0453,1.03,0.0788,26,192753,0.9087,0.6313,0.6133,0.833791,0.753
+Luxury Goods,55+,Dehiwala,600763,Product Launch,Print Publication Ad,Magazine Full Page,Digital,Colombo,122380,55+,341935,0.0065,0.87,0.0483,22,478383,0.8917,0.8076,0.5533,2.794043,0.5794
+Technology,All Ages,Nugegoda,558362,Product Launch,Cinema Advertising,Intermission Ad,Cinema,Colombo,228266,All Ages,75261,0.013,0.81,0.0515,9,330096,1.0,0.8444,0.5353,0.329707,0.5039
+Automotive,55+,Divulapitiya,211203,Customer Retention,Digital Out-of-Home Screen,Street Level Digital,Outdoor,Gampaha,194035,55+,38150,0.0211,0.83,0.0438,19,17168,0.8473,0.6464,0.8504,0.196614,0.4891
+Education,25-34,Horana,194302,App Downloads,Radio Spot,Prime Time Slot,Audio,Kalutara,77769,25-34,57377,0.0247,0.72,0.0752,10,116533,0.9853,0.5918,0.5451,0.737788,0.702
+Automotive,35-44,Mahabage,115771,App Downloads,Social Media Placement,TikTok Feed,Digital,Gampaha,109230,35-44,161143,0.0372,1.1,0.0576,19,6541,0.7819,0.8045,0.7722,1.475263,0.6195
+Luxury Goods,55+,Mount Lavinia,140018,Event Promotion,Web Display Inventory,Sidebar Ad,Digital,Colombo,65397,55+,52432,0.0164,0.66,0.0361,32,74621,0.8871,0.9248,0.9224,0.801749,0.5959
+Fashion,45-54,Pettah,196040,Lead Generation,Retail & Premises Signage,End Cap Display,Visual,Colombo,125445,45-54,22393,0.0213,1.13,0.0604,29,70595,1.0,0.9572,0.5001,0.178509,0.7389
+E-commerce,35-44,Mahabage,332239,Product Launch,Vehicle Wrap Media,Truck Wrap,Outdoor,Gampaha,113184,35-44,38492,0.0314,1.38,0.0473,37,219055,0.9232,0.8046,0.7512,0.340083,0.6466
+Technology,25-34,Colombo Fort,170998,App Downloads,Outdoor Static Structure,Highway Billboard,Outdoor,Colombo,48926,25-34,62674,0.0164,1.23,0.061,16,122072,0.9183,0.98,0.6427,1.280996,0.7257
+Luxury Goods,55+,Katunayake,454429,Brand Awareness,Event Sponsorship,Exhibition Booth,Event,Gampaha,262296,55+,13541,0.0261,1.02,0.0281,69,192133,0.9105,0.8277,0.7662,0.051625,0.6287
+Entertainment,Families,Mahabage,103952,Website Traffic,Web Display Inventory,Banner Ad,Digital,Gampaha,39085,Families,257720,0.0276,0.87,0.0406,25,64867,1.0,0.5812,0.5004,6.593834,0.7274
+Travel & Tourism,35-44,Beruwala,148922,Event Promotion,TV Spot,Weekend,Audio,Kalutara,129126,35-44,287161,0.021,1.11,0.0423,17,19796,0.9008,0.392,0.5667,2.223882,0.6686
+Financial Services,25-34,Mathugama,297593,Sales Conversion,TV Spot,Daytime,Audio,Kalutara,180998,25-34,354474,0.0248,0.8,0.0586,47,116595,1.0,0.5623,0.7237,1.958442,0.8328
+Telecommunications,35-44,Maradana,360100,Brand Awareness,Outdoor Static Structure,Highway Billboard,Digital,Colombo,194319,35-44,43216,0.024,0.8,0.0503,26,165781,1.0,0.8224,0.5951,0.222397,0.5122
+Telecommunications,25-34,Divulapitiya,322420,Brand Awareness,Newsletter Ad,Special Edition,Print,Gampaha,5350,25-34,8462,0.0503,1.01,0.0568,5,317070,0.9459,0.7515,0.5328,1.581682,0.6871
+Education,Students,Bandaragama,372733,Brand Awareness,Social Media Placement,Instagram Story,Digital,Kalutara,62338,Students,25430,0.0267,0.32,0.0315,26,310395,0.9555,0.4877,0.9161,0.407937,0.7957
+Real Estate,35-44,Dodangoda,438032,Brand Awareness,TV Spot,Weekend,Audio,Kalutara,109513,35-44,126790,0.0196,1.12,0.056,39,328519,1.0,0.4897,0.6762,1.157762,0.7408
+Retail,35-44,Battaramulla,211991,Lead Generation,Event Sponsorship,Title Sponsor,Event,Colombo,81225,35-44,24579,0.0304,1.33,0.0612,8,130766,0.8218,0.8339,0.6849,0.302604,0.5669
+FMCG,35-44,Battaramulla,32281,Event Promotion,Event Sponsorship,Session Sponsor,Event,Colombo,86266,35-44,28968,0.0389,1.47,0.0623,45,-53985,0.8324,0.915,0.7691,0.335799,0.7473
+Hospitality,45-54,Kollupitiya,389160,Brand Awareness,Digital Out-of-Home Screen,Airport Digital Display,Digital,Colombo,215115,45-54,181773,0.0316,0.88,0.0405,25,174045,0.8513,0.7715,0.8938,0.845004,0.7432
+Retail,35-44,Katunayake,94537,Event Promotion,Print Publication Ad,Newspaper Full Page,Print,Gampaha,60314,35-44,52506,0.0177,0.86,0.072,56,34223,0.9853,0.5749,0.714,0.870544,0.4884
+Technology,Young Professionals,Battaramulla,209537,Product Launch,Retail & Premises Signage,Storefront Display,Outdoor,Colombo,98808,Young Professionals,3860,0.0315,1.46,0.0604,47,110729,0.793,0.904,0.8011,0.039066,0.728
+Fashion,Affluent,Gampaha Town,158083,Sales Conversion,Vehicle Wrap Media,Three-Wheeler Wrap,Visual,Gampaha,114426,Affluent,13290,0.0319,1.58,0.0711,35,43657,0.8992,0.7621,0.8002,0.116145,0.7316
+Hospitality,18-24,Wellawatte,183555,Customer Retention,Cinema Advertising,Concession Ad,Cinema,Colombo,143725,18-24,114079,0.0191,0.66,0.0362,14,39830,0.8119,0.9418,0.6257,0.793731,0.5603
+Fashion,35-44,Panadura,185321,App Downloads,Radio Spot,Prime Time Slot,Audio,Kalutara,40793,35-44,206947,0.0224,0.57,0.0581,26,144528,0.8591,0.5211,0.614,5.073101,0.635
+Fashion,All Ages,Divulapitiya,49540,App Downloads,Cinema Advertising,Pre-show Ad,Cinema,Gampaha,138079,All Ages,47269,0.0227,0.69,0.052,9,-88539,1.0,0.646,0.6577,0.342333,0.4882
+Real Estate,45-54,Battaramulla,235484,Customer Retention,Radio Spot,Prime Time Slot,Audio,Colombo,65946,45-54,172048,0.0215,0.45,0.0442,29,169538,1.0,0.747,0.8337,2.608922,0.7472
+Real Estate,35-44,Bulathsinhala,100856,Brand Awareness,Web Display Inventory,Pop-up,Digital,Kalutara,39707,35-44,38169,0.0244,1.16,0.0605,14,61149,0.8483,0.5532,0.5239,0.961266,0.6521
+Education,18-24,Gampaha Town,238573,Brand Awareness,Outdoor Static Structure,Transit Shelter,Digital,Gampaha,177230,18-24,62806,0.0227,0.4,0.0381,39,61343,1.0,0.6759,0.7213,0.354376,0.6461
+Entertainment,25-34,Bambalapitiya,489190,Brand Awareness,Digital Out-of-Home Screen,Train Station Screen,Outdoor,Colombo,166738,25-34,162402,0.0511,0.86,0.0631,5,322452,0.9972,0.7472,0.7892,0.973995,0.6265
+Telecommunications,55+,Bambalapitiya,119222,Customer Retention,Print Publication Ad,Magazine Spread,Digital,Colombo,24810,55+,326638,0.0096,0.68,0.0531,21,94412,0.5383,0.8033,0.8122,13.165578,0.5671
+Telecommunications,45-54,Maradana,113852,Sales Conversion,TV Spot,Daytime,Audio,Colombo,91475,45-54,402415,0.0209,0.68,0.0424,7,22377,0.9795,0.8274,0.7074,4.39918,0.8048
+Food & Beverage,45-54,Kollupitiya,194911,Lead Generation,Cinema Advertising,Pre-show Ad,Cinema,Colombo,169018,45-54,39103,0.0212,0.88,0.0494,18,25893,1.0,0.7757,0.6866,0.231354,0.7266
+Real Estate,45-54,Battaramulla,299002,Lead Generation,Outdoor Static Structure,Highway Billboard,Outdoor,Colombo,72823,45-54,21240,0.0144,1.05,0.0684,24,226179,0.8869,0.8295,0.7038,0.291666,0.8233
+Travel & Tourism,35-44,Nugegoda,412103,Brand Awareness,Retail & Premises Signage,Storefront Display,Visual,Colombo,125097,35-44,32081,0.0324,1.55,0.0692,49,287006,0.7559,0.9293,0.7621,0.256449,0.6137
+Healthcare,Affluent,Mount Lavinia,158995,Event Promotion,Outdoor Static Structure,Street Pole Banner,Digital,Colombo,86674,Affluent,13114,0.0292,1.35,0.071,35,72321,0.8089,0.7962,0.7965,0.151303,0.6894
+Entertainment,45-54,Kadawatha,237496,Sales Conversion,Digital Out-of-Home Screen,Train Station Screen,Outdoor,Gampaha,86162,45-54,58233,0.0324,1.46,0.05,32,151334,0.8412,0.6202,0.7069,0.675855,0.6218
+Entertainment,Young Professionals,Wellawatte,108337,Website Traffic,Digital Out-of-Home Screen,Train Station Screen,Outdoor,Colombo,211000,Young Professionals,89258,0.0454,1.44,0.0726,17,-102663,0.8816,0.933,0.7816,0.423024,0.5788
+Telecommunications,18-24,Kollupitiya,145624,Event Promotion,Social Media Placement,Twitter/X Feed,Digital,Colombo,28836,18-24,183310,0.0271,0.32,0.0363,29,116788,0.9374,0.9606,0.7414,6.356984,0.7328
+Healthcare,35-44,Beruwala,250252,Sales Conversion,TV Spot,Evening,Audio,Kalutara,324939,35-44,38104,0.0317,0.79,0.0616,3,-74687,0.8663,0.5857,0.525,0.117265,0.7493
+E-commerce,55+,Wellawatte,131708,Website Traffic,Web Display Inventory,Interstitial Ad,Digital,Colombo,59255,55+,395622,0.0192,0.71,0.0303,61,72453,0.8734,0.8147,0.9206,6.676601,0.7774
+Technology,18-24,Nugegoda,144101,Customer Retention,Print Publication Ad,Magazine Spread,Digital,Colombo,53195,18-24,262525,0.016,0.47,0.0339,11,90906,0.8739,0.9183,0.5331,4.935144,0.6649
+Financial Services,Affluent,Bambalapitiya,145185,Customer Retention,Print Publication Ad,Magazine Full Page,Digital,Colombo,23866,Affluent,356555,0.0171,1.37,0.0611,16,121319,0.8668,0.9433,0.8953,14.939873,0.7074
+Automotive,35-44,Negombo,61342,Event Promotion,Outdoor Static Structure,Building Wrap,Outdoor,Gampaha,69721,35-44,40351,0.0194,0.8,0.0707,5,-8379,1.0,0.7624,0.5613,0.57875,0.587
+FMCG,35-44,Mahabage,143952,Website Traffic,Vehicle Wrap Media,Bus Wrap,Visual,Gampaha,135064,35-44,83342,0.0273,0.84,0.0743,4,8888,0.8103,0.7983,0.8404,0.617056,0.757
+Travel & Tourism,25-34,Kalutara Town,123986,Website Traffic,Web Display Inventory,Banner Ad,Digital,Kalutara,25359,25-34,55095,0.0265,1.3,0.0396,28,98627,0.8968,0.4706,0.7728,2.172601,0.8238
+Food & Beverage,25-34,Nugegoda,177035,Product Launch,Digital Out-of-Home Screen,Mall Digital Screen,Outdoor,Colombo,148567,25-34,124870,0.0478,1.25,0.0588,32,28468,1.0,0.8417,0.8142,0.840496,0.7312
+Education,55+,Pettah,88153,App Downloads,Print Publication Ad,Magazine Full Page,Print,Colombo,33207,55+,68863,0.0064,0.51,0.0484,36,54946,0.827,0.9588,0.7291,2.07375,0.4554
+Retail,35-44,Nugegoda,187334,Lead Generation,Radio Spot,Prime Time Slot,Audio,Colombo,21793,35-44,254650,0.0209,1.37,0.0554,26,165541,1.0,0.7354,0.8749,11.684945,0.8101
+FMCG,55+,Mahabage,583349,Product Launch,Radio Spot,Evening Drive,Audio,Gampaha,64283,55+,190017,0.0119,0.93,0.0405,13,519066,0.7623,0.5894,0.728,2.955945,0.609
+Real Estate,All Ages,Negombo,185464,Lead Generation,Event Sponsorship,Cocktail Sponsor,Event,Gampaha,197353,All Ages,6154,0.0421,0.8,0.0581,17,-11889,1.0,0.5982,0.7506,0.031183,0.7031
+Luxury Goods,35-44,Bulathsinhala,239907,Customer Retention,Radio Spot,Weekend Slot,Audio,Kalutara,91147,35-44,59758,0.0208,0.74,0.0652,65,148760,0.9285,0.6997,0.9456,0.655622,0.7736
+Telecommunications,35-44,Dehiwala,43842,Event Promotion,Retail & Premises Signage,End Cap Display,Visual,Colombo,99713,35-44,34928,0.0381,1.02,0.0612,39,-55871,1.0,0.7459,0.5298,0.350285,0.4986
+Real Estate,All Ages,Mount Lavinia,134201,App Downloads,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Colombo,130264,All Ages,116080,0.0315,0.54,0.048,28,3937,0.9145,0.886,0.741,0.891113,0.6116
+Luxury Goods,18-24,Bambalapitiya,398668,Product Launch,Cinema Advertising,Intermission Ad,Cinema,Colombo,155992,18-24,84234,0.0121,0.44,0.0321,19,242676,1.0,0.7933,0.644,0.539989,0.7376
+Food & Beverage,Students,Maradana,136193,Lead Generation,Vehicle Wrap Media,Car Wrap,Outdoor,Colombo,54679,Students,88887,0.0252,0.34,0.0366,42,81514,1.0,0.7521,0.9108,1.625615,0.7171
+Retail,18-24,Pettah,140721,Website Traffic,Digital Out-of-Home Screen,Digital Billboard,Digital,Colombo,265301,18-24,194562,0.0409,0.58,0.0277,66,-124580,0.763,0.7642,0.517,0.733363,0.4493
+Healthcare,Young Professionals,Ja-Ela,203660,Sales Conversion,Outdoor Static Structure,Highway Billboard,Outdoor,Gampaha,119928,Young Professionals,36938,0.0294,0.89,0.0689,32,83732,0.9329,0.6771,0.6001,0.308001,0.5574
+Entertainment,Young Professionals,Bulathsinhala,70914,Event Promotion,Social Media Placement,Twitter/X Feed,Digital,Kalutara,37332,Young Professionals,199682,0.0407,0.84,0.065,57,33582,0.8465,0.4841,0.7549,5.348816,0.701
+Food & Beverage,18-24,Ingiriya,76395,Event Promotion,Digital Out-of-Home Screen,Digital Billboard,Outdoor,Kalutara,149728,18-24,55903,0.0316,0.65,0.0371,38,-73333,0.9409,0.4473,0.8209,0.373364,0.5747
+Luxury Goods,25-34,Mahabage,446336,Brand Awareness,Print Publication Ad,Newspaper Full Page,Digital,Gampaha,41423,25-34,136680,0.0215,0.99,0.073,10,404913,0.9413,0.6289,0.5205,3.299616,0.6146
+Automotive,All Ages,Dehiwala,61011,App Downloads,Retail & Premises Signage,Counter Display,Visual,Colombo,97042,All Ages,40938,0.0176,0.76,0.0561,48,-36031,0.9306,0.9858,0.8575,0.421859,0.6552
+Real Estate,Students,Ja-Ela,588807,Product Launch,Print Publication Ad,Newspaper Half Page,Digital,Gampaha,18140,Students,89288,0.0183,0.12,0.0247,64,570667,0.9403,0.5604,0.8671,4.922161,0.6801
+Healthcare,45-54,Dehiwala,98923,App Downloads,Print Publication Ad,Classified,Print,Colombo,11081,45-54,81972,0.0149,0.84,0.0587,28,87842,0.8312,0.9037,0.7534,7.397527,0.6182
+Education,25-34,Gampaha Town,58624,App Downloads,Event Sponsorship,Presenting Sponsor,Event,Gampaha,266936,25-34,6629,0.0539,1.08,0.0704,19,-208312,0.9629,0.5625,0.8406,0.024834,0.5527
+Financial Services,18-24,Pettah,184351,App Downloads,Outdoor Static Structure,Building Wrap,Outdoor,Colombo,70962,18-24,24469,0.0162,0.48,0.0304,45,113389,0.9094,0.908,0.9232,0.344818,0.8686
+Telecommunications,45-54,Bambalapitiya,99860,Sales Conversion,Cinema Advertising,Concession Ad,Cinema,Colombo,172326,45-54,95767,0.0136,1.15,0.0571,17,-72466,1.0,0.7385,0.6193,0.555732,0.4987
+Real Estate,45-54,Gampaha Town,121989,App Downloads,Social Media Placement,Twitter/X Feed,Digital,Gampaha,70290,45-54,329148,0.0283,1.04,0.0447,4,51699,0.9172,0.7486,0.7975,4.682714,0.6565
+E-commerce,Families,Kollupitiya,285333,Lead Generation,Native / Sponsored Content,Featured Content,Digital,Colombo,36087,Families,93595,0.0261,1.2,0.0684,26,249246,0.9528,0.8384,0.7082,2.593593,0.7308
+Healthcare,35-44,Wellawatte,168404,Brand Awareness,Newsletter Ad,Special Edition,Digital,Colombo,21235,35-44,110541,0.0318,1.15,0.0756,41,147169,1.0,0.9857,0.5112,5.205604,0.79
+Fashion,55+,Bambalapitiya,159583,Sales Conversion,Retail & Premises Signage,Window Display,Visual,Colombo,58845,55+,20881,0.0205,1.01,0.0419,41,100738,0.731,0.96,0.6963,0.354847,0.7148
+E-commerce,55+,Wattala,79472,Customer Retention,Outdoor Static Structure,Building Wrap,Outdoor,Gampaha,107233,55+,30943,0.0144,0.69,0.0415,30,-27761,0.8093,0.5889,0.638,0.288559,0.4824
+Hospitality,45-54,Mount Lavinia,274248,Lead Generation,Print Publication Ad,Magazine Spread,Digital,Colombo,45465,45-54,363568,0.0135,1.02,0.0523,22,228783,1.0,0.8993,0.5588,7.996657,0.741
+FMCG,18-24,Panadura,560685,Product Launch,Native / Sponsored Content,Review Sponsorship,Digital,Kalutara,43759,18-24,76790,0.0272,0.54,0.0311,21,516926,0.8454,0.6437,0.6816,1.754839,0.5346
+Retail,25-34,Nugegoda,286577,Sales Conversion,Vehicle Wrap Media,Van Wrap,Outdoor,Colombo,90471,25-34,96115,0.0483,0.92,0.0546,20,196106,0.9119,0.7762,0.5626,1.062385,0.6332
+Fashion,25-34,Dehiwala,76355,Event Promotion,Digital Out-of-Home Screen,Mall Digital Screen,Digital,Colombo,161745,25-34,123136,0.0368,1.3,0.0707,34,-85390,0.7187,0.7133,0.8679,0.761297,0.6212
+Travel & Tourism,25-34,Mahabage,207572,Customer Retention,Outdoor Static Structure,Building Wrap,Digital,Gampaha,155533,25-34,27825,0.0184,1.2,0.0665,23,52039,0.9305,0.5672,0.7615,0.178901,0.7426
+Hospitality,18-24,Colombo Fort,64552,Customer Retention,Newsletter Ad,Promotional Email,Digital,Colombo,9989,18-24,80974,0.0432,0.37,0.0297,35,54563,0.737,0.9084,0.5358,8.106317,0.7333
+Fashion,Affluent,Kadawatha,136653,Event Promotion,Radio Spot,Midday Slot,Audio,Gampaha,127498,Affluent,229602,0.0231,1.41,0.0801,8,9155,0.8646,0.8359,0.7849,1.800828,0.6268
+Automotive,Young Professionals,Ingiriya,32124,Website Traffic,Web Display Inventory,Pop-up,Digital,Kalutara,52962,Young Professionals,177725,0.0303,0.68,0.0585,17,-20838,0.8385,0.5509,0.6514,3.355708,0.5519
+Entertainment,25-34,Bulathsinhala,303238,Lead Generation,Digital Out-of-Home Screen,Mall Digital Screen,Digital,Kalutara,173413,25-34,65940,0.0455,0.74,0.0534,56,129825,0.7402,0.5231,0.7595,0.380248,0.7572
+Technology,35-44,Nugegoda,202222,Customer Retention,Digital Out-of-Home Screen,Airport Digital Display,Digital,Colombo,217102,35-44,246999,0.0316,1.03,0.051,26,-14880,0.7466,0.9639,0.6599,1.137709,0.6994
+Financial Services,25-34,Horana,149232,Sales Conversion,Native / Sponsored Content,Review Sponsorship,Digital,Kalutara,25100,25-34,20425,0.0484,1.33,0.0694,11,124132,0.9199,0.576,0.9371,0.813745,0.8634
+Food & Beverage,45-54,Bambalapitiya,120568,Customer Retention,Outdoor Static Structure,Street Pole Banner,Digital,Colombo,156524,45-54,26693,0.0199,1.18,0.0494,27,-35956,0.6781,0.9835,0.7467,0.170536,0.6741
+E-commerce,25-34,Gampaha Town,171463,App Downloads,Native / Sponsored Content,Article Sponsorship,Digital,Gampaha,66916,25-34,46786,0.0404,0.81,0.0752,6,104547,0.8054,0.764,0.6242,0.699175,0.6535
+Telecommunications,Families,Mount Lavinia,81948,Sales Conversion,Print Publication Ad,Newspaper Half Page,Print,Colombo,30027,Families,21591,0.005,0.77,0.0658,21,51921,0.8815,0.9589,0.7365,0.719053,0.6857
+Hospitality,25-34,Mathugama,178744,Sales Conversion,Vehicle Wrap Media,Bus Wrap,Outdoor,Kalutara,103276,25-34,20278,0.0325,0.82,0.0767,16,75468,0.8905,0.6614,0.6075,0.196348,0.6041
+Real Estate,18-24,Battaramulla,91419,App Downloads,Digital Out-of-Home Screen,Digital Billboard,Digital,Colombo,263030,18-24,41572,0.0248,0.64,0.0374,14,-171611,0.8674,0.8392,0.7025,0.15805,0.4409
+Travel & Tourism,45-54,Pettah,518227,Product Launch,Outdoor Static Structure,Transit Shelter,Digital,Colombo,120405,45-54,125914,0.0171,0.67,0.0596,12,397822,0.8379,0.705,0.8667,1.045754,0.5245
+Travel & Tourism,18-24,Kalutara Town,102984,Event Promotion,Vehicle Wrap Media,Truck Wrap,Outdoor,Kalutara,112536,18-24,39305,0.0196,0.56,0.0383,28,-9552,0.9269,0.5752,0.5095,0.349266,0.4633
+Telecommunications,45-54,Battaramulla,111913,Customer Retention,Retail & Premises Signage,Storefront Display,Visual,Colombo,79393,45-54,8502,0.0217,0.69,0.0516,53,32520,0.9824,0.7294,0.7011,0.107088,0.6047
+Fashion,25-34,Minuwangoda,141361,Website Traffic,Radio Spot,Midday Slot,Audio,Gampaha,31919,25-34,332823,0.0237,1.55,0.0501,78,109442,0.9691,0.6165,0.672,10.427112,0.6409
+Fashion,35-44,Colombo Fort,162210,Customer Retention,Retail & Premises Signage,In-Store Digital,Visual,Colombo,130735,35-44,11264,0.0361,1.17,0.061,31,31475,0.9745,0.7793,0.5585,0.086159,0.7775
+Healthcare,45-54,Divulapitiya,227144,Sales Conversion,Newsletter Ad,Industry Digest,Print,Gampaha,18897,45-54,16432,0.0275,0.97,0.0468,5,208247,0.8492,0.8003,0.8315,0.869556,0.6688
+Education,55+,Mathugama,215042,Lead Generation,Newsletter Ad,Monthly Newsletter,Digital,Kalutara,33354,55+,39674,0.0237,0.95,0.0524,58,181688,0.8519,0.6194,0.934,1.189483,0.7398
+Telecommunications,25-34,Mathugama,175487,Product Launch,Digital Out-of-Home Screen,Airport Digital Display,Digital,Kalutara,245803,25-34,66903,0.0271,1.25,0.0737,47,-70316,1.0,0.4719,0.7887,0.272181,0.7105
+Hospitality,35-44,Bambalapitiya,170854,Brand Awareness,Retail & Premises Signage,In-Store Digital,Visual,Colombo,128400,35-44,49956,0.0324,1.17,0.0828,27,42454,0.9103,0.8675,0.8674,0.389065,0.8557
+Luxury Goods,35-44,Ja-Ela,45711,Event Promotion,Retail & Premises Signage,Storefront Display,Outdoor,Gampaha,119537,35-44,4754,0.0246,0.83,0.0528,52,-73826,0.8879,0.6616,0.9496,0.03977,0.6656
+E-commerce,18-24,Negombo,253594,Product Launch,Social Media Placement,TikTok Feed,Digital,Gampaha,99912,18-24,250656,0.0269,0.52,0.0333,34,153682,0.9087,0.6249,0.8565,2.508768,0.5864
+E-commerce,45-54,Bandaragama,145896,Customer Retention,TV Spot,Sports Program,Audio,Kalutara,129192,45-54,355760,0.0289,0.66,0.0376,29,16704,1.0,0.554,0.8853,2.753731,0.5417
+Retail,45-54,Battaramulla,80638,Event Promotion,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Colombo,166689,45-54,70555,0.027,0.74,0.0493,31,-86051,1.0,0.9454,0.8113,0.423273,0.5943
+Fashion,All Ages,Ja-Ela,267976,Lead Generation,Native / Sponsored Content,Sponsored Video,Digital,Gampaha,65571,All Ages,133080,0.0348,0.89,0.0403,55,202405,0.9525,0.7881,0.6039,2.029556,0.7512
+Luxury Goods,35-44,Gampaha Town,112328,Website Traffic,Outdoor Static Structure,City Center Billboard,Outdoor,Gampaha,127097,35-44,22537,0.0218,1.19,0.0518,40,-14769,0.8994,0.5954,0.7471,0.177321,0.698
+Entertainment,Young Professionals,Kandana,44106,Website Traffic,Radio Spot,Morning Drive,Audio,Gampaha,95567,Young Professionals,191487,0.0266,1.07,0.0558,5,-51461,1.0,0.8072,0.545,2.003694,0.6893
+Hospitality,Young Professionals,Wellawatte,89533,Sales Conversion,Outdoor Static Structure,City Center Billboard,Outdoor,Colombo,37995,Young Professionals,61688,0.0289,0.46,0.0696,34,51538,0.8206,0.7102,0.8082,1.623582,0.6246
+Luxury Goods,Young Professionals,Bambalapitiya,40743,App Downloads,Social Media Placement,Instagram Story,Digital,Colombo,62372,Young Professionals,575729,0.033,1.09,0.0705,8,-21629,0.9415,0.9375,0.5519,9.230568,0.688
+Travel & Tourism,35-44,Battaramulla,326787,Lead Generation,Retail & Premises Signage,Storefront Display,Visual,Colombo,125025,35-44,45417,0.028,1.43,0.043,11,201762,0.9431,0.9359,0.8386,0.363263,0.7683
+Luxury Goods,55+,Mount Lavinia,163324,Sales Conversion,Digital Out-of-Home Screen,Mall Digital Screen,Digital,Colombo,249133,55+,50328,0.0281,1.12,0.0422,46,-85809,1.0,0.8211,0.682,0.202013,0.5329
+Retail,35-44,Kollupitiya,260413,Lead Generation,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Colombo,227169,35-44,66425,0.0201,1.29,0.0508,12,33244,0.9082,0.9293,0.7614,0.292403,0.7035
+Food & Beverage,18-24,Nugegoda,182317,Product Launch,Native / Sponsored Content,Review Sponsorship,Digital,Colombo,60365,18-24,81614,0.0301,0.53,0.0288,14,121952,0.9572,0.8978,0.6831,1.352009,0.6395
+Food & Beverage,Affluent,Mathugama,730936,Product Launch,Social Media Placement,LinkedIn Feed,Digital,Kalutara,87494,Affluent,76671,0.0356,1.38,0.0615,46,643442,0.8372,0.538,0.9383,0.8763,0.5627
+Healthcare,35-44,Battaramulla,217565,Sales Conversion,Vehicle Wrap Media,Car Wrap,Visual,Colombo,125234,35-44,147796,0.0281,1.2,0.0557,7,92331,1.0,0.7303,0.7643,1.180159,0.8438
+Luxury Goods,55+,Wellawatte,411495,Brand Awareness,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Colombo,131914,55+,91578,0.0265,0.43,0.0349,6,279581,0.8316,0.7462,0.6696,0.694225,0.5715
+Telecommunications,35-44,Wellawatte,517229,Product Launch,Native / Sponsored Content,Featured Content,Digital,Colombo,65879,35-44,109279,0.0446,1.06,0.0585,22,451350,0.9462,0.7834,0.9006,1.658784,0.6055
+Retail,35-44,Minuwangoda,121642,App Downloads,Outdoor Static Structure,Transit Shelter,Outdoor,Gampaha,74597,35-44,15716,0.0217,0.7,0.0708,34,47045,0.9725,0.7514,0.6191,0.210679,0.6598
+Automotive,35-44,Ingiriya,196789,Lead Generation,Native / Sponsored Content,Featured Content,Digital,Kalutara,27675,35-44,14942,0.0368,0.67,0.0594,14,169114,0.9315,0.3329,0.7476,0.53991,0.6973
+Automotive,45-54,Wellawatte,169744,Product Launch,Cinema Advertising,Tickets Ad,Cinema,Colombo,107113,45-54,106903,0.019,0.69,0.0451,32,62631,0.8335,0.8124,0.5035,0.998039,0.6348
+Fashion,35-44,Mahabage,492690,Brand Awareness,Radio Spot,Weekend Slot,Audio,Gampaha,52662,35-44,55286,0.0292,0.9,0.0642,21,440028,0.9756,0.7932,0.9323,1.049827,0.7653
+Food & Beverage,Students,Mount Lavinia,139770,Event Promotion,Web Display Inventory,Pop-up,Digital,Colombo,52689,Students,409096,0.0174,0.38,0.0231,42,87081,0.9295,0.9946,0.8159,7.764353,0.707
+Healthcare,35-44,Mathugama,67401,Website Traffic,Newsletter Ad,Special Edition,Print,Kalutara,27747,35-44,20219,0.0283,0.83,0.0649,21,39654,1.0,0.4256,0.8079,0.728691,0.6156
+Automotive,25-34,Bandaragama,146321,Website Traffic,Digital Out-of-Home Screen,Street Level Digital,Outdoor,Kalutara,138735,25-34,9684,0.0467,1.2,0.0492,10,7586,0.9907,0.4635,0.8118,0.069802,0.7343
+Financial Services,Young Professionals,Battaramulla,286341,Sales Conversion,Digital Out-of-Home Screen,Street Level Digital,Outdoor,Colombo,219108,Young Professionals,26827,0.041,0.64,0.065,32,67233,0.7335,0.8611,0.5952,0.122437,0.6719
+Hospitality,18-24,Battaramulla,85500,Event Promotion,Digital Out-of-Home Screen,Mall Digital Screen,Digital,Colombo,287452,18-24,107075,0.0323,0.46,0.0324,18,-201952,0.948,0.9253,0.5288,0.372497,0.5517
+FMCG,18-24,Wattala,159688,App Downloads,Radio Spot,Prime Time Slot,Audio,Gampaha,62523,18-24,287822,0.0159,0.57,0.0369,24,97165,0.9381,0.6336,0.7635,4.603458,0.6552
+Hospitality,18-24,Nugegoda,51473,App Downloads,Newsletter Ad,Weekly Newsletter,Print,Colombo,16086,18-24,12397,0.0331,0.4,0.0297,12,35387,0.9453,0.9072,0.7459,0.77067,0.7341
+Travel & Tourism,Young Professionals,Nugegoda,111484,Website Traffic,Radio Spot,Midday Slot,Audio,Colombo,77591,Young Professionals,420211,0.0263,0.87,0.0575,11,33893,0.7034,0.9938,0.6368,5.415718,0.5713
+Automotive,All Ages,Gampaha Town,233585,Lead Generation,Newsletter Ad,Industry Digest,Print,Gampaha,20500,All Ages,12553,0.0424,0.64,0.053,13,213085,0.7514,0.6011,0.5775,0.612341,0.5267
+Education,25-34,Mount Lavinia,134858,Lead Generation,TV Spot,Evening,Audio,Colombo,220539,25-34,287379,0.0286,1.16,0.0691,17,-85681,0.7046,0.7172,0.7047,1.303076,0.5249
+Food & Beverage,45-54,Mahabage,98441,Website Traffic,Vehicle Wrap Media,Three-Wheeler Wrap,Visual,Gampaha,91309,45-54,75488,0.0239,0.69,0.0544,7,7132,1.0,0.794,0.863,0.826731,0.7013
+Luxury Goods,35-44,Wattala,75974,App Downloads,Outdoor Static Structure,Street Pole Banner,Outdoor,Gampaha,60289,35-44,47053,0.0256,0.72,0.0605,26,15685,0.7007,0.8452,0.6914,0.780457,0.5428
+Hospitality,All Ages,Dodangoda,186480,App Downloads,Social Media Placement,Twitter/X Feed,Digital,Kalutara,15409,All Ages,147259,0.0269,0.71,0.0461,19,171071,1.0,0.5647,0.8245,9.556688,0.5999
+Healthcare,25-34,Pettah,239168,Customer Retention,Retail & Premises Signage,Counter Display,Outdoor,Colombo,37368,25-34,28538,0.0357,1.23,0.0646,14,201800,0.7742,0.8839,0.739,0.763702,0.798
+Travel & Tourism,Families,Ja-Ela,148509,App Downloads,Event Sponsorship,Exhibition Booth,Event,Gampaha,499938,Families,10164,0.0448,0.49,0.0716,27,-351429,0.9591,0.5345,0.7573,0.020331,0.5001
+FMCG,Families,Dehiwala,173132,Event Promotion,Outdoor Static Structure,Transit Shelter,Outdoor,Colombo,78686,Families,81015,0.0171,1.05,0.0602,20,94446,0.8089,0.7226,0.5142,1.029599,0.5497
+Food & Beverage,35-44,Ja-Ela,99089,Website Traffic,Web Display Inventory,Video Ad,Digital,Gampaha,85673,35-44,144223,0.0323,0.81,0.062,32,13416,0.8852,0.5474,0.5701,1.683413,0.6016
+Automotive,35-44,Ja-Ela,152904,Event Promotion,Native / Sponsored Content,Partner Post,Digital,Gampaha,48579,35-44,88008,0.0367,1.49,0.0594,6,104325,0.8772,0.7516,0.5969,1.811647,0.766
+E-commerce,Students,Colombo Fort,159879,Event Promotion,Print Publication Ad,Newspaper Full Page,Print,Colombo,23217,Students,127745,0.013,0.43,0.0288,10,136662,0.7848,0.8204,0.8235,5.502218,0.6306
+Travel & Tourism,Young Professionals,Negombo,119315,Customer Retention,Social Media Placement,TikTok Feed,Digital,Gampaha,22072,Young Professionals,228945,0.0383,1.1,0.0414,60,97243,0.9411,0.5527,0.8974,10.372644,0.6844
+Hospitality,25-34,Kandana,177923,Customer Retention,Digital Out-of-Home Screen,Street Level Digital,Digital,Gampaha,115197,25-34,140873,0.0572,0.88,0.0704,9,62726,0.7482,0.7565,0.5489,1.222888,0.5864
+E-commerce,25-34,Katunayake,269256,Sales Conversion,TV Spot,Prime Time,Audio,Gampaha,65809,25-34,219378,0.0402,1.43,0.0563,9,203447,0.8314,0.5292,0.8768,3.333556,0.6308
+Healthcare,25-34,Mahabage,80210,Sales Conversion,Outdoor Static Structure,Highway Billboard,Outdoor,Gampaha,81273,25-34,14060,0.0293,0.83,0.0506,20,-1063,0.9478,0.8231,0.8366,0.172997,0.5667
+Retail,45-54,Katunayake,318095,Brand Awareness,Native / Sponsored Content,Sponsored Video,Digital,Gampaha,88718,45-54,17877,0.0245,0.83,0.0485,9,229377,0.9959,0.6307,0.8936,0.201504,0.6644
+Healthcare,45-54,Mount Lavinia,121400,Website Traffic,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Colombo,191410,45-54,62756,0.0401,0.62,0.0434,24,-70010,0.7042,0.7535,0.916,0.327862,0.526
+Education,18-24,Nugegoda,140447,App Downloads,TV Spot,Sports Program,Audio,Colombo,220919,18-24,431774,0.0213,0.41,0.0305,39,-80472,0.9541,0.9857,0.8707,1.954445,0.805
+Travel & Tourism,All Ages,Bambalapitiya,60564,Customer Retention,Print Publication Ad,Newspaper Full Page,Print,Colombo,37926,All Ages,161824,0.0148,0.93,0.0426,13,22638,1.0,0.9988,0.5804,4.266835,0.4601
+Entertainment,45-54,Colombo Fort,115383,Lead Generation,Cinema Advertising,Tickets Ad,Cinema,Colombo,82996,45-54,110684,0.0164,0.93,0.0436,50,32387,0.8816,0.8272,0.7505,1.333606,0.7005
+Technology,35-44,Dehiwala,328655,Brand Awareness,Cinema Advertising,Concession Ad,Cinema,Colombo,104184,35-44,47687,0.0222,0.92,0.0523,25,224471,0.744,0.7624,0.8601,0.457719,0.6954
+E-commerce,Affluent,Mahabage,236321,Customer Retention,Native / Sponsored Content,Featured Content,Digital,Gampaha,73759,Affluent,57868,0.043,0.83,0.0734,41,162562,0.9356,0.6299,0.5339,0.784555,0.6556
+E-commerce,45-54,Divulapitiya,156426,Lead Generation,Native / Sponsored Content,Partner Post,Digital,Gampaha,107673,45-54,137721,0.0305,0.91,0.0478,10,48753,0.964,0.644,0.8218,1.279067,0.6139
+Retail,35-44,Nugegoda,97188,Event Promotion,Newsletter Ad,Special Edition,Digital,Colombo,54677,35-44,106055,0.0606,1.1,0.0626,7,42511,0.9496,0.8839,0.5252,1.939664,0.8118
+Fashion,18-24,Mount Lavinia,98066,Event Promotion,Digital Out-of-Home Screen,Street Level Digital,Digital,Colombo,255884,18-24,129257,0.0288,0.63,0.042,23,-157818,0.8337,0.751,0.6284,0.505139,0.5495
+Fashion,All Ages,Kadawatha,57677,App Downloads,Retail & Premises Signage,Counter Display,Outdoor,Gampaha,48839,All Ages,15356,0.0241,0.46,0.0452,31,8838,1.0,0.5213,0.6067,0.314421,0.7066
+Education,35-44,Wattala,639004,Product Launch,Native / Sponsored Content,Article Sponsorship,Digital,Gampaha,33271,35-44,95388,0.0377,1.02,0.0581,33,605733,0.9284,0.8149,0.5532,2.867001,0.6461
+Education,Families,Negombo,72319,Customer Retention,Retail & Premises Signage,Window Display,Visual,Gampaha,190627,Families,12879,0.027,0.65,0.0572,25,-118308,1.0,0.8357,0.7874,0.067561,0.6421
+E-commerce,45-54,Mathugama,189989,Sales Conversion,Print Publication Ad,Classified,Digital,Kalutara,61006,45-54,44526,0.0104,0.46,0.0564,18,128983,1.0,0.4463,0.8269,0.729863,0.5565
+Automotive,25-34,Negombo,74047,Website Traffic,Print Publication Ad,Magazine Full Page,Print,Gampaha,18963,25-34,56506,0.0182,1.13,0.0635,41,55084,0.9093,0.7054,0.6236,2.979803,0.7043
+Technology,45-54,Bandaragama,510825,Product Launch,Retail & Premises Signage,Counter Display,Visual,Kalutara,118247,45-54,8802,0.0214,1.02,0.0521,33,392578,1.0,0.6357,0.925,0.074437,0.8167
+FMCG,18-24,Kandana,95438,Customer Retention,Retail & Premises Signage,Window Display,Visual,Gampaha,48489,18-24,10263,0.0258,0.52,0.0365,8,46949,0.9689,0.8421,0.5234,0.211656,0.5513
+Luxury Goods,35-44,Kandana,530970,Product Launch,Social Media Placement,TikTok Feed,Digital,Gampaha,59466,35-44,339223,0.0286,1.5,0.0577,29,471504,1.0,0.7397,0.9196,5.704487,0.7001
+FMCG,25-34,Panadura,244719,Brand Awareness,Digital Out-of-Home Screen,Airport Digital Display,Digital,Kalutara,191883,25-34,11201,0.0259,0.72,0.0738,47,52836,0.847,0.3943,0.7076,0.058374,0.4107
+Telecommunications,45-54,Bambalapitiya,334691,Lead Generation,Cinema Advertising,Lobby Display,Cinema,Colombo,153601,45-54,126767,0.0159,0.7,0.0568,9,181090,1.0,0.7792,0.7893,0.825301,0.5177
+Healthcare,35-44,Battaramulla,36152,Website Traffic,Radio Spot,Evening Drive,Audio,Colombo,69826,35-44,300377,0.0304,0.95,0.0698,18,-33674,1.0,0.8258,0.6338,4.301793,0.5762
+Travel & Tourism,25-34,Dehiwala,659481,Product Launch,Outdoor Static Structure,Highway Billboard,Digital,Colombo,108084,25-34,125949,0.0155,0.66,0.0589,21,551397,0.8761,0.9899,0.5689,1.165288,0.606
+Retail,All Ages,Pettah,124438,Event Promotion,TV Spot,Prime Time,Audio,Colombo,104717,All Ages,698792,0.0261,0.71,0.0539,33,19721,0.9174,0.7629,0.5896,6.673148,0.5298
+Real Estate,45-54,Pettah,119403,Sales Conversion,Outdoor Static Structure,City Center Billboard,Digital,Colombo,74227,45-54,43786,0.0177,0.99,0.0456,16,45176,1.0,0.9023,0.6512,0.589893,0.7547
+Hospitality,35-44,Kadawatha,82963,Website Traffic,Digital Out-of-Home Screen,Digital Billboard,Digital,Gampaha,114395,35-44,58734,0.0365,1.34,0.0526,41,-31432,1.0,0.8355,0.5096,0.513432,0.6468
+Technology,45-54,Ja-Ela,129268,Sales Conversion,Vehicle Wrap Media,Bus Wrap,Outdoor,Gampaha,42406,45-54,64978,0.0244,0.68,0.0421,14,86862,1.0,0.5077,0.7542,1.532283,0.7187
+Real Estate,18-24,Mahabage,187318,Sales Conversion,TV Spot,Daytime,Audio,Gampaha,244310,18-24,486961,0.023,0.26,0.0385,41,-56992,0.9348,0.5821,0.6181,1.993209,0.4577
+Luxury Goods,45-54,Pettah,261934,Product Launch,Print Publication Ad,Magazine Full Page,Print,Colombo,15455,45-54,49602,0.0162,1.28,0.0496,24,246479,0.794,0.8977,0.5228,3.209447,0.8137
+Education,35-44,Kollupitiya,51923,Website Traffic,Newsletter Ad,Weekly Newsletter,Print,Colombo,3904,35-44,19214,0.0484,1.0,0.0549,19,48019,0.9981,0.7593,0.6638,4.921619,0.6698
+FMCG,18-24,Minuwangoda,155941,App Downloads,Event Sponsorship,Cocktail Sponsor,Event,Gampaha,480480,18-24,18018,0.0312,0.6,0.0268,5,-324539,0.9291,0.7581,0.5012,0.0375,0.6015
+E-commerce,Young Professionals,Mahabage,128939,App Downloads,Native / Sponsored Content,Sponsored Video,Digital,Gampaha,91551,Young Professionals,24998,0.0515,0.72,0.0645,10,37388,0.7978,0.7126,0.5833,0.27305,0.5416
+Food & Beverage,35-44,Bambalapitiya,319487,Brand Awareness,Outdoor Static Structure,Highway Billboard,Digital,Colombo,169935,35-44,59875,0.0253,0.93,0.0464,47,149552,1.0,0.9687,0.6595,0.352341,0.7861
+Healthcare,Families,Battaramulla,156324,Brand Awareness,Cinema Advertising,Intermission Ad,Cinema,Colombo,220758,Families,71965,0.0204,0.72,0.0457,48,-64434,0.9002,0.8152,0.8469,0.32599,0.5919
+Automotive,45-54,Wellawatte,86560,App Downloads,Radio Spot,Morning Drive,Audio,Colombo,32951,45-54,274925,0.0112,0.76,0.0494,53,53609,0.8979,0.7024,0.8414,8.343449,0.5399
+Technology,All Ages,Minuwangoda,126808,Lead Generation,Native / Sponsored Content,Review Sponsorship,Digital,Gampaha,62893,All Ages,104676,0.0362,1.32,0.0616,16,63915,1.0,0.5226,0.8302,1.664351,0.6291
+E-commerce,35-44,Maradana,119611,Event Promotion,Digital Out-of-Home Screen,Train Station Screen,Digital,Colombo,120419,35-44,133652,0.0332,1.15,0.0761,6,-808,0.8712,0.9343,0.9462,1.109891,0.746
+Automotive,55+,Divulapitiya,111067,App Downloads,Newsletter Ad,Special Edition,Digital,Gampaha,21849,55+,66615,0.0361,0.58,0.0385,44,89218,0.7321,0.5575,0.5252,3.048881,0.6724
+Food & Beverage,55+,Divulapitiya,236893,Sales Conversion,Vehicle Wrap Media,Van Wrap,Visual,Gampaha,139904,55+,48521,0.0205,0.61,0.0413,8,96989,0.9603,0.7909,0.6269,0.346816,0.6608
+Hospitality,35-44,Dodangoda,257470,Brand Awareness,Newsletter Ad,Promotional Email,Digital,Kalutara,12812,35-44,19945,0.0528,1.19,0.062,35,244658,0.99,0.6762,0.905,1.556744,0.7362
+Automotive,25-34,Dehiwala,149909,Sales Conversion,Radio Spot,Prime Time Slot,Audio,Colombo,24269,25-34,344733,0.0231,1.24,0.0596,37,125640,0.7536,0.8368,0.929,14.204664,0.6797
+Financial Services,55+,Katunayake,121396,Sales Conversion,Social Media Placement,Instagram Story,Digital,Gampaha,56181,55+,84919,0.0213,0.65,0.0382,34,65215,0.7022,0.8221,0.8956,1.511525,0.4524
+Technology,45-54,Kollupitiya,209915,Sales Conversion,Web Display Inventory,Video Ad,Digital,Colombo,35910,45-54,276650,0.0293,0.79,0.0425,16,174005,0.9172,0.7401,0.7202,7.703982,0.7422
+Healthcare,18-24,Kalutara Town,72909,Event Promotion,TV Spot,Weekend,Audio,Kalutara,160989,18-24,183074,0.0244,0.17,0.0346,6,-88080,0.8878,0.3574,0.7975,1.137183,0.5803
+Travel & Tourism,18-24,Wellawatte,554413,Product Launch,TV Spot,Daytime,Audio,Colombo,266922,18-24,613761,0.0249,0.59,0.0433,39,287491,0.8471,0.7725,0.5006,2.299402,0.7616
+Real Estate,35-44,Minuwangoda,584015,Product Launch,Web Display Inventory,Banner Ad,Digital,Gampaha,13276,35-44,184684,0.0319,1.55,0.0573,21,570739,0.9045,0.8136,0.8877,13.911118,0.7576
+Travel & Tourism,35-44,Colombo Fort,140627,Customer Retention,Cinema Advertising,Intermission Ad,Cinema,Colombo,179087,35-44,116865,0.0285,1.11,0.0606,30,-38460,1.0,0.8471,0.5179,0.65256,0.5798
+FMCG,35-44,Gampaha Town,211836,Customer Retention,TV Spot,Daytime,Audio,Gampaha,107687,35-44,437472,0.0286,1.02,0.0289,5,104149,0.9872,0.842,0.8585,4.06244,0.6593
+Entertainment,25-34,Mount Lavinia,113402,Customer Retention,TV Spot,Sports Program,Audio,Colombo,151411,25-34,179726,0.0399,0.79,0.0627,37,-38009,0.8482,0.7636,0.6531,1.187008,0.6524
+Telecommunications,Families,Katunayake,126139,Lead Generation,Retail & Premises Signage,Window Display,Visual,Gampaha,151487,Families,21127,0.024,1.02,0.0492,14,-25348,1.0,0.5276,0.6246,0.139464,0.533
+Food & Beverage,All Ages,Colombo Fort,89393,Website Traffic,Digital Out-of-Home Screen,Mall Digital Screen,Digital,Colombo,162207,All Ages,38314,0.0289,1.09,0.0498,15,-72814,1.0,0.9305,0.8613,0.236204,0.723
+Real Estate,25-34,Dehiwala,113666,Website Traffic,Social Media Placement,Instagram Story,Digital,Colombo,85098,25-34,191426,0.0296,1.02,0.0603,26,28568,0.9832,0.7759,0.783,2.249477,0.7377
+Education,45-54,Nugegoda,245533,Customer Retention,Social Media Placement,Instagram Story,Digital,Colombo,16792,45-54,617936,0.0347,0.82,0.0491,12,228741,0.8823,0.9417,0.5042,36.799428,0.646
+Technology,25-34,Battaramulla,50786,Event Promotion,Retail & Premises Signage,Storefront Display,Visual,Colombo,44270,25-34,53915,0.0258,0.57,0.0801,12,6516,0.8982,0.7104,0.7109,1.217868,0.5274
+Retail,18-24,Kandana,106793,Lead Generation,Radio Spot,Prime Time Slot,Audio,Gampaha,35261,18-24,42849,0.0151,0.57,0.0346,12,71532,0.9219,0.8227,0.8558,1.215195,0.6486
+Automotive,25-34,Kadawatha,184240,Brand Awareness,Digital Out-of-Home Screen,Digital Billboard,Outdoor,Gampaha,115650,25-34,34903,0.0352,0.88,0.0717,49,68590,0.9605,0.59,0.7781,0.301799,0.8014
+Entertainment,45-54,Ingiriya,189973,Product Launch,Retail & Premises Signage,Storefront Display,Visual,Kalutara,67405,45-54,6600,0.0177,1.34,0.0481,41,122568,0.874,0.4824,0.5174,0.097916,0.6367
+Entertainment,45-54,Kalutara Town,472411,Brand Awareness,Outdoor Static Structure,City Center Billboard,Outdoor,Kalutara,36142,45-54,13425,0.0151,0.92,0.0635,50,436269,0.6782,0.5065,0.8112,0.371451,0.595
+Hospitality,55+,Ja-Ela,289415,Brand Awareness,Web Display Inventory,Interstitial Ad,Digital,Gampaha,32915,55+,125745,0.0165,0.85,0.0355,33,256500,0.8525,0.5737,0.8134,3.820295,0.6366
+Luxury Goods,Families,Nugegoda,214371,Brand Awareness,Retail & Premises Signage,In-Store Digital,Outdoor,Colombo,47482,Families,12734,0.0246,0.37,0.0641,43,166889,0.9253,0.894,0.6578,0.268186,0.706
+Retail,Families,Gampaha Town,340087,Lead Generation,Event Sponsorship,Session Sponsor,Event,Gampaha,204347,Families,8089,0.0524,1.0,0.0572,14,135740,0.8332,0.5032,0.5901,0.039585,0.7331
+FMCG,55+,Dodangoda,265012,Lead Generation,Outdoor Static Structure,Street Pole Banner,Digital,Kalutara,94853,55+,12168,0.0119,0.66,0.0457,24,170159,0.9359,0.4595,0.8377,0.128283,0.614
+Food & Beverage,Families,Negombo,303548,Lead Generation,TV Spot,Sports Program,Audio,Gampaha,350398,Families,229804,0.0259,1.1,0.0475,25,-46850,1.0,0.5619,0.7664,0.655837,0.7707
+Telecommunications,45-54,Mahabage,285391,Brand Awareness,Newsletter Ad,Monthly Newsletter,Print,Gampaha,14383,45-54,10650,0.0362,0.97,0.0611,21,271008,0.7001,0.5472,0.5117,0.740457,0.6152
+Education,55+,Bandaragama,137876,Event Promotion,Outdoor Static Structure,Transit Shelter,Outdoor,Kalutara,60715,55+,11919,0.0101,0.73,0.0414,23,77161,0.7572,0.6364,0.5658,0.196311,0.5759
+Real Estate,Affluent,Divulapitiya,678174,Product Launch,Event Sponsorship,Exhibition Booth,Event,Gampaha,248571,Affluent,9910,0.0324,1.5,0.0731,4,429603,1.0,0.6121,0.6724,0.039868,0.6543
+Technology,55+,Mount Lavinia,107338,Event Promotion,Native / Sponsored Content,Featured Content,Digital,Colombo,40412,55+,66396,0.0152,0.71,0.0432,19,66926,0.6502,0.811,0.8721,1.642977,0.4985
+Financial Services,45-54,Kandana,323628,Product Launch,Digital Out-of-Home Screen,Mall Digital Screen,Outdoor,Gampaha,84234,45-54,25480,0.0388,0.96,0.0367,16,239394,0.9317,0.8451,0.5142,0.302491,0.5986
+Real Estate,18-24,Gampaha Town,150488,App Downloads,Native / Sponsored Content,Partner Post,Digital,Gampaha,84700,18-24,111209,0.0178,0.58,0.0359,7,65788,0.7981,0.5903,0.5687,1.312975,0.5183
+Technology,45-54,Kandana,431546,Product Launch,Event Sponsorship,Session Sponsor,Event,Gampaha,97040,45-54,26615,0.0393,0.8,0.0517,21,334506,0.9819,0.7337,0.7996,0.274268,0.8209
+E-commerce,18-24,Aluthgama,286222,Sales Conversion,Vehicle Wrap Media,Car Wrap,Outdoor,Kalutara,52474,18-24,18969,0.0288,0.58,0.0379,4,233748,0.8592,0.4261,0.8938,0.361493,0.6258
+Hospitality,18-24,Bambalapitiya,670453,Product Launch,Vehicle Wrap Media,Van Wrap,Outdoor,Colombo,37756,18-24,24847,0.0238,0.59,0.0391,39,632697,0.8919,0.93,0.8654,0.658094,0.7561
+Telecommunications,18-24,Divulapitiya,193139,App Downloads,Print Publication Ad,Newspaper Half Page,Print,Gampaha,62472,18-24,44879,0.0109,0.71,0.0316,47,130667,0.986,0.6826,0.7427,0.718386,0.4321
+Education,55+,Nugegoda,42186,Website Traffic,Newsletter Ad,Monthly Newsletter,Print,Colombo,26773,55+,33248,0.029,0.63,0.0428,42,15413,0.9638,0.9276,0.5439,1.241848,0.7426
+Fashion,18-24,Bambalapitiya,116708,Lead Generation,Social Media Placement,LinkedIn Feed,Digital,Colombo,24166,18-24,580884,0.0325,0.41,0.0367,36,92542,0.8332,0.7084,0.6736,24.037242,0.4531
+Retail,25-34,Kollupitiya,64660,Event Promotion,TV Spot,Weekend,Audio,Colombo,172786,25-34,595784,0.0328,0.96,0.0656,29,-108126,0.7678,0.7548,0.5328,3.448103,0.5559
+Entertainment,18-24,Kadawatha,212447,Sales Conversion,Radio Spot,Morning Drive,Audio,Gampaha,45598,18-24,235367,0.015,0.4,0.0332,11,166849,1.0,0.6533,0.8492,5.161783,0.5771
+Hospitality,35-44,Beruwala,85118,Lead Generation,Radio Spot,Weekend Slot,Audio,Kalutara,22868,35-44,213454,0.0301,1.28,0.0581,16,62250,0.903,0.3552,0.5595,9.334179,0.5779
+Technology,25-34,Dehiwala,91932,App Downloads,Retail & Premises Signage,Storefront Display,Visual,Colombo,127324,25-34,38840,0.0396,1.24,0.0712,33,-35392,0.9697,0.7276,0.525,0.305049,0.6897
+Fashion,Young Professionals,Bulathsinhala,178992,Event Promotion,Social Media Placement,Twitter/X Feed,Digital,Kalutara,93334,Young Professionals,37818,0.0422,0.88,0.0625,44,85658,0.9191,0.6042,0.7354,0.40519,0.7206
+Financial Services,25-34,Bandaragama,65777,Website Traffic,Retail & Premises Signage,Storefront Display,Visual,Kalutara,135912,25-34,18152,0.0287,1.17,0.0693,50,-70135,0.8793,0.6047,0.548,0.133557,0.566
+Hospitality,35-44,Negombo,172892,Product Launch,Outdoor Static Structure,Street Pole Banner,Digital,Gampaha,125046,35-44,34857,0.0184,1.48,0.0522,40,47846,0.8617,0.6552,0.5261,0.278753,0.5478
+Automotive,55+,Pettah,315335,Brand Awareness,Social Media Placement,Twitter/X Feed,Digital,Colombo,47984,55+,505181,0.0174,0.68,0.0406,44,267351,1.0,0.8021,0.6452,10.528114,0.6135
+Food & Beverage,Students,Dehiwala,128976,Website Traffic,Print Publication Ad,Magazine Spread,Print,Colombo,61931,Students,77670,0.0134,0.35,0.0247,12,67045,1.0,0.9907,0.848,1.254138,0.7421
+Real Estate,45-54,Kandana,224592,Lead Generation,Web Display Inventory,Banner Ad,Digital,Gampaha,44722,45-54,263150,0.0213,0.72,0.0503,22,179870,0.8861,0.8045,0.8358,5.884129,0.6033
+Healthcare,35-44,Minuwangoda,406431,Brand Awareness,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Gampaha,136958,35-44,87021,0.0299,1.14,0.0569,10,269473,0.9162,0.5773,0.5693,0.635385,0.5755
+Food & Beverage,55+,Gampaha Town,429357,Product Launch,Print Publication Ad,Classified,Digital,Gampaha,46298,55+,210373,0.0105,0.62,0.0357,36,383059,0.9027,0.6145,0.6481,4.54389,0.5744
+Healthcare,45-54,Kollupitiya,131938,Event Promotion,Web Display Inventory,Sidebar Ad,Digital,Colombo,37336,45-54,304178,0.0316,0.67,0.0482,29,94602,1.0,0.8804,0.6563,8.147043,0.6579
+Education,Families,Ja-Ela,173538,Brand Awareness,Native / Sponsored Content,Article Sponsorship,Digital,Gampaha,75332,Families,58060,0.0272,0.88,0.0533,9,98206,0.9501,0.5391,0.7881,0.770722,0.6244
+Luxury Goods,45-54,Battaramulla,86153,Customer Retention,Cinema Advertising,Tickets Ad,Cinema,Colombo,213236,45-54,120827,0.0185,1.16,0.0586,13,-127083,0.8539,0.756,0.5461,0.566635,0.61
+Luxury Goods,Affluent,Bambalapitiya,51789,Website Traffic,Outdoor Static Structure,Highway Billboard,Outdoor,Colombo,117065,Affluent,38398,0.0263,1.3,0.0795,70,-65276,0.8332,0.9333,0.7217,0.328006,0.5298
+Travel & Tourism,35-44,Katunayake,105439,Event Promotion,Event Sponsorship,Session Sponsor,Event,Gampaha,226529,35-44,5923,0.0328,1.14,0.0626,17,-121090,1.0,0.5646,0.6229,0.026147,0.7296
+E-commerce,All Ages,Katunayake,204464,Sales Conversion,Native / Sponsored Content,Sponsored Video,Digital,Gampaha,81269,All Ages,77417,0.0273,0.84,0.0635,9,123195,1.0,0.7531,0.5131,0.952602,0.6367
+Technology,35-44,Dodangoda,415601,Brand Awareness,Outdoor Static Structure,Building Wrap,Outdoor,Kalutara,46647,35-44,17932,0.0226,1.46,0.0493,23,368954,0.9975,0.3147,0.5835,0.384419,0.6021
+Technology,45-54,Bambalapitiya,222979,Brand Awareness,Social Media Placement,Instagram Story,Digital,Colombo,49774,45-54,91650,0.0328,1.12,0.0549,37,173205,0.8087,0.7852,0.5558,1.841323,0.7179
+FMCG,35-44,Negombo,123921,Customer Retention,Event Sponsorship,Presenting Sponsor,Event,Gampaha,199750,35-44,9747,0.0662,0.88,0.0589,3,-75829,0.9986,0.6868,0.5604,0.048796,0.6162
+Automotive,55+,Maradana,314608,Product Launch,Web Display Inventory,Sidebar Ad,Digital,Colombo,38919,55+,478203,0.0191,0.86,0.0518,28,275689,0.8186,0.734,0.6952,12.287135,0.7471
+Real Estate,35-44,Bandaragama,152461,Sales Conversion,Print Publication Ad,Newspaper Half Page,Print,Kalutara,44553,35-44,35594,0.0154,1.23,0.0735,7,107908,0.968,0.307,0.6823,0.798914,0.6001
+Financial Services,35-44,Bambalapitiya,671079,Product Launch,Print Publication Ad,Classified,Digital,Colombo,79411,35-44,374938,0.0181,1.08,0.069,49,591668,0.9589,0.8154,0.5599,4.721487,0.6993
+Retail,35-44,Bulathsinhala,157401,Customer Retention,Vehicle Wrap Media,Van Wrap,Visual,Kalutara,123695,35-44,17250,0.0402,1.25,0.0554,19,33706,0.8872,0.6862,0.8642,0.139456,0.7224
+Luxury Goods,35-44,Kandana,60575,Website Traffic,Retail & Premises Signage,End Cap Display,Visual,Gampaha,34812,35-44,30763,0.0319,1.3,0.058,11,25763,1.0,0.7857,0.8574,0.88369,0.7394
+Real Estate,25-34,Negombo,319888,Lead Generation,Social Media Placement,LinkedIn Feed,Digital,Gampaha,64443,25-34,172756,0.0366,1.38,0.0594,19,255445,0.9534,0.6185,0.6009,2.680757,0.6024
+Travel & Tourism,25-34,Divulapitiya,339328,Product Launch,Web Display Inventory,Sidebar Ad,Digital,Gampaha,55108,25-34,220689,0.0291,0.96,0.0514,47,284220,1.0,0.5996,0.759,4.004664,0.7272
+Fashion,35-44,Kandana,111094,Website Traffic,Digital Out-of-Home Screen,Street Level Digital,Digital,Gampaha,247609,35-44,46355,0.0353,0.91,0.0647,11,-136515,1.0,0.5985,0.5332,0.18721,0.5728
+Luxury Goods,18-24,Colombo Fort,325828,Brand Awareness,Outdoor Static Structure,Building Wrap,Outdoor,Colombo,163100,18-24,22895,0.0128,0.57,0.0264,23,162728,0.88,0.757,0.7933,0.140374,0.6015
+Education,18-24,Mahabage,160199,Customer Retention,Outdoor Static Structure,City Center Billboard,Digital,Gampaha,144341,18-24,32270,0.0207,0.44,0.0364,21,15858,1.0,0.7585,0.9083,0.223568,0.6737
+Education,35-44,Mathugama,75518,Customer Retention,Newsletter Ad,Industry Digest,Print,Kalutara,21008,35-44,19280,0.05,1.21,0.0584,45,54510,0.8446,0.3964,0.6001,0.917746,0.742
+Retail,35-44,Beruwala,414686,Product Launch,Cinema Advertising,Tickets Ad,Cinema,Kalutara,64925,35-44,23029,0.0189,1.25,0.0567,12,349761,1.0,0.3967,0.7414,0.354702,0.7191
+Financial Services,35-44,Gampaha Town,133056,Sales Conversion,Web Display Inventory,Interstitial Ad,Digital,Gampaha,26941,35-44,256362,0.032,1.25,0.0682,30,106115,0.9112,0.551,0.6496,9.515682,0.743
+Fashion,All Ages,Minuwangoda,417337,Brand Awareness,Print Publication Ad,Newspaper Half Page,Digital,Gampaha,56300,All Ages,126983,0.0227,0.52,0.0516,41,361037,1.0,0.7788,0.6784,2.255471,0.806
+Retail,45-54,Ja-Ela,611782,Product Launch,Newsletter Ad,Special Edition,Print,Gampaha,27854,45-54,17346,0.0495,1.01,0.0508,12,583928,0.9206,0.8084,0.6369,0.622747,0.7484
+Automotive,18-24,Mount Lavinia,718513,Product Launch,Native / Sponsored Content,Review Sponsorship,Digital,Colombo,85712,18-24,45249,0.0296,0.36,0.0381,12,632801,0.86,0.9298,0.7042,0.527919,0.7258
+Hospitality,Young Professionals,Battaramulla,162791,Sales Conversion,Outdoor Static Structure,Transit Shelter,Digital,Colombo,153653,Young Professionals,14685,0.0241,0.66,0.0579,52,9138,0.8169,0.9795,0.7353,0.095572,0.644
+Automotive,Young Professionals,Mount Lavinia,131558,App Downloads,Outdoor Static Structure,City Center Billboard,Digital,Colombo,63928,Young Professionals,105410,0.0247,0.65,0.0624,24,67630,0.7257,0.8371,0.6801,1.648886,0.5886
+Education,35-44,Horana,298355,Sales Conversion,Retail & Premises Signage,End Cap Display,Visual,Kalutara,158228,35-44,17099,0.037,1.15,0.0448,31,140127,1.0,0.5682,0.9025,0.108066,0.7087
+Entertainment,35-44,Colombo Fort,104975,Event Promotion,Outdoor Static Structure,Street Pole Banner,Outdoor,Colombo,134612,35-44,46606,0.0258,0.71,0.0726,17,-29637,0.8626,0.9801,0.8555,0.346225,0.576
+Education,Affluent,Pettah,440322,Brand Awareness,Outdoor Static Structure,City Center Billboard,Digital,Colombo,179030,Affluent,68982,0.0147,1.34,0.0548,34,261292,1.0,0.7991,0.5566,0.38531,0.6173
+Food & Beverage,35-44,Mount Lavinia,181411,Lead Generation,Print Publication Ad,Newspaper Half Page,Print,Colombo,36341,35-44,166671,0.0183,0.93,0.058,61,145070,1.0,0.7499,0.6265,4.586307,0.5302
+FMCG,18-24,Wellawatte,294788,Sales Conversion,Digital Out-of-Home Screen,Street Level Digital,Digital,Colombo,266901,18-24,205655,0.0289,0.62,0.04,4,27887,0.759,0.7472,0.7769,0.770529,0.5738
+Automotive,45-54,Colombo Fort,184386,Event Promotion,Cinema Advertising,Lobby Display,Cinema,Colombo,74947,45-54,118949,0.0242,0.8,0.0483,20,109439,0.8553,0.949,0.9017,1.587108,0.756
+Real Estate,Affluent,Mathugama,339479,Lead Generation,Event Sponsorship,Exhibition Booth,Event,Kalutara,197063,Affluent,2081,0.0482,1.38,0.0719,11,142416,0.9514,0.4043,0.8597,0.01056,0.6967
+Travel & Tourism,Affluent,Kadawatha,344247,Brand Awareness,Retail & Premises Signage,Window Display,Visual,Gampaha,158456,Affluent,20698,0.0268,1.35,0.0801,51,185791,0.8456,0.6043,0.5822,0.130623,0.5393
+FMCG,35-44,Wattala,238077,Sales Conversion,Outdoor Static Structure,City Center Billboard,Digital,Gampaha,156122,35-44,17014,0.0173,1.26,0.0557,11,81955,1.0,0.5305,0.8325,0.108979,0.5052
+Healthcare,Young Professionals,Pettah,128500,Customer Retention,Print Publication Ad,Newspaper Full Page,Print,Colombo,26422,Young Professionals,52959,0.0201,1.23,0.0477,26,102078,0.8379,0.8146,0.7942,2.004352,0.7045
+Travel & Tourism,25-34,Pettah,379490,Brand Awareness,Event Sponsorship,Presenting Sponsor,Event,Colombo,124263,25-34,43572,0.0528,1.13,0.0795,9,255227,0.8758,0.866,0.7899,0.350643,0.8007
+E-commerce,45-54,Divulapitiya,474904,Brand Awareness,Digital Out-of-Home Screen,Digital Billboard,Digital,Gampaha,210249,45-54,16346,0.0268,0.68,0.0355,19,264655,0.9443,0.5532,0.5638,0.077746,0.5572
+Luxury Goods,45-54,Dodangoda,203038,Customer Retention,Outdoor Static Structure,Street Pole Banner,Digital,Kalutara,189549,45-54,25273,0.0117,1.05,0.0699,76,13489,0.8953,0.5903,0.5964,0.133332,0.6337
+Real Estate,Young Professionals,Divulapitiya,63613,Website Traffic,TV Spot,Sports Program,Audio,Gampaha,201640,Young Professionals,168726,0.0316,1.11,0.0699,55,-138027,1.0,0.8159,0.8731,0.836768,0.7945
+E-commerce,25-34,Pettah,85746,App Downloads,Newsletter Ad,Industry Digest,Print,Colombo,19522,25-34,34303,0.0576,1.01,0.0796,12,66224,0.8957,0.9202,0.6281,1.757146,0.7411
+Retail,35-44,Katunayake,317811,Lead Generation,Retail & Premises Signage,Window Display,Visual,Gampaha,42985,35-44,13844,0.0268,0.81,0.0568,29,274826,1.0,0.5321,0.7786,0.322066,0.7356
+Travel & Tourism,35-44,Horana,447005,Brand Awareness,Print Publication Ad,Newspaper Full Page,Print,Kalutara,46452,35-44,7599,0.0162,1.7,0.0607,28,400553,0.908,0.4246,0.6972,0.163588,0.496
+Education,35-44,Bulathsinhala,177664,Brand Awareness,Vehicle Wrap Media,Three-Wheeler Wrap,Visual,Kalutara,70147,35-44,42970,0.033,1.38,0.0546,55,107517,1.0,0.6884,0.6648,0.612571,0.783
+Education,45-54,Kadawatha,41816,Event Promotion,TV Spot,Sports Program,Audio,Gampaha,327072,45-54,233086,0.0296,0.69,0.0423,22,-285256,0.9952,0.8217,0.7431,0.712644,0.4572
+Telecommunications,25-34,Gampaha Town,113567,App Downloads,Radio Spot,Prime Time Slot,Audio,Gampaha,52522,25-34,56691,0.0259,1.01,0.0742,13,61045,0.9674,0.6955,0.8541,1.079376,0.8102
+Technology,25-34,Divulapitiya,425861,Brand Awareness,Outdoor Static Structure,Highway Billboard,Digital,Gampaha,136979,25-34,52524,0.0209,0.6,0.0718,39,288882,0.8781,0.5719,0.5936,0.383446,0.715
+Real Estate,55+,Beruwala,107459,Customer Retention,Digital Out-of-Home Screen,Street Level Digital,Digital,Kalutara,272143,55+,61134,0.0303,0.97,0.0398,25,-164684,0.7948,0.6675,0.9035,0.224639,0.4775
+Telecommunications,35-44,Wellawatte,216620,Lead Generation,TV Spot,Prime Time,Audio,Colombo,321595,35-44,625767,0.0263,1.11,0.0624,16,-104975,1.0,0.9254,0.924,1.945823,0.7488
+Education,25-34,Katunayake,86216,App Downloads,Vehicle Wrap Media,Truck Wrap,Visual,Gampaha,49757,25-34,15296,0.0355,1.42,0.053,12,36459,0.7263,0.7298,0.7081,0.307414,0.6363
+E-commerce,35-44,Gampaha Town,142231,App Downloads,Outdoor Static Structure,City Center Billboard,Digital,Gampaha,161199,35-44,49285,0.0221,0.55,0.0634,7,-18968,0.7747,0.8244,0.7206,0.30574,0.596
+Technology,35-44,Ja-Ela,524884,Product Launch,Social Media Placement,LinkedIn Feed,Digital,Gampaha,51511,35-44,216901,0.0325,1.46,0.0577,22,473373,1.0,0.5872,0.9226,4.210771,0.8104
+Healthcare,25-34,Battaramulla,409676,Brand Awareness,Digital Out-of-Home Screen,Train Station Screen,Outdoor,Colombo,103073,25-34,23431,0.0396,1.14,0.0432,19,306603,1.0,0.8551,0.5649,0.227324,0.7217
+Hospitality,55+,Bulathsinhala,150716,Sales Conversion,Native / Sponsored Content,Featured Content,Digital,Kalutara,101390,55+,56518,0.0291,0.83,0.0385,51,49326,0.9279,0.6156,0.9185,0.557432,0.6608
+E-commerce,25-34,Katunayake,141102,Event Promotion,Event Sponsorship,Title Sponsor,Event,Gampaha,112910,25-34,16922,0.048,0.85,0.062,50,28192,0.971,0.5376,0.9275,0.149872,0.7084
+Hospitality,All Ages,Beruwala,113913,Brand Awareness,Outdoor Static Structure,Transit Shelter,Outdoor,Kalutara,35880,All Ages,22931,0.0252,0.77,0.0448,39,78033,0.9348,0.5892,0.677,0.639103,0.6891
+E-commerce,18-24,Kadawatha,131356,App Downloads,TV Spot,Evening,Audio,Gampaha,168251,18-24,264084,0.0218,0.44,0.0362,64,-36895,0.8461,0.5335,0.5171,1.569584,0.5083
+Food & Beverage,Young Professionals,Maradana,277369,Sales Conversion,Print Publication Ad,Magazine Full Page,Print,Colombo,48654,Young Professionals,129418,0.019,0.81,0.0673,41,228715,0.8811,0.8345,0.7956,2.659966,0.6631
+Automotive,35-44,Dehiwala,185740,App Downloads,Outdoor Static Structure,City Center Billboard,Outdoor,Colombo,186949,35-44,57669,0.0233,0.88,0.0542,19,-1209,0.7921,0.8003,0.6537,0.308475,0.5623
+Hospitality,25-34,Kandana,298029,Lead Generation,Cinema Advertising,Intermission Ad,Cinema,Gampaha,161154,25-34,24341,0.0276,1.33,0.077,48,136875,0.8104,0.5096,0.8133,0.151042,0.7275
+Hospitality,55+,Kadawatha,93377,Event Promotion,Radio Spot,Midday Slot,Audio,Gampaha,37754,55+,314737,0.0115,0.97,0.036,27,55623,0.8737,0.7845,0.7641,8.336521,0.622
+Hospitality,25-34,Bambalapitiya,211990,Lead Generation,TV Spot,Sports Program,Audio,Colombo,334322,25-34,556842,0.0309,0.99,0.0718,16,-122332,0.8869,0.8768,0.8249,1.665586,0.6001
+Automotive,25-34,Pettah,78083,Website Traffic,Print Publication Ad,Newspaper Full Page,Digital,Colombo,92866,25-34,196077,0.018,0.59,0.0607,35,-14783,0.7715,0.7105,0.7931,2.111397,0.4767
+Luxury Goods,18-24,Beruwala,31643,Event Promotion,Newsletter Ad,Monthly Newsletter,Digital,Kalutara,4559,18-24,11809,0.0322,0.56,0.0309,37,27084,0.6819,0.6735,0.5168,2.590261,0.6258
+E-commerce,45-54,Divulapitiya,109221,Lead Generation,Web Display Inventory,Interstitial Ad,Digital,Gampaha,19657,45-54,280336,0.0288,0.63,0.0391,7,89564,0.8147,0.5853,0.9306,14.261383,0.7086
+FMCG,18-24,Bambalapitiya,115713,Customer Retention,Print Publication Ad,Classified,Digital,Colombo,68961,18-24,344631,0.0135,0.48,0.0336,44,46752,0.8992,0.7988,0.6657,4.997477,0.5963
+Travel & Tourism,35-44,Maradana,489402,Brand Awareness,Event Sponsorship,Exhibition Booth,Event,Colombo,163653,35-44,45381,0.0293,0.76,0.0557,18,325749,0.7938,0.9037,0.7212,0.2773,0.7007
+Healthcare,25-34,Battaramulla,129887,Sales Conversion,TV Spot,Sports Program,Audio,Colombo,85545,25-34,276583,0.04,0.61,0.0621,29,44342,0.7893,0.88,0.607,3.233187,0.4887
+Real Estate,18-24,Mathugama,114566,Customer Retention,Outdoor Static Structure,Building Wrap,Outdoor,Kalutara,71035,18-24,20751,0.0172,0.62,0.0465,21,43531,0.7471,0.6859,0.7573,0.292124,0.7055
+Automotive,Affluent,Kandana,600746,Product Launch,Event Sponsorship,Exhibition Booth,Event,Gampaha,69675,Affluent,27846,0.0477,0.74,0.0684,2,531071,0.9429,0.5156,0.6508,0.399656,0.695
+Travel & Tourism,18-24,Mahabage,171186,App Downloads,Cinema Advertising,Pre-show Ad,Cinema,Gampaha,113459,18-24,8123,0.0202,0.36,0.0416,18,57727,0.8882,0.8049,0.8463,0.071594,0.5902
+Education,18-24,Bulathsinhala,182404,Lead Generation,Social Media Placement,LinkedIn Feed,Digital,Kalutara,67359,18-24,30039,0.0206,0.35,0.0396,13,115045,1.0,0.6602,0.523,0.445954,0.6921
+Travel & Tourism,18-24,Wellawatte,375404,Brand Awareness,Vehicle Wrap Media,Three-Wheeler Wrap,Visual,Colombo,76334,18-24,108187,0.0188,0.51,0.0315,34,299070,0.9718,0.8926,0.6866,1.417285,0.5175
+Technology,Students,Gampaha Town,110861,Sales Conversion,Event Sponsorship,Session Sponsor,Event,Gampaha,164697,Students,18558,0.0349,0.51,0.0306,16,-53836,1.0,0.6007,0.5685,0.11268,0.7708
+Healthcare,Young Professionals,Pettah,108701,App Downloads,Web Display Inventory,Banner Ad,Digital,Colombo,14689,Young Professionals,123770,0.0235,0.84,0.0553,21,94012,0.9133,0.9039,0.6063,8.426033,0.6255
+Education,35-44,Ingiriya,463409,Brand Awareness,Vehicle Wrap Media,Van Wrap,Visual,Kalutara,130756,35-44,42080,0.0322,0.92,0.0526,23,332653,0.9966,0.4389,0.7,0.321821,0.6807
+E-commerce,45-54,Kandana,328508,Product Launch,Cinema Advertising,Intermission Ad,Cinema,Gampaha,44063,45-54,37194,0.019,0.58,0.0611,16,284445,0.8237,0.6465,0.8606,0.84411,0.6963
+Education,45-54,Bambalapitiya,301525,Lead Generation,Newsletter Ad,Industry Digest,Print,Colombo,25604,45-54,7828,0.0265,0.93,0.0523,29,275921,0.9134,0.8146,0.875,0.305733,0.709
+E-commerce,45-54,Negombo,243716,Sales Conversion,Retail & Premises Signage,Window Display,Outdoor,Gampaha,54136,45-54,14654,0.0207,0.91,0.0547,8,189580,0.8039,0.5808,0.6796,0.270689,0.6702
+Real Estate,35-44,Bambalapitiya,157011,Sales Conversion,Web Display Inventory,Video Ad,Digital,Colombo,20236,35-44,216073,0.0292,0.51,0.0618,6,136775,0.9811,0.7114,0.8238,10.677654,0.7741
+Fashion,Young Professionals,Divulapitiya,727154,Product Launch,Web Display Inventory,Sidebar Ad,Digital,Gampaha,26518,Young Professionals,79892,0.0178,1.23,0.0745,25,700636,0.8371,0.6441,0.5436,3.012746,0.5929
+Automotive,18-24,Horana,202470,Product Launch,Retail & Premises Signage,Storefront Display,Visual,Kalutara,93800,18-24,13372,0.0241,0.69,0.0273,17,108670,0.9104,0.6503,0.8714,0.142559,0.7425
+Healthcare,45-54,Kollupitiya,270992,Sales Conversion,Event Sponsorship,Presenting Sponsor,Event,Colombo,295873,45-54,37935,0.0414,1.14,0.0626,56,-24881,1.0,0.7407,0.8677,0.128214,0.793
+Luxury Goods,25-34,Maradana,138912,Brand Awareness,Radio Spot,Weekend Slot,Audio,Colombo,95298,25-34,273729,0.0184,0.62,0.0767,24,43614,0.8539,0.8106,0.6868,2.872348,0.6719
+Healthcare,55+,Battaramulla,81564,Website Traffic,Outdoor Static Structure,Highway Billboard,Digital,Colombo,53659,55+,121836,0.0124,0.95,0.0433,20,27905,0.8915,0.7069,0.6325,2.27056,0.6585
+Automotive,35-44,Aluthgama,195246,App Downloads,Web Display Inventory,Video Ad,Digital,Kalutara,28709,35-44,68990,0.037,1.13,0.0598,59,166537,0.8612,0.5026,0.9007,2.403079,0.5597
+E-commerce,35-44,Negombo,174957,App Downloads,Event Sponsorship,Presenting Sponsor,Event,Gampaha,79205,35-44,12049,0.0523,0.73,0.0572,4,95752,0.8412,0.8308,0.5927,0.152124,0.5609
+Healthcare,18-24,Divulapitiya,335958,Lead Generation,Vehicle Wrap Media,Bus Wrap,Outdoor,Gampaha,79654,18-24,54358,0.0187,0.52,0.0267,28,256304,1.0,0.5479,0.8802,0.682426,0.5742
+Hospitality,45-54,Beruwala,192154,App Downloads,Digital Out-of-Home Screen,Train Station Screen,Digital,Kalutara,76163,45-54,36385,0.0362,0.39,0.047,19,115991,0.839,0.3985,0.6321,0.477725,0.6015
+Healthcare,45-54,Divulapitiya,243403,Customer Retention,Web Display Inventory,Interstitial Ad,Digital,Gampaha,62370,45-54,133792,0.0254,0.91,0.059,27,181033,0.9962,0.659,0.7659,2.145134,0.7574
+FMCG,25-34,Mahabage,386912,Product Launch,Radio Spot,Weekend Slot,Audio,Gampaha,94740,25-34,134803,0.0181,1.21,0.0631,18,292172,0.9048,0.7515,0.5703,1.422873,0.8563
+Hospitality,18-24,Kandana,184773,Customer Retention,Event Sponsorship,Session Sponsor,Event,Gampaha,227446,18-24,24800,0.025,0.6,0.0361,33,-42673,0.973,0.6401,0.5372,0.109037,0.5099
+Entertainment,35-44,Dehiwala,126825,App Downloads,Outdoor Static Structure,Transit Shelter,Outdoor,Colombo,136507,35-44,31525,0.019,0.65,0.0641,8,-9682,1.0,0.7932,0.7613,0.230941,0.6518
+Automotive,Young Professionals,Battaramulla,65534,Website Traffic,Cinema Advertising,Tickets Ad,Cinema,Colombo,123402,Young Professionals,21292,0.0333,1.08,0.0609,36,-57868,0.8622,0.8659,0.7591,0.172542,0.6362
+Real Estate,25-34,Wellawatte,342352,Product Launch,Print Publication Ad,Newspaper Full Page,Digital,Colombo,40693,25-34,272408,0.0205,0.74,0.0781,20,301659,1.0,0.8148,0.776,6.694223,0.8253
+Automotive,55+,Mahabage,95537,Website Traffic,Social Media Placement,TikTok Feed,Digital,Gampaha,16997,55+,86856,0.0209,0.65,0.0336,46,78540,0.8917,0.7239,0.7402,5.110078,0.678
+Entertainment,Families,Katunayake,184467,App Downloads,Outdoor Static Structure,Transit Shelter,Digital,Gampaha,220422,Families,9814,0.0181,0.85,0.0503,28,-35955,1.0,0.5942,0.8731,0.044524,0.5306
+E-commerce,35-44,Minuwangoda,166578,Sales Conversion,Outdoor Static Structure,Street Pole Banner,Digital,Gampaha,45175,35-44,58762,0.0154,1.55,0.0528,49,121403,1.0,0.7709,0.6813,1.300764,0.7909
+Retail,25-34,Minuwangoda,199783,App Downloads,Cinema Advertising,Intermission Ad,Cinema,Gampaha,234740,25-34,39632,0.0318,0.77,0.0476,8,-34957,1.0,0.7358,0.6147,0.168834,0.6734
+Food & Beverage,25-34,Kollupitiya,101729,Website Traffic,TV Spot,Evening,Audio,Colombo,206990,25-34,235605,0.0329,1.55,0.0625,10,-105261,0.6529,0.9481,0.5342,1.138243,0.6623
+Technology,Affluent,Beruwala,299340,Brand Awareness,Native / Sponsored Content,Partner Post,Digital,Kalutara,51710,Affluent,20386,0.0415,2.04,0.0672,6,247630,0.84,0.6476,0.7895,0.394237,0.799
+Technology,55+,Colombo Fort,114923,App Downloads,Retail & Premises Signage,In-Store Digital,Outdoor,Colombo,91133,55+,35190,0.0227,0.72,0.0436,43,23790,0.8123,0.8655,0.943,0.386139,0.6336
+Entertainment,55+,Panadura,99097,App Downloads,Vehicle Wrap Media,Truck Wrap,Outdoor,Kalutara,64150,55+,36238,0.0231,0.95,0.0365,35,34947,0.7911,0.6406,0.525,0.564895,0.5845
+Retail,Affluent,Kadawatha,328210,Lead Generation,Digital Out-of-Home Screen,Street Level Digital,Outdoor,Gampaha,164556,Affluent,78024,0.035,1.54,0.0559,23,163654,0.8678,0.6429,0.8114,0.474149,0.6972
+Travel & Tourism,35-44,Panadura,631811,Product Launch,Retail & Premises Signage,In-Store Digital,Outdoor,Kalutara,81066,35-44,6407,0.0308,0.93,0.0627,6,550745,1.0,0.3803,0.857,0.079034,0.6422
+FMCG,45-54,Mahabage,93649,Customer Retention,Print Publication Ad,Newspaper Half Page,Print,Gampaha,13444,45-54,82523,0.0149,0.98,0.0408,34,80205,1.0,0.6495,0.9047,6.138277,0.7818
+Automotive,All Ages,Pettah,68776,Website Traffic,Outdoor Static Structure,Street Pole Banner,Outdoor,Colombo,198625,All Ages,51672,0.0252,0.37,0.0565,43,-129849,0.9829,0.7943,0.6748,0.260149,0.6431
+Telecommunications,25-34,Wellawatte,170306,Customer Retention,Print Publication Ad,Magazine Spread,Print,Colombo,54595,25-34,24692,0.02,0.86,0.0561,11,115711,0.9918,0.91,0.8726,0.452276,0.764
+Food & Beverage,Families,Mount Lavinia,187952,Sales Conversion,Cinema Advertising,Tickets Ad,Cinema,Colombo,170758,Families,124477,0.0248,0.97,0.0401,32,17194,1.0,0.7612,0.5543,0.728967,0.5225
+Luxury Goods,45-54,Ja-Ela,104346,Lead Generation,Newsletter Ad,Industry Digest,Digital,Gampaha,48574,45-54,20850,0.0384,0.92,0.0438,18,55772,0.8634,0.5087,0.9064,0.429242,0.6613
+Real Estate,Families,Colombo Fort,156044,Customer Retention,Outdoor Static Structure,Street Pole Banner,Digital,Colombo,47475,Families,92939,0.0201,0.85,0.0555,9,108569,0.9515,0.8136,0.785,1.957641,0.5648
+Healthcare,25-34,Battaramulla,67540,Sales Conversion,Social Media Placement,Twitter/X Feed,Digital,Colombo,52474,25-34,311962,0.0376,0.76,0.0577,32,15066,0.976,0.8773,0.7427,5.945078,0.7312
+Technology,Young Professionals,Mathugama,627932,Product Launch,Web Display Inventory,Sidebar Ad,Digital,Kalutara,34001,Young Professionals,118292,0.0441,1.11,0.0728,14,593931,0.9667,0.4133,0.9402,3.479074,0.5971
+Travel & Tourism,45-54,Beruwala,642412,Product Launch,Retail & Premises Signage,End Cap Display,Outdoor,Kalutara,86264,45-54,7418,0.0199,0.86,0.0522,29,556148,0.9966,0.5937,0.8272,0.085992,0.7528
+Food & Beverage,35-44,Mount Lavinia,174351,Customer Retention,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Colombo,189857,35-44,90061,0.0273,0.98,0.0475,19,-15506,1.0,0.7404,0.8452,0.474362,0.6759
+Financial Services,Young Professionals,Panadura,165536,App Downloads,Web Display Inventory,Banner Ad,Digital,Kalutara,77764,Young Professionals,44365,0.0352,0.84,0.062,65,87772,0.9059,0.596,0.7978,0.570508,0.7193
+Food & Beverage,18-24,Kadawatha,186469,Product Launch,Newsletter Ad,Promotional Email,Digital,Gampaha,53750,18-24,17733,0.024,0.62,0.0388,24,132719,0.7948,0.8115,0.9352,0.329916,0.6046
+Healthcare,35-44,Katunayake,250999,Brand Awareness,Outdoor Static Structure,Transit Shelter,Digital,Gampaha,161203,35-44,43161,0.0192,1.29,0.0812,22,89796,1.0,0.7874,0.6352,0.267743,0.6703
+Technology,18-24,Kollupitiya,91107,App Downloads,Outdoor Static Structure,Building Wrap,Outdoor,Colombo,172193,18-24,38119,0.0199,0.41,0.0389,6,-81086,1.0,0.8833,0.5809,0.221374,0.6118
+Entertainment,Young Professionals,Battaramulla,440104,Product Launch,Newsletter Ad,Promotional Email,Digital,Colombo,32212,Young Professionals,86309,0.0557,0.78,0.0494,46,407892,0.7516,0.7544,0.541,2.679405,0.593
+Luxury Goods,35-44,Maradana,133813,Brand Awareness,Native / Sponsored Content,Partner Post,Digital,Colombo,101528,35-44,153451,0.0392,0.94,0.0559,45,32285,0.953,0.9885,0.6069,1.511416,0.6883
+Financial Services,Young Professionals,Mount Lavinia,429062,Brand Awareness,Retail & Premises Signage,End Cap Display,Visual,Colombo,84926,Young Professionals,19888,0.041,0.86,0.0536,68,344136,0.924,0.903,0.8005,0.23418,0.7563
+Luxury Goods,35-44,Battaramulla,290566,Sales Conversion,Social Media Placement,Facebook Feed,Digital,Colombo,78529,35-44,336140,0.033,0.79,0.08,7,212037,0.908,0.776,0.7768,4.280457,0.6497
+Telecommunications,45-54,Kadawatha,280137,Lead Generation,Print Publication Ad,Newspaper Half Page,Digital,Gampaha,76237,45-54,37432,0.018,0.48,0.0528,18,203900,0.7985,0.5594,0.8602,0.490995,0.8319
+FMCG,25-34,Bambalapitiya,122419,Website Traffic,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Colombo,94955,25-34,168201,0.0427,1.19,0.0708,44,27464,1.0,0.9548,0.8015,1.771376,0.8651
+Telecommunications,45-54,Mount Lavinia,240558,Customer Retention,Radio Spot,Prime Time Slot,Audio,Colombo,125192,45-54,245175,0.0198,1.13,0.0529,41,115366,0.7693,0.8902,0.7651,1.958392,0.6755
+Financial Services,Affluent,Minuwangoda,158333,Sales Conversion,Cinema Advertising,Lobby Display,Cinema,Gampaha,77463,Affluent,7877,0.0213,1.52,0.0874,32,80870,0.9051,0.6615,0.6374,0.101687,0.6814
+Education,25-34,Kollupitiya,75234,Lead Generation,Retail & Premises Signage,Window Display,Outdoor,Colombo,26530,25-34,14964,0.0287,0.73,0.0627,16,48704,0.9294,0.7489,0.7463,0.564041,0.6985
+Luxury Goods,35-44,Kalutara Town,108645,Lead Generation,Vehicle Wrap Media,Truck Wrap,Outdoor,Kalutara,100456,35-44,8028,0.0269,0.63,0.0736,8,8189,1.0,0.5386,0.9372,0.079916,0.6664
+Healthcare,45-54,Negombo,195721,Sales Conversion,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Gampaha,217688,45-54,27951,0.0388,0.77,0.0604,48,-21967,0.8682,0.6094,0.6014,0.128399,0.786
+E-commerce,45-54,Dodangoda,68902,App Downloads,Outdoor Static Structure,Street Pole Banner,Digital,Kalutara,128605,45-54,34175,0.0159,0.58,0.0452,38,-59703,0.9497,0.561,0.7955,0.265736,0.6693
+Retail,35-44,Kollupitiya,113842,Customer Retention,Social Media Placement,Twitter/X Feed,Digital,Colombo,58446,35-44,205888,0.0355,0.37,0.064,35,55396,0.9101,0.8139,0.6622,3.522705,0.749
+Real Estate,35-44,Pettah,95653,Website Traffic,Vehicle Wrap Media,Car Wrap,Visual,Colombo,73487,35-44,86770,0.0348,0.98,0.0476,22,22166,0.6856,0.9177,0.7685,1.180753,0.5759
+Technology,35-44,Gampaha Town,272431,Sales Conversion,Retail & Premises Signage,Window Display,Outdoor,Gampaha,79936,35-44,13030,0.0359,1.5,0.0599,30,192495,1.0,0.6348,0.5016,0.163005,0.6728
+Entertainment,25-34,Minuwangoda,210004,Lead Generation,Newsletter Ad,Weekly Newsletter,Digital,Gampaha,12811,25-34,65166,0.0567,0.8,0.0756,31,197193,0.8265,0.7441,0.7853,5.086722,0.8831
+Luxury Goods,35-44,Mahabage,116999,Sales Conversion,Outdoor Static Structure,Building Wrap,Digital,Gampaha,209580,35-44,9869,0.0257,1.48,0.0591,15,-92581,0.8165,0.788,0.5516,0.047089,0.6179
+Fashion,18-24,Maradana,75510,Event Promotion,Vehicle Wrap Media,Truck Wrap,Visual,Colombo,145919,18-24,69534,0.0268,0.66,0.0419,14,-70409,0.9562,0.9636,0.8527,0.476525,0.695
+Real Estate,45-54,Bambalapitiya,56394,Website Traffic,Print Publication Ad,Newspaper Full Page,Digital,Colombo,56404,45-54,209809,0.0187,1.09,0.0483,10,-10,1.0,0.8163,0.75,3.719754,0.6473
+Hospitality,25-34,Kandana,124140,Lead Generation,Print Publication Ad,Classified,Digital,Gampaha,65338,25-34,82453,0.0139,0.87,0.0651,41,58802,0.7257,0.8019,0.9437,1.261946,0.6745
+Real Estate,55+,Battaramulla,94168,Website Traffic,Retail & Premises Signage,Window Display,Visual,Colombo,71373,55+,44109,0.0168,1.06,0.037,6,22795,0.9373,0.9388,0.7442,0.618007,0.6826
+Entertainment,Affluent,Dehiwala,75316,Website Traffic,Vehicle Wrap Media,Bus Wrap,Visual,Colombo,284645,Affluent,48097,0.0338,1.22,0.0632,14,-209329,0.8366,0.8771,0.6496,0.168972,0.5286
+Hospitality,Young Professionals,Horana,79736,Customer Retention,TV Spot,Evening,Audio,Kalutara,203008,Young Professionals,64718,0.0305,0.83,0.0532,15,-123272,0.8037,0.5348,0.7857,0.318795,0.66
+Telecommunications,55+,Bandaragama,343824,Brand Awareness,Event Sponsorship,Presenting Sponsor,Event,Kalutara,276261,55+,9589,0.0294,0.56,0.0447,23,67563,0.7188,0.3243,0.5624,0.03471,0.3424
+E-commerce,45-54,Colombo Fort,69628,App Downloads,Vehicle Wrap Media,Three-Wheeler Wrap,Visual,Colombo,184800,45-54,52496,0.032,1.17,0.0606,36,-115172,0.943,0.9856,0.6329,0.284069,0.6958
+Technology,35-44,Negombo,164740,Event Promotion,Digital Out-of-Home Screen,Airport Digital Display,Digital,Gampaha,117903,35-44,61522,0.041,0.81,0.078,1,46837,0.9658,0.6847,0.8171,0.521802,0.8064
+Luxury Goods,Young Professionals,Minuwangoda,109377,Website Traffic,Social Media Placement,Twitter/X Feed,Digital,Gampaha,74335,Young Professionals,75597,0.0346,0.7,0.0591,5,35042,0.8894,0.7951,0.8839,1.016977,0.7498
+Luxury Goods,Young Professionals,Ingiriya,300397,Product Launch,Social Media Placement,Twitter/X Feed,Digital,Kalutara,34704,Young Professionals,180943,0.0321,0.73,0.0652,46,265693,0.852,0.3075,0.6762,5.213895,0.5124
+Entertainment,All Ages,Pettah,244646,Brand Awareness,Outdoor Static Structure,Building Wrap,Outdoor,Colombo,104906,All Ages,51637,0.0125,0.72,0.0507,47,139740,1.0,0.8404,0.7902,0.492222,0.8593
+Luxury Goods,35-44,Kadawatha,355840,Brand Awareness,Social Media Placement,TikTok Feed,Digital,Gampaha,60268,35-44,64729,0.0353,0.92,0.0477,16,295572,1.0,0.5512,0.6068,1.074019,0.5983
+Education,Families,Dehiwala,43782,Event Promotion,Web Display Inventory,Banner Ad,Digital,Colombo,76450,Families,297952,0.0238,1.23,0.0613,34,-32668,1.0,0.9631,0.6715,3.897345,0.7621
+Retail,35-44,Panadura,113207,Sales Conversion,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Kalutara,240416,35-44,57305,0.0392,0.99,0.0772,7,-127209,0.979,0.6995,0.9289,0.238358,0.7814
+Hospitality,Families,Katunayake,184574,Lead Generation,Native / Sponsored Content,Partner Post,Digital,Gampaha,44809,Families,39105,0.0451,0.84,0.0603,12,139765,0.9445,0.7708,0.8963,0.872704,0.7262
+Healthcare,45-54,Wellawatte,94446,App Downloads,Digital Out-of-Home Screen,Train Station Screen,Digital,Colombo,103389,45-54,149758,0.0289,0.61,0.0679,29,-8943,0.869,0.9038,0.703,1.448491,0.7821
+E-commerce,18-24,Divulapitiya,88624,Customer Retention,Vehicle Wrap Media,Van Wrap,Visual,Gampaha,42166,18-24,70991,0.0196,0.28,0.0382,21,46458,0.8227,0.7537,0.7754,1.683608,0.6882
+Food & Beverage,All Ages,Nugegoda,32432,Website Traffic,Vehicle Wrap Media,Three-Wheeler Wrap,Visual,Colombo,58592,All Ages,82698,0.0219,1.07,0.0543,17,-26160,0.819,0.8589,0.8001,1.411421,0.7085
+Hospitality,Young Professionals,Ja-Ela,195027,Customer Retention,Vehicle Wrap Media,Car Wrap,Visual,Gampaha,89538,Young Professionals,26230,0.0387,0.8,0.0565,29,105489,0.8811,0.6936,0.5791,0.292948,0.5778
+Telecommunications,55+,Wattala,119377,Lead Generation,Newsletter Ad,Weekly Newsletter,Digital,Gampaha,46654,55+,17543,0.0274,0.55,0.0387,28,72723,0.9525,0.5805,0.8678,0.376023,0.694
+Retail,Families,Bambalapitiya,169344,Brand Awareness,Retail & Premises Signage,Counter Display,Visual,Colombo,68545,Families,13755,0.0285,0.89,0.0549,34,100799,0.9656,0.9146,0.8874,0.200671,0.7361
+FMCG,All Ages,Ja-Ela,109647,Event Promotion,Vehicle Wrap Media,Bus Wrap,Visual,Gampaha,59075,All Ages,54529,0.0299,1.0,0.0407,55,50572,1.0,0.8104,0.7592,0.923047,0.6383
+Travel & Tourism,Affluent,Wellawatte,193198,App Downloads,Native / Sponsored Content,Review Sponsorship,Digital,Colombo,19557,Affluent,61287,0.0417,1.42,0.0773,34,173641,0.8042,0.9745,0.849,3.133763,0.7291
+Financial Services,55+,Mathugama,115812,Lead Generation,Web Display Inventory,Video Ad,Digital,Kalutara,36054,55+,120602,0.0182,0.99,0.0454,55,79758,0.8244,0.4591,0.9094,3.345038,0.5816
+Healthcare,45-54,Minuwangoda,53711,Customer Retention,Cinema Advertising,Pre-show Ad,Cinema,Gampaha,57393,45-54,36740,0.0141,0.89,0.0564,7,-3682,1.0,0.6135,0.6396,0.640148,0.5557
+Travel & Tourism,18-24,Horana,220082,Lead Generation,Newsletter Ad,Monthly Newsletter,Digital,Kalutara,41486,18-24,31087,0.0354,0.52,0.0348,27,178596,1.0,0.4577,0.638,0.749337,0.7931
+E-commerce,45-54,Battaramulla,284264,Lead Generation,Print Publication Ad,Newspaper Full Page,Print,Colombo,53135,45-54,69299,0.0151,0.72,0.0434,0,231129,0.8661,0.7233,0.6178,1.304206,0.6559
+Real Estate,18-24,Kandana,87373,Lead Generation,Vehicle Wrap Media,Bus Wrap,Outdoor,Gampaha,97489,18-24,19487,0.0233,0.62,0.044,35,-10116,1.0,0.7176,0.8422,0.199889,0.6792
+Real Estate,45-54,Minuwangoda,152611,Product Launch,Radio Spot,Morning Drive,Audio,Gampaha,46163,45-54,77247,0.019,0.33,0.049,65,106448,0.9925,0.5084,0.6141,1.673353,0.6398
+Travel & Tourism,Young Professionals,Minuwangoda,564584,Product Launch,Retail & Premises Signage,In-Store Digital,Outdoor,Gampaha,98697,Young Professionals,14542,0.0394,0.61,0.0735,29,465887,0.804,0.669,0.8869,0.14734,0.6968
+Technology,18-24,Mahabage,139785,Customer Retention,Newsletter Ad,Monthly Newsletter,Digital,Gampaha,37098,18-24,59913,0.0296,0.53,0.0313,33,102687,0.9948,0.6447,0.6993,1.614993,0.7817
+Travel & Tourism,Young Professionals,Bulathsinhala,237693,Customer Retention,Digital Out-of-Home Screen,Airport Digital Display,Digital,Kalutara,96191,Young Professionals,77522,0.0311,0.91,0.0728,17,141502,1.0,0.6647,0.8714,0.805917,0.7037
+Travel & Tourism,Affluent,Kollupitiya,216627,Product Launch,Print Publication Ad,Newspaper Half Page,Print,Colombo,28599,Affluent,95887,0.0191,0.86,0.0587,32,188028,0.8089,0.8609,0.9041,3.35281,0.6513
+Retail,25-34,Battaramulla,661382,Product Launch,Newsletter Ad,Weekly Newsletter,Print,Colombo,17765,25-34,49153,0.0572,1.4,0.0614,6,643617,0.8943,0.8552,0.5877,2.766845,0.7841
+Real Estate,35-44,Negombo,272773,Brand Awareness,Web Display Inventory,Interstitial Ad,Digital,Gampaha,35819,35-44,242479,0.0257,1.02,0.0814,20,236954,1.0,0.5481,0.5079,6.769564,0.7124
+Retail,55+,Wellawatte,451765,Brand Awareness,Retail & Premises Signage,End Cap Display,Visual,Colombo,128344,55+,41614,0.0194,0.61,0.0437,76,323421,0.7131,0.7878,0.8121,0.324238,0.6572
+Telecommunications,All Ages,Divulapitiya,135931,Customer Retention,Event Sponsorship,Session Sponsor,Event,Gampaha,175244,All Ages,25349,0.0496,0.62,0.0449,14,-39313,0.8878,0.5789,0.6081,0.14465,0.7211
+Education,18-24,Dehiwala,82394,Sales Conversion,TV Spot,Sports Program,Audio,Colombo,451087,18-24,854181,0.0196,0.68,0.0336,34,-368693,0.8305,0.7552,0.5243,1.893606,0.5765
+FMCG,18-24,Nugegoda,191235,Brand Awareness,Web Display Inventory,Banner Ad,Digital,Colombo,71989,18-24,432759,0.0155,0.51,0.0336,33,119246,0.9744,0.9354,0.6027,6.01146,0.686
+Luxury Goods,25-34,Battaramulla,329818,Product Launch,TV Spot,Prime Time,Audio,Colombo,127790,25-34,646078,0.0298,0.89,0.0649,28,202028,0.9136,0.736,0.5952,5.055779,0.5933
+Entertainment,18-24,Mahabage,303539,Lead Generation,Digital Out-of-Home Screen,Train Station Screen,Outdoor,Gampaha,101989,18-24,44419,0.0338,0.45,0.0324,67,201550,0.9244,0.7304,0.7314,0.435527,0.6955
+Education,55+,Divulapitiya,221261,Sales Conversion,Digital Out-of-Home Screen,Street Level Digital,Digital,Gampaha,206112,55+,45589,0.0247,0.69,0.0332,31,15149,0.7069,0.514,0.749,0.221186,0.5804
+Financial Services,25-34,Kandana,483041,Brand Awareness,Digital Out-of-Home Screen,Street Level Digital,Digital,Gampaha,203217,25-34,59473,0.0534,0.92,0.0624,29,279824,1.0,0.7587,0.6343,0.292658,0.5918
+Retail,All Ages,Mahabage,140530,Event Promotion,Outdoor Static Structure,Building Wrap,Digital,Gampaha,155155,All Ages,28858,0.0167,0.93,0.0446,33,-14625,0.9824,0.6098,0.796,0.185995,0.6169
+Retail,25-34,Minuwangoda,299923,Sales Conversion,Vehicle Wrap Media,Car Wrap,Outdoor,Gampaha,55135,25-34,46616,0.0201,0.93,0.0783,53,244788,0.9017,0.7629,0.8504,0.845488,0.7456
+Food & Beverage,Families,Divulapitiya,179194,Customer Retention,TV Spot,Sports Program,Audio,Gampaha,100748,Families,63242,0.0178,0.89,0.066,9,78446,0.9836,0.6169,0.8779,0.627725,0.7155
+FMCG,35-44,Mahabage,110515,Event Promotion,Native / Sponsored Content,Partner Post,Digital,Gampaha,42769,35-44,15727,0.0519,1.05,0.0515,32,67746,0.9529,0.5716,0.8493,0.36772,0.7332
+Luxury Goods,18-24,Negombo,40017,Website Traffic,Retail & Premises Signage,Storefront Display,Outdoor,Gampaha,37235,18-24,16925,0.0122,0.36,0.0407,8,2782,0.9203,0.7272,0.6383,0.454545,0.6528
+E-commerce,All Ages,Kalutara Town,44216,Event Promotion,Vehicle Wrap Media,Car Wrap,Visual,Kalutara,216677,All Ages,43284,0.0271,0.9,0.0506,13,-172461,1.0,0.3881,0.6774,0.199763,0.4171
+E-commerce,All Ages,Panadura,50310,Sales Conversion,Vehicle Wrap Media,Bus Wrap,Outdoor,Kalutara,43152,All Ages,19405,0.0296,0.7,0.0436,48,7158,1.0,0.6662,0.6458,0.449689,0.5502
+Fashion,18-24,Mount Lavinia,169222,Product Launch,Event Sponsorship,Cocktail Sponsor,Event,Colombo,296824,18-24,35455,0.0279,0.1,0.0347,12,-127602,1.0,0.7406,0.6683,0.119448,0.5835
+E-commerce,35-44,Mount Lavinia,131203,Website Traffic,Outdoor Static Structure,Highway Billboard,Digital,Colombo,222442,35-44,78867,0.0149,1.39,0.064,35,-91239,0.9745,0.8386,0.5832,0.354551,0.7418
+E-commerce,25-34,Ingiriya,307408,Product Launch,Retail & Premises Signage,Counter Display,Outdoor,Kalutara,91966,25-34,11319,0.0389,0.65,0.0818,61,215442,1.0,0.3353,0.6849,0.123078,0.4989
+Hospitality,35-44,Bandaragama,299838,Sales Conversion,Event Sponsorship,Exhibition Booth,Event,Kalutara,216843,35-44,7355,0.0422,1.2,0.0552,18,82995,0.9307,0.3764,0.7335,0.033919,0.6936
+Retail,Families,Dodangoda,104722,App Downloads,Native / Sponsored Content,Article Sponsorship,Digital,Kalutara,89261,Families,82133,0.027,0.59,0.0573,38,15461,0.99,0.5663,0.5212,0.920144,0.5583
+Education,45-54,Battaramulla,277845,Sales Conversion,Retail & Premises Signage,In-Store Digital,Outdoor,Colombo,110067,45-54,12952,0.0237,1.07,0.0536,34,167778,0.9919,0.8081,0.6802,0.117674,0.7418
+Travel & Tourism,55+,Wellawatte,77383,Customer Retention,Event Sponsorship,Exhibition Booth,Event,Colombo,250206,55+,34036,0.0283,0.95,0.0456,55,-172823,0.7126,0.7153,0.7161,0.136032,0.483
+Food & Beverage,55+,Kandana,80819,Event Promotion,Vehicle Wrap Media,Car Wrap,Visual,Gampaha,74183,55+,17294,0.0238,0.59,0.036,17,6636,1.0,0.6356,0.7242,0.233126,0.6789
+Entertainment,25-34,Gampaha Town,259353,Lead Generation,Print Publication Ad,Newspaper Full Page,Digital,Gampaha,55537,25-34,154766,0.0195,0.81,0.0648,29,203816,0.8697,0.7789,0.5687,2.786719,0.5694
+Telecommunications,45-54,Pettah,236891,Sales Conversion,Social Media Placement,Instagram Story,Digital,Colombo,83825,45-54,524714,0.0141,0.87,0.0482,22,153066,0.8345,0.9075,0.6512,6.259636,0.6512
+FMCG,Young Professionals,Kandana,524233,Product Launch,Retail & Premises Signage,End Cap Display,Outdoor,Gampaha,128250,Young Professionals,4581,0.0168,1.06,0.0803,67,395983,0.8353,0.5757,0.7276,0.035719,0.717
+Telecommunications,Students,Mount Lavinia,610322,Product Launch,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Colombo,93555,Students,88563,0.0361,0.5,0.0207,37,516767,0.7164,0.9586,0.6489,0.946641,0.5852
+Telecommunications,55+,Pettah,115577,Customer Retention,Retail & Premises Signage,In-Store Digital,Outdoor,Colombo,47477,55+,38258,0.0206,0.7,0.0425,42,68100,0.813,0.8059,0.6517,0.805822,0.5876
+Entertainment,18-24,Horana,154154,Lead Generation,TV Spot,Sports Program,Audio,Kalutara,345540,18-24,115314,0.0163,0.37,0.046,65,-191386,0.9193,0.6109,0.7111,0.333721,0.4713
+Hospitality,Young Professionals,Kandana,34337,Event Promotion,TV Spot,Weekend,Audio,Gampaha,184827,Young Professionals,119249,0.0452,0.93,0.0524,63,-150490,0.8629,0.5444,0.9081,0.645193,0.7473
+Education,55+,Colombo Fort,261203,Product Launch,Outdoor Static Structure,City Center Billboard,Digital,Colombo,168667,55+,109557,0.0178,0.8,0.0427,27,92536,0.7707,0.9338,0.862,0.649546,0.7262
+Automotive,Young Professionals,Kollupitiya,235840,Sales Conversion,Social Media Placement,TikTok Feed,Digital,Colombo,94032,Young Professionals,405031,0.0408,1.07,0.0666,51,141808,0.7542,0.9076,0.9005,4.307374,0.8425
+Real Estate,All Ages,Panadura,61226,Customer Retention,Print Publication Ad,Magazine Spread,Digital,Kalutara,56923,All Ages,83275,0.0097,0.7,0.0369,36,4303,0.6895,0.3699,0.7977,1.462941,0.5269
+Technology,35-44,Dehiwala,307731,Brand Awareness,Print Publication Ad,Newspaper Full Page,Digital,Colombo,90519,35-44,127298,0.0125,0.88,0.0559,43,217212,1.0,0.9702,0.514,1.406312,0.7479
+Retail,25-34,Kandana,123928,Website Traffic,Native / Sponsored Content,Review Sponsorship,Digital,Gampaha,38955,25-34,135811,0.0377,1.06,0.0654,36,84973,0.9652,0.7097,0.5105,3.486356,0.5307
+Fashion,Families,Kandana,272083,Sales Conversion,Digital Out-of-Home Screen,Mall Digital Screen,Outdoor,Gampaha,201433,Families,28334,0.0435,1.01,0.0619,25,70650,0.9301,0.5619,0.6142,0.140662,0.6393
+Technology,35-44,Panadura,134096,App Downloads,Print Publication Ad,Magazine Spread,Print,Kalutara,35660,35-44,12750,0.0093,1.25,0.0568,26,98436,0.9464,0.6283,0.851,0.357543,0.6587
+Education,45-54,Gampaha Town,499948,Brand Awareness,Newsletter Ad,Industry Digest,Print,Gampaha,15190,45-54,16370,0.0371,0.76,0.0481,67,484758,0.9983,0.7009,0.5874,1.077683,0.8042
+Financial Services,35-44,Kadawatha,92373,Website Traffic,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Gampaha,107483,35-44,74563,0.0424,1.03,0.0625,30,-15110,0.9313,0.8298,0.6962,0.693719,0.6124
+Entertainment,25-34,Wattala,82070,Customer Retention,Cinema Advertising,Tickets Ad,Cinema,Gampaha,69941,25-34,25315,0.0271,1.17,0.0635,54,12129,0.8666,0.7228,0.5635,0.361948,0.5266
+Hospitality,Students,Kollupitiya,382208,Product Launch,Print Publication Ad,Classified,Print,Colombo,23370,Students,127921,0.0109,0.43,0.0362,46,358838,0.9712,0.737,0.6683,5.473727,0.6526
+FMCG,25-34,Minuwangoda,340497,Lead Generation,Native / Sponsored Content,Article Sponsorship,Digital,Gampaha,69455,25-34,21932,0.0428,0.76,0.0577,19,271042,1.0,0.5716,0.5292,0.315773,0.6757
+Financial Services,25-34,Colombo Fort,136307,Website Traffic,Print Publication Ad,Magazine Full Page,Print,Colombo,27515,25-34,30287,0.0144,1.12,0.0629,21,108792,0.7953,0.8855,0.5583,1.100745,0.6779
+Entertainment,35-44,Minuwangoda,86751,Event Promotion,Outdoor Static Structure,City Center Billboard,Outdoor,Gampaha,40770,35-44,14347,0.0279,1.33,0.0632,36,45981,1.0,0.7468,0.9413,0.351901,0.7601
+Entertainment,Young Professionals,Bambalapitiya,137108,Event Promotion,Radio Spot,Evening Drive,Audio,Colombo,56806,Young Professionals,77763,0.0263,0.49,0.0617,35,80302,0.9908,0.9048,0.5417,1.368922,0.5783
+Luxury Goods,18-24,Kandana,104662,Lead Generation,Event Sponsorship,Exhibition Booth,Event,Gampaha,136554,18-24,12976,0.0336,0.58,0.0353,31,-31892,0.959,0.5593,0.5308,0.095025,0.5553
+Real Estate,35-44,Mount Lavinia,192199,Event Promotion,Retail & Premises Signage,End Cap Display,Visual,Colombo,148147,35-44,26395,0.0275,1.09,0.0672,23,44052,0.8857,0.9986,0.8388,0.178168,0.6836
+Healthcare,55+,Wattala,279431,Lead Generation,Print Publication Ad,Newspaper Half Page,Print,Gampaha,12203,55+,85302,0.0125,0.77,0.0433,9,267228,0.621,0.6042,0.8264,6.990248,0.5669
+Entertainment,Families,Wattala,180583,Product Launch,Cinema Advertising,Pre-show Ad,Cinema,Gampaha,158500,Families,72031,0.0145,1.13,0.0647,29,22083,1.0,0.6123,0.8145,0.454454,0.7225
+Luxury Goods,25-34,Battaramulla,99399,Sales Conversion,Newsletter Ad,Special Edition,Digital,Colombo,36182,25-34,37996,0.0413,0.87,0.0578,18,63217,1.0,0.9849,0.5219,1.050135,0.7624
+Entertainment,55+,Kollupitiya,39066,Event Promotion,Retail & Premises Signage,End Cap Display,Outdoor,Colombo,76371,55+,38399,0.0126,0.98,0.0299,45,-37305,0.9801,0.8685,0.8293,0.502796,0.4418
+FMCG,45-54,Beruwala,131499,Sales Conversion,Social Media Placement,TikTok Feed,Digital,Kalutara,62518,45-54,195639,0.0272,1.03,0.0547,4,68981,0.954,0.5203,0.8233,3.129323,0.7033
+Healthcare,Young Professionals,Divulapitiya,232796,Brand Awareness,Print Publication Ad,Magazine Spread,Print,Gampaha,15265,Young Professionals,28483,0.0195,0.59,0.0486,37,217531,0.7375,0.6162,0.7536,1.865902,0.5587
+Telecommunications,55+,Kollupitiya,141446,Website Traffic,Radio Spot,Weekend Slot,Audio,Colombo,76544,55+,285481,0.0153,0.37,0.0376,14,64902,0.8121,0.7114,0.5679,3.729633,0.5323
+Retail,18-24,Nugegoda,92163,Customer Retention,Cinema Advertising,Tickets Ad,Cinema,Colombo,152817,18-24,74127,0.0143,0.58,0.0277,29,-60654,0.8892,0.8249,0.9345,0.48507,0.5744
+FMCG,Families,Wellawatte,167112,Event Promotion,Web Display Inventory,Video Ad,Digital,Colombo,26352,Families,128601,0.0254,0.96,0.0697,11,140760,1.0,0.7785,0.8119,4.880123,0.6084
+Financial Services,Young Professionals,Katunayake,57299,Event Promotion,Retail & Premises Signage,Storefront Display,Visual,Gampaha,113327,Young Professionals,17960,0.0282,0.95,0.0497,5,-56028,0.8492,0.8373,0.678,0.158479,0.6208
+Technology,18-24,Kalutara Town,477596,Product Launch,Outdoor Static Structure,City Center Billboard,Outdoor,Kalutara,52607,18-24,27356,0.0194,0.5,0.0468,42,424989,0.8945,0.5578,0.8606,0.520007,0.5971
+Entertainment,45-54,Ja-Ela,134064,Lead Generation,Native / Sponsored Content,Review Sponsorship,Digital,Gampaha,112261,45-54,37629,0.0268,0.98,0.0555,42,21803,1.0,0.8069,0.5535,0.335192,0.5175
+Fashion,25-34,Dehiwala,637970,Product Launch,Print Publication Ad,Newspaper Half Page,Print,Colombo,55412,25-34,131534,0.0147,1.01,0.0798,40,582558,0.809,0.8767,0.5057,2.373746,0.6311
+Technology,35-44,Beruwala,342103,Product Launch,Social Media Placement,LinkedIn Feed,Digital,Kalutara,103607,35-44,182099,0.0349,1.22,0.0514,25,238496,1.0,0.5,0.7568,1.757594,0.6492
+FMCG,45-54,Kadawatha,450483,Brand Awareness,Radio Spot,Prime Time Slot,Audio,Gampaha,42955,45-54,191101,0.0183,0.4,0.0543,27,407528,0.9221,0.5647,0.8066,4.448865,0.6404
+Luxury Goods,Young Professionals,Minuwangoda,290796,Lead Generation,Social Media Placement,TikTok Feed,Digital,Gampaha,51895,Young Professionals,250379,0.0342,1.21,0.0428,23,238901,0.8537,0.7034,0.5733,4.824723,0.7512
+Hospitality,35-44,Battaramulla,137217,Website Traffic,Retail & Premises Signage,Counter Display,Visual,Colombo,74523,35-44,24367,0.0388,1.14,0.0461,7,62694,0.8836,0.9319,0.8223,0.326973,0.828
+Technology,18-24,Battaramulla,393210,Product Launch,Retail & Premises Signage,Storefront Display,Outdoor,Colombo,59988,18-24,4662,0.0271,0.56,0.0236,60,333222,0.8299,0.8924,0.8025,0.077716,0.7646
+E-commerce,25-34,Kollupitiya,733108,Product Launch,Cinema Advertising,Tickets Ad,Cinema,Colombo,78827,25-34,62986,0.0286,0.89,0.0692,71,654281,0.806,0.7497,0.6957,0.799041,0.5525
+Real Estate,55+,Bandaragama,195114,App Downloads,Vehicle Wrap Media,Bus Wrap,Visual,Kalutara,113140,55+,28936,0.0176,0.5,0.0358,53,81974,0.8135,0.3879,0.8114,0.255754,0.5652
+Travel & Tourism,All Ages,Ja-Ela,161802,App Downloads,Digital Out-of-Home Screen,Train Station Screen,Digital,Gampaha,85400,All Ages,110595,0.0488,0.66,0.0431,33,76402,1.0,0.5676,0.9495,1.295023,0.7741
+Technology,Young Professionals,Katunayake,52684,Sales Conversion,Print Publication Ad,Magazine Full Page,Print,Gampaha,46006,Young Professionals,54462,0.0178,0.7,0.0618,28,6678,0.7946,0.8122,0.6657,1.183802,0.5014
+Travel & Tourism,55+,Panadura,272544,Product Launch,Radio Spot,Morning Drive,Audio,Kalutara,51673,55+,130918,0.0156,0.61,0.0387,14,220871,1.0,0.6004,0.7319,2.533586,0.6689
+FMCG,25-34,Dehiwala,197795,Customer Retention,Social Media Placement,LinkedIn Feed,Digital,Colombo,27277,25-34,104420,0.0339,1.18,0.0456,18,170518,0.9072,0.9101,0.9492,3.828134,0.7297
+Hospitality,18-24,Nugegoda,135720,App Downloads,Vehicle Wrap Media,Truck Wrap,Outdoor,Colombo,31887,18-24,33276,0.0206,0.57,0.0269,48,103833,0.967,0.8575,0.6281,1.04356,0.6174
+Healthcare,45-54,Dodangoda,156661,App Downloads,Retail & Premises Signage,End Cap Display,Visual,Kalutara,179138,45-54,10668,0.0297,0.81,0.0374,21,-22477,0.8763,0.657,0.7388,0.059552,0.5458
+Luxury Goods,45-54,Kalutara Town,171700,Event Promotion,Newsletter Ad,Special Edition,Digital,Kalutara,25754,45-54,44623,0.0269,1.17,0.0382,22,145946,0.9051,0.4455,0.668,1.732663,0.6378
+Education,Young Professionals,Battaramulla,220429,Customer Retention,Event Sponsorship,Title Sponsor,Event,Colombo,393581,Young Professionals,11344,0.0417,0.65,0.049,8,-173152,0.8768,0.905,0.7179,0.028823,0.5968
+FMCG,18-24,Mount Lavinia,75677,Website Traffic,Event Sponsorship,Session Sponsor,Event,Colombo,140392,18-24,6745,0.0319,0.58,0.0285,5,-64715,0.9695,0.9,0.743,0.048044,0.5465
+Healthcare,35-44,Ja-Ela,152367,Customer Retention,Web Display Inventory,Video Ad,Digital,Gampaha,9617,35-44,131557,0.0286,1.03,0.047,11,142750,1.0,0.5443,0.5239,13.67963,0.5614
+FMCG,25-34,Minuwangoda,169786,Brand Awareness,TV Spot,Weekend,Audio,Gampaha,271397,25-34,411945,0.0298,1.31,0.0567,28,-101611,0.678,0.6587,0.9003,1.517869,0.6438
+Travel & Tourism,35-44,Nugegoda,90916,Event Promotion,Radio Spot,Prime Time Slot,Audio,Colombo,108269,35-44,291216,0.0225,0.69,0.0467,49,-17353,0.8499,0.8115,0.6775,2.689745,0.4984
+Real Estate,18-24,Maradana,188310,App Downloads,Outdoor Static Structure,Street Pole Banner,Digital,Colombo,100086,18-24,72249,0.0174,0.3,0.0405,5,88224,0.9778,0.7053,0.7487,0.721869,0.5004
+Retail,45-54,Kadawatha,117954,Lead Generation,Outdoor Static Structure,Transit Shelter,Outdoor,Gampaha,143463,45-54,39305,0.0152,0.79,0.0549,60,-25509,0.9475,0.709,0.6114,0.273973,0.5164
+FMCG,Students,Bandaragama,111924,Brand Awareness,TV Spot,Weekend,Audio,Kalutara,332768,Students,211306,0.0251,0.33,0.0348,62,-220844,0.8972,0.4994,0.6785,0.634995,0.5043
+Healthcare,55+,Wellawatte,236409,Customer Retention,Print Publication Ad,Magazine Full Page,Digital,Colombo,97124,55+,286471,0.0089,0.94,0.0305,23,139285,0.9985,0.7676,0.5977,2.949539,0.6405
+Food & Beverage,35-44,Bambalapitiya,333597,Product Launch,Web Display Inventory,Banner Ad,Digital,Colombo,14906,35-44,202181,0.0256,1.41,0.0766,33,318691,0.8562,0.8229,0.9064,13.563733,0.7625
+Hospitality,55+,Divulapitiya,205085,Sales Conversion,Radio Spot,Prime Time Slot,Audio,Gampaha,74230,55+,89421,0.0136,0.73,0.0511,9,130855,0.8506,0.8237,0.6113,1.204648,0.5211
+Entertainment,25-34,Ja-Ela,308973,Lead Generation,Social Media Placement,Instagram Story,Digital,Gampaha,80270,25-34,197070,0.0346,0.6,0.0718,31,228703,0.8347,0.7813,0.9334,2.455089,0.5812
+Food & Beverage,18-24,Colombo Fort,245131,Brand Awareness,Digital Out-of-Home Screen,Airport Digital Display,Digital,Colombo,80612,18-24,142156,0.021,0.53,0.0338,14,164519,1.0,0.9656,0.681,1.76346,0.5652
+FMCG,55+,Pettah,78204,App Downloads,Social Media Placement,TikTok Feed,Digital,Colombo,87414,55+,123893,0.0237,0.87,0.0557,16,-9210,0.8297,0.8136,0.8117,1.417313,0.693
+Healthcare,Students,Divulapitiya,110206,Lead Generation,Digital Out-of-Home Screen,Airport Digital Display,Outdoor,Gampaha,193784,Students,44922,0.0536,0.46,0.0315,32,-83578,0.8608,0.7184,0.8131,0.231815,0.7046
+FMCG,Young Professionals,Mahabage,607976,Product Launch,Vehicle Wrap Media,Three-Wheeler Wrap,Outdoor,Gampaha,52250,Young Professionals,64245,0.0323,0.86,0.0707,24,555726,0.8201,0.649,0.8554,1.229569,0.8061
+Automotive,45-54,Wellawatte,294666,Sales Conversion,Outdoor Static Structure,Highway Billboard,Outdoor,Colombo,170058,45-54,65485,0.0164,0.89,0.054,28,124608,1.0,0.9271,0.6022,0.385075,0.7999
+Real Estate,55+,Wellawatte,183933,App Downloads,Native / Sponsored Content,Featured Content,Digital,Colombo,70723,55+,98902,0.0189,0.5,0.0472,19,113210,0.8158,0.7066,0.5985,1.398442,0.6021
+Food & Beverage,45-54,Dehiwala,425092,Brand Awareness,Outdoor Static Structure,City Center Billboard,Outdoor,Colombo,108047,45-54,47002,0.0176,1.14,0.0483,18,317045,1.0,0.7914,0.7932,0.435014,0.7041
+Entertainment,Affluent,Kandana,397632,Brand Awareness,TV Spot,Weekend,Audio,Gampaha,114450,Affluent,281686,0.0338,1.34,0.0865,38,283182,0.9787,0.6027,0.7878,2.461215,0.876
+Food & Beverage,35-44,Minuwangoda,125914,Website Traffic,Print Publication Ad,Magazine Spread,Digital,Gampaha,24749,35-44,63441,0.0125,1.15,0.0687,41,101165,0.9161,0.5702,0.5071,2.563376,0.4326
+Fashion,18-24,Wattala,335659,Lead Generation,Retail & Premises Signage,In-Store Digital,Outdoor,Gampaha,21214,18-24,22578,0.0213,0.63,0.0381,40,314445,0.9941,0.8096,0.8453,1.064297,0.8157
+Entertainment,45-54,Beruwala,190374,Customer Retention,Cinema Advertising,Lobby Display,Cinema,Kalutara,106671,45-54,24762,0.0172,0.93,0.0452,49,83703,1.0,0.3743,0.8129,0.232134,0.7292
+FMCG,35-44,Colombo Fort,432748,Brand Awareness,Outdoor Static Structure,Building Wrap,Outdoor,Colombo,158130,35-44,83763,0.0221,1.11,0.0687,56,274618,1.0,0.9535,0.5372,0.52971,0.6092
+Luxury Goods,Affluent,Wattala,76413,Website Traffic,Outdoor Static Structure,Transit Shelter,Digital,Gampaha,154526,Affluent,23063,0.0282,1.25,0.0539,44,-78113,0.762,0.659,0.8632,0.14925,0.5423
+Travel & Tourism,18-24,Minuwangoda,491072,Brand Awareness,Print Publication Ad,Magazine Spread,Print,Gampaha,39335,18-24,49151,0.0142,0.46,0.0399,18,451737,0.9803,0.686,0.5647,1.249549,0.6588
+Healthcare,Young Professionals,Katunayake,79604,Website Traffic,Newsletter Ad,Promotional Email,Digital,Gampaha,10853,Young Professionals,58238,0.0491,1.08,0.038,27,68751,0.7241,0.5772,0.5213,5.366074,0.6408
+Entertainment,45-54,Ja-Ela,51853,Website Traffic,Retail & Premises Signage,In-Store Digital,Visual,Gampaha,190967,45-54,20132,0.0207,1.12,0.0538,25,-139114,0.9519,0.7583,0.6473,0.105421,0.6342
+Education,25-34,Maradana,130387,Website Traffic,Retail & Premises Signage,In-Store Digital,Visual,Colombo,57764,25-34,13551,0.0244,0.84,0.0817,21,72623,0.8758,0.7664,0.8143,0.234592,0.7157
+Education,35-44,Battaramulla,177606,Sales Conversion,Social Media Placement,Facebook Feed,Digital,Colombo,99067,35-44,100893,0.0333,0.8,0.0621,8,78539,0.9083,0.8214,0.8702,1.018432,0.662
+FMCG,Families,Kalutara Town,57621,Website Traffic,Retail & Premises Signage,Window Display,Outdoor,Kalutara,113912,Families,11709,0.0294,0.99,0.0619,37,-56291,0.8375,0.3896,0.8004,0.10279,0.6706
+Fashion,Young Professionals,Gampaha Town,66231,Customer Retention,Event Sponsorship,Exhibition Booth,Event,Gampaha,421597,Young Professionals,28255,0.0764,0.86,0.0674,39,-355366,0.6418,0.6345,0.5613,0.067019,0.6276
+Financial Services,35-44,Mathugama,300311,Brand Awareness,TV Spot,Prime Time,Audio,Kalutara,191814,35-44,97874,0.0154,0.78,0.0628,15,108497,0.9829,0.5672,0.7121,0.510255,0.6822
+Fashion,25-34,Bandaragama,130211,App Downloads,Outdoor Static Structure,Street Pole Banner,Outdoor,Kalutara,66028,25-34,26580,0.0235,1.24,0.0458,10,64183,0.9663,0.4132,0.6576,0.402556,0.686
+Financial Services,35-44,Beruwala,200372,Sales Conversion,Event Sponsorship,Presenting Sponsor,Event,Kalutara,342735,35-44,6722,0.0473,1.05,0.0552,6,-142363,0.8642,0.4665,0.8555,0.019613,0.592
+Financial Services,35-44,Wattala,132755,Website Traffic,Print Publication Ad,Magazine Spread,Print,Gampaha,31778,35-44,42396,0.0131,1.2,0.0481,57,100977,0.964,0.5162,0.6542,1.334131,0.5542
+Travel & Tourism,Families,Katunayake,359462,Product Launch,Print Publication Ad,Magazine Full Page,Print,Gampaha,47744,Families,27701,0.0121,1.3,0.0562,12,311718,0.878,0.7524,0.6618,0.580199,0.7249
+Telecommunications,25-34,Kollupitiya,198208,App Downloads,TV Spot,Sports Program,Audio,Colombo,285026,25-34,885541,0.023,0.94,0.0758,5,-86818,1.0,0.816,0.757,3.106878,0.4496
+Food & Beverage,All Ages,Kadawatha,54595,Website Traffic,Retail & Premises Signage,Window Display,Visual,Gampaha,58910,All Ages,21690,0.0291,1.07,0.0501,44,-4315,0.8981,0.6903,0.6737,0.368189,0.6576
+Travel & Tourism,Affluent,Kollupitiya,188069,Product Launch,Print Publication Ad,Newspaper Full Page,Digital,Colombo,78489,Affluent,275435,0.0163,1.48,0.0747,26,109580,0.978,0.9373,0.6415,3.509218,0.703
+Luxury Goods,All Ages,Nugegoda,157772,Event Promotion,Outdoor Static Structure,Building Wrap,Digital,Colombo,230130,All Ages,110740,0.0226,0.87,0.0549,18,-72358,1.0,0.9853,0.5472,0.481206,0.6701
+E-commerce,Young Professionals,Maradana,253741,Lead Generation,Outdoor Static Structure,Highway Billboard,Digital,Colombo,33050,Young Professionals,47965,0.036,1.0,0.0633,50,220691,0.7629,0.9925,0.7754,1.451286,0.8195
+E-commerce,45-54,Panadura,99214,Customer Retention,Digital Out-of-Home Screen,Digital Billboard,Digital,Kalutara,238352,45-54,23468,0.0299,1.36,0.0436,29,-139138,0.9168,0.5114,0.6647,0.098459,0.6314
+Food & Beverage,Families,Negombo,138769,Website Traffic,Outdoor Static Structure,City Center Billboard,Digital,Gampaha,123754,Families,33376,0.0177,1.29,0.0509,51,15015,1.0,0.7136,0.7587,0.269696,0.5865
+Retail,45-54,Minuwangoda,157815,Product Launch,Vehicle Wrap Media,Van Wrap,Visual,Gampaha,189605,45-54,13558,0.0147,0.96,0.0377,11,-31790,0.8657,0.6791,0.8431,0.071507,0.7379
+Entertainment,25-34,Dehiwala,595242,Product Launch,Digital Out-of-Home Screen,Digital Billboard,Outdoor,Colombo,135404,25-34,44330,0.0441,0.34,0.0636,49,459838,0.8973,0.9068,0.6768,0.327391,0.719
+Education,Families,Colombo Fort,306684,Lead Generation,Native / Sponsored Content,Sponsored Video,Digital,Colombo,74274,Families,99272,0.0395,0.75,0.043,32,232410,1.0,0.8034,0.8207,1.336565,0.7356
+E-commerce,25-34,Divulapitiya,122206,Sales Conversion,Outdoor Static Structure,Transit Shelter,Outdoor,Gampaha,67333,25-34,6956,0.0176,0.9,0.0632,40,54873,0.864,0.5036,0.813,0.103307,0.738
+Education,35-44,Negombo,233160,Product Launch,Vehicle Wrap Media,Van Wrap,Visual,Gampaha,204043,35-44,90332,0.0314,0.97,0.0582,26,29117,0.9568,0.6829,0.803,0.442711,0.7122
